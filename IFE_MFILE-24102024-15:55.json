@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "24/10/2024",
+        "time": "15:55",
+        "title": "IFE_MFILE",
+        "commit_message": "Track IFE regression test ",
+        "commit_hash": "3486a19dd38d54139ce761020528028e5510afee"
+    },
+    "tracking": {
+        "powfmw": 2012.3469291391941,
+        "concost": 4132.621741733694,
+        "wallmw": 8.899390949196592,
+        "pgrossmw": 1141.0007088219231,
+        "pnetelmw": 999.9215827777995,
+        "cdirt": 2593.3714823724613,
+        "pnucblkt": 1927.0234193436922,
+        "divlife": 0.0
+    }
+}
