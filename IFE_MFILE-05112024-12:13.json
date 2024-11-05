@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "05/11/2024",
+        "time": "12:13",
+        "title": "IFE_MFILE",
+        "commit_message": "Remove developer group from docs Covered in CITATION.cff and README.md. ",
+        "commit_hash": "538f1ff213edb6dd717d2d027830c3fe698d47c9"
+    },
+    "tracking": {
+        "cdirt": 2593.3714823724613,
+        "divlife": 0.0,
+        "pnetelmw": 999.9215827777995,
+        "concost": 4132.621741733694,
+        "powfmw": 2012.3469291391941,
+        "wallmw": 8.899390949196592,
+        "pgrossmw": 1141.0007088219231,
+        "pnucblkt": 1927.0234193436922
+    }
+}
