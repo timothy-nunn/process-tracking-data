@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "10:02",
+        "date": "06/11/2024",
+        "title": "IFE_MFILE",
+        "commit_message": "allow process version to be printed to terminal \\(#3379\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp allow process version to be printed to $'terminal\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp add version monkeypatch to test_run_mode ",
+        "commit_hash": "2d25326ec8b1e07711cb065b045a95f86e13eb23"
+    },
+    "tracking": {
+        "cdirt": 2593.3714823724613,
+        "divlife": 0.0,
+        "pnucblkt": 1927.0234193436922,
+        "pnetelmw": 999.9215827777995,
+        "concost": 4132.621741733694,
+        "pgrossmw": 1141.0007088219231,
+        "wallmw": 8.899390949196592,
+        "powfmw": 2012.3469291391941
+    }
+}
