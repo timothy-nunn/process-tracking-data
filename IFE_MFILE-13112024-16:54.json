@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "16:54",
+        "date": "13/11/2024",
+        "title": "IFE_MFILE",
+        "commit_message": "Convert sctfcoil_nuclear_heating_iter90 to Python \\(#3376\\) ",
+        "commit_hash": "d9801ca3ca62a271ba22b91b602f7eafdc9b1cfe"
+    },
+    "tracking": {
+        "cdirt": 2593.361309881262,
+        "fusion_power": 2012.3469291391941,
+        "pgrossmw": 1141.0007088219231,
+        "wallmw": 8.899390949196592,
+        "pnucblkt": 1927.0234193436922,
+        "concost": 4132.605531538362,
+        "divlife": 0.0,
+        "pnetelmw": 999.9215827777995
+    }
+}
