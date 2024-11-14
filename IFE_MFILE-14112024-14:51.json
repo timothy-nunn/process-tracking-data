@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "14/11/2024",
+        "time": "14:51",
+        "title": "IFE_MFILE",
+        "commit_message": "Install development dependencies in tracking input runner \\(#3399\\) ",
+        "commit_hash": "93bbe4bfcd3c589861a94577264bdd3182a2cda2"
+    },
+    "tracking": {
+        "cdirt": 2593.361309881262,
+        "wallmw": 8.899390949196592,
+        "fusion_power": 2012.3469291391941,
+        "divlife": 0.0,
+        "concost": 4132.605531538362,
+        "pnucblkt": 1927.0234193436922,
+        "pnetelmw": 999.9215827777995,
+        "pgrossmw": 1141.0007088219231
+    }
+}
