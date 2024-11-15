@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "11:46",
+        "date": "15/11/2024",
+        "title": "IFE_MFILE",
+        "commit_message": "Updated Publication List \\(#3403\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp Added STEP RS papers to $'publications.md\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp Update publications.md ",
+        "commit_hash": "181627a5665efe618feedb7afa79347c194fa99a"
+    },
+    "tracking": {
+        "pnucblkt": 1927.0234193436922,
+        "divlife": 0.0,
+        "fusion_power": 2012.3469291391941,
+        "wallmw": 8.899390949196592,
+        "cdirt": 2593.361309881262,
+        "concost": 4132.605531538362,
+        "pnetelmw": 999.9215827777995,
+        "pgrossmw": 1141.0007088219231
+    }
+}
