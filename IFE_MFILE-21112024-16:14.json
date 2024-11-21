@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "21/11/2024",
+        "time": "16:14",
+        "title": "IFE_MFILE",
+        "commit_message": "Add L-H threshold comparison plot and improve bootstrap comparison la\u2026 \\(#3405\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp Add L-H threshold comparison plot and improve bootstrap comparison labels. Make plot_radial_build only shows values to $'3dp\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp Update documentation for PROCESS PDF summary and enhance figure caption for clarity ",
+        "commit_hash": "73d1488bf10951356896cdb3bc4d5a4db1e23684"
+    },
+    "tracking": {
+        "pnetelmw": 999.9215827777995,
+        "wallmw": 8.899390949196592,
+        "divlife": 0.0,
+        "pgrossmw": 1141.0007088219231,
+        "concost": 4132.605531538362,
+        "fusion_power": 2012.3469291391941,
+        "cdirt": 2593.361309881262,
+        "pnucblkt": 1927.0234193436922
+    }
+}
