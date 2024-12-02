@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "02/12/2024",
+        "time": "09:49",
+        "title": "IFE_MFILE",
+        "commit_message": "Convert fw.f90 to Python \\(#3387\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp Convert friction and heat_transfer to $'Python\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp Convert fw_thermal_conductivity to Python ",
+        "commit_hash": "f503057793e4720ea22ced501f2d89ce82d5ca5b"
+    },
+    "tracking": {
+        "wallmw": 8.899390949196592,
+        "cdirt": 2593.361309881262,
+        "divlife": 0.0,
+        "fusion_power": 2012.3469291391941,
+        "concost": 4132.605531538362,
+        "pnetelmw": 999.9215827777995,
+        "pgrossmw": 1141.0007088219231,
+        "pnucblkt": 1927.0234193436922
+    }
+}
