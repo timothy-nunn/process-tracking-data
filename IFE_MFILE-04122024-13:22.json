@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "13:22",
+        "date": "04/12/2024",
+        "title": "IFE_MFILE",
+        "commit_message": "3350 tool to automatically convert obsolete variables from input file \\(#3397\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp added command to update obsolete variables in $'IN.DAT\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp Updated with default for $'update_obsolete\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp Updated to print out the changes in the $'terminal\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp added update_obsolete to $'namespace\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp Updated argument name. Updated init for singlerun to use keyword argument. Modified parsing to find variables with spacing around equals. Added error for when there is a list of replacements ",
+        "commit_hash": "2be48a8a8e4093047bdb29ee122f5e57cf7dd97d"
+    },
+    "tracking": {
+        "pnetelmw": 999.9215827777995,
+        "pnucblkt": 1927.0234193436922,
+        "cdirt": 2593.361309881262,
+        "divlife": 0.0,
+        "wallmw": 8.899390949196592,
+        "fusion_power": 2012.3469291391941,
+        "pgrossmw": 1141.0007088219231,
+        "concost": 4132.605531538362
+    }
+}
