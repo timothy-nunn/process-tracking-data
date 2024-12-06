@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "06/12/2024",
+        "time": "13:43",
+        "title": "IFE_MFILE",
+        "commit_message": "3258 add divertor and fwblanket lifetimes to st availability model \\(#3414\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp Added divertor and blanket lifetimes to $'avail_st\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp Updated $'docs\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp Enhance documentation for avail_st method in $'availability.py\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp Changed methods to static $'methods\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp Fixed outdated $'variable\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp Fixed another variable $'name\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp More variable $'fixes\\r' $'\\r' $'---------\\r' $'\\r' Co-authored-by: mn3981 \\<christopher.ashe@ukaea.uk\\> ",
+        "commit_hash": "0da864051aabf8ecf81651ba05a43de3f2d613a5"
+    },
+    "tracking": {
+        "pgrossmw": 1141.0007088219231,
+        "concost": 4132.605531538362,
+        "wallmw": 8.899390949196592,
+        "cdirt": 2593.361309881262,
+        "divlife": 0.0,
+        "pnetelmw": 999.9215827777995,
+        "fusion_power": 2012.3469291391941,
+        "pnucblkt": 1927.0234193436922
+    }
+}
