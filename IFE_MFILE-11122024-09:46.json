@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "11/12/2024",
+        "time": "09:46",
+        "title": "IFE_MFILE",
+        "commit_message": "Convert final_module to Python \\(#3398\\) ",
+        "commit_hash": "64645d0ca3e5d05d334a7bae496713ff262ad1dd"
+    },
+    "tracking": {
+        "fusion_power": 2012.3469291391941,
+        "concost": 4132.605531538362,
+        "divlife": 0.0,
+        "wallmw": 8.899390949196592,
+        "pnucblkt": 1927.0234193436922,
+        "pgrossmw": 1141.0007088219231,
+        "cdirt": 2593.361309881262,
+        "pnetelmw": 999.9215827777995
+    }
+}
