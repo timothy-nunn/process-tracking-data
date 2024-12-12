@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "16:48",
+        "date": "12/12/2024",
+        "title": "IFE_MFILE",
+        "commit_message": "Use Bokeh 3.x interface in tracking scripts \\(#3419\\) ",
+        "commit_hash": "7c8df7d5ee61052b26dab2f89d1ee999cd7fe1eb"
+    },
+    "tracking": {
+        "fusion_power": 2012.3469291391941,
+        "divlife": 0.0,
+        "wallmw": 8.899390949196592,
+        "concost": 4132.605531538362,
+        "pnetelmw": 999.9215827777995,
+        "cdirt": 2593.361309881262,
+        "pnucblkt": 1927.0234193436922,
+        "pgrossmw": 1141.0007088219231
+    }
+}
