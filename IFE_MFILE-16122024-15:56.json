@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "16/12/2024",
+        "time": "15:56",
+        "title": "IFE_MFILE",
+        "commit_message": "Add check of incorrect PF coil position if no CS coil \\(#3396\\) Co-authored-by: apearce \\<alexaner.pearce@ukaea.uk\\> ",
+        "commit_hash": "7cc642bb595725b1cd2ef3d525e5e47dc0b63b4a"
+    },
+    "tracking": {
+        "pgrossmw": 1141.0007088219231,
+        "pnucblkt": 1927.0234193436922,
+        "wallmw": 8.899390949196592,
+        "fusion_power": 2012.3469291391941,
+        "cdirt": 2593.361309881262,
+        "concost": 4132.605531538362,
+        "divlife": 0.0,
+        "pnetelmw": 999.9215827777995
+    }
+}
