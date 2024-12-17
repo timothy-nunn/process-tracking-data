@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "17/12/2024",
+        "time": "11:03",
+        "title": "IFE_MFILE",
+        "commit_message": "3139 remove calculations from plot procpy \\(#3415\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp :bug: Prevent import errors for secondary fixed heating when using $'NBI\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp :bug: Fix indentation in color_key function for proper text and patch $'rendering\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp :fire: Remove angle_check\\(\\) as not $'used\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp :fire: Remove unused synchrotron_rad function and related comments ",
+        "commit_hash": "f834c697fc7447bb67019bfbc36fdb799c95953f"
+    },
+    "tracking": {
+        "pnucblkt": 1927.0234193436922,
+        "fusion_power": 2012.3469291391941,
+        "pnetelmw": 999.9215827777995,
+        "concost": 4132.605531538362,
+        "pgrossmw": 1141.0007088219231,
+        "cdirt": 2593.361309881262,
+        "wallmw": 8.899390949196592,
+        "divlife": 0.0
+    }
+}
