@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "02/01/2025",
+        "time": "12:15",
+        "title": "IFE_MFILE",
+        "commit_message": "Remove test_solver \\(#3423\\) ",
+        "commit_hash": "bc0dc68541cf21f7c972306d066d011f0b6edc07"
+    },
+    "tracking": {
+        "pnetelmw": 999.9215827777995,
+        "pnucblkt": 1927.0234193436922,
+        "concost": 4132.605531538362,
+        "fusion_power": 2012.3469291391941,
+        "wallmw": 8.899390949196592,
+        "pgrossmw": 1141.0007088219231,
+        "cdirt": 2593.361309881262,
+        "divlife": 0.0
+    }
+}
