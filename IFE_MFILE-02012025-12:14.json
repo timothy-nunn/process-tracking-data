@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "02/01/2025",
+        "time": "12:14",
+        "title": "IFE_MFILE",
+        "commit_message": "Add version disclaimer to README \\(#3436\\) ",
+        "commit_hash": "668af9e4b3e8b37b9326c81135df6f12d546aa43"
+    },
+    "tracking": {
+        "pgrossmw": 1141.0007088219231,
+        "wallmw": 8.899390949196592,
+        "pnucblkt": 1927.0234193436922,
+        "cdirt": 2593.361309881262,
+        "divlife": 0.0,
+        "pnetelmw": 999.9215827777995,
+        "concost": 4132.605531538362,
+        "fusion_power": 2012.3469291391941
+    }
+}
