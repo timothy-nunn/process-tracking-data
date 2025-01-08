@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "15:08",
+        "date": "08/01/2025",
+        "title": "IFE_MFILE",
+        "commit_message": "Add inductive plasma heating doc section \\(#3456\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp :memo: Update mkdocs.yml to restructure Inductive Current section and add Plasma Resistive $'Heating\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp \ud83d\udd04 Rename pohm to plasma_ohmic_heating in documentation and code for $'clarity\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp :memo: Update mkdocs.yml and enhance plasma_ohmic_heating function $'documentation\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp \ud83d\udd04 Rename pohm to p_plasma_ohmic_mw for clarity and consistency across the $'codebase\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp \ud83d\udd04 Rename pohmpv to pden_plasma_ohmic_mw for clarity and consistency in the $'codebase\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp \ud83d\udd04 Rename rplas to res_plasma for clarity and consistency across the $'codebase\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp :memo: Enhance documentation for resistive plasma heating and clarify references to ITER Physics Design $'Guidelines\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt scripts setup.py source tests tracking valgrind-python.supp \ud83d\udd04 Correct formula notation for plasma resistive heating in documentation ",
+        "commit_hash": "b2d5938cb12c44f14bc5b9127af3f219cf9d136f"
+    },
+    "tracking": {
+        "divlife": 0.0,
+        "pgrossmw": 1141.0007088219231,
+        "pnucblkt": 1927.0234193436922,
+        "fusion_power": 2012.3469291391941,
+        "concost": 4132.605531538362,
+        "pnetelmw": 999.9215827777995,
+        "wallmw": 8.899390949196592,
+        "cdirt": 2593.361309881262
+    }
+}
