@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "14:22",
+        "date": "08/01/2025",
+        "title": "IFE_MFILE",
+        "commit_message": "\ud83d\udc1b fix miss labelled cs coil currents \\(#3381\\) Co-authored-by: apearce \\<alexaner.pearce@ukaea.uk\\> ",
+        "commit_hash": "4fa879785717a25f19775c5d4459cdadf1f26efb"
+    },
+    "tracking": {
+        "pgrossmw": 1141.0007088219231,
+        "pnetelmw": 999.9215827777995,
+        "wallmw": 8.899390949196592,
+        "fusion_power": 2012.3469291391941,
+        "divlife": 0.0,
+        "concost": 4132.605531538362,
+        "cdirt": 2593.361309881262,
+        "pnucblkt": 1927.0234193436922
+    }
+}
