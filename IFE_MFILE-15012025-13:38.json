@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "15/01/2025",
+        "time": "13:38",
+        "title": "IFE_MFILE",
+        "commit_message": "add ruff rule ICN \\(#3469\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp add ruff rule $'ICN\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp rename np $'variable\\r' $'\\r' $'---------\\r' $'\\r' Co-authored-by: Georgina Graham \\<georgina.graham@ukaea.uk\\> ",
+        "commit_hash": "f208c63a3cf8e21e6ca668bad21817311bf461ea"
+    },
+    "tracking": {
+        "divlife": 0.0,
+        "pgrossmw": 1141.0007088219231,
+        "pnetelmw": 999.9215827777995,
+        "fusion_power": 2012.3469291391941,
+        "wallmw": 8.899390949196592,
+        "pnucblkt": 1927.0234193436922,
+        "cdirt": 2593.361309881262,
+        "concost": 4132.605531538362
+    }
+}
