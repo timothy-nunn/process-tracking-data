@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "14:52",
+        "date": "16/01/2025",
+        "title": "IFE_MFILE",
+        "commit_message": "Apply C4 rule to ruff \\(#3471\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Refactor code to use empty braces instead of list\\(\\) for initialization and update dictionary creation syntax for $'clarity\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Update test data for inboard first wall scenario in blanket library $'tests\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Add comments for clarity in stellarator configuration $'parameters\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Convert objective function set to list for consistent $'plotting\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Enable C4 rule in Ruff configuration ",
+        "commit_hash": "c89324c2101d159d6206d47a85844dad6372f743"
+    },
+    "tracking": {
+        "cdirt": 2593.361309881262,
+        "pnetelmw": 999.9215827777995,
+        "pgrossmw": 1141.0007088219231,
+        "wallmw": 8.899390949196592,
+        "fusion_power": 2012.3469291391941,
+        "concost": 4132.605531538362,
+        "pnucblkt": 1927.0234193436922,
+        "divlife": 0.0
+    }
+}
