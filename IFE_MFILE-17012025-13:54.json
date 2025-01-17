@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "17/01/2025",
+        "time": "13:54",
+        "title": "IFE_MFILE",
+        "commit_message": "Apply FURB ruff rules \\(#3474\\) ",
+        "commit_hash": "197f7adcba29c5c314cfac0fbdafcc1c31dab977"
+    },
+    "tracking": {
+        "pgrossmw": 1141.0007088219231,
+        "pnucblkt": 1927.0234193436922,
+        "wallmw": 8.899390949196592,
+        "fusion_power": 2012.3469291391941,
+        "pnetelmw": 999.9215827777995,
+        "cdirt": 2593.361309881262,
+        "concost": 4132.605531538362,
+        "divlife": 0.0
+    }
+}
