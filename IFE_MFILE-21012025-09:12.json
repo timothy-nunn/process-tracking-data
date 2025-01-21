@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "21/01/2025",
+        "time": "09:12",
+        "title": "IFE_MFILE",
+        "commit_message": "Enable \\\"G\\\" rule in ruff \\(#3486\\) ",
+        "commit_hash": "d3135bdb8db25a1d3bc95f3ee0889e8bf541a71b"
+    },
+    "tracking": {
+        "divlife": 0.0,
+        "concost": 4132.605531538362,
+        "pgrossmw": 1141.0007088219231,
+        "cdirt": 2593.361309881262,
+        "wallmw": 8.899390949196592,
+        "fusion_power": 2012.3469291391941,
+        "pnucblkt": 1927.0234193436922,
+        "pnetelmw": 999.9215827777995
+    }
+}
