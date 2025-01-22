@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "22/01/2025",
+        "time": "10:18",
+        "title": "IFE_MFILE",
+        "commit_message": "Enabel \\`SIM\\` rule in ruff \\(#3477\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \ud83d\udea8 ruff SIM $'fixes\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \ud83e\udd21 remember to update $'ruff.toml\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \ud83d\udea8 fix SIM $'rules\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \u2705 fix integration $'test\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \u2705 fix get_attribute $'error\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \ud83d\udea8 fix errors after $'rebase\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \ud83d\udea8 fix additonal ruff $'checks\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Fix ruff rules $'toml\\r' $'\\r' $'---------\\r' $'\\r' Co-authored-by: apearce \\<alexaner.pearce@ukaea.uk\\> ",
+        "commit_hash": "72a141ce163d17b48794bda6fa8bba7ff9a2655d"
+    },
+    "tracking": {
+        "divlife": 0.0,
+        "fusion_power": 2012.3469291391941,
+        "concost": 4132.605531538362,
+        "pgrossmw": 1141.0007088219231,
+        "cdirt": 2593.361309881262,
+        "wallmw": 8.899390949196592,
+        "pnucblkt": 1927.0234193436922,
+        "pnetelmw": 999.9215827777995
+    }
+}
