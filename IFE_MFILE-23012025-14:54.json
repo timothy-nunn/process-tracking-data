@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "14:54",
+        "date": "23/01/2025",
+        "title": "IFE_MFILE",
+        "commit_message": "Updated gcc install instructions to load from module \\(#3497\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Updated gcc install instructions to load from module CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Removed comma ",
+        "commit_hash": "04b487ed5e58f83d8089e0cadeb96aa353957bff"
+    },
+    "tracking": {
+        "pnetelmw": 999.9215827777995,
+        "cdirt": 2593.361309881262,
+        "divlife": 0.0,
+        "fusion_power": 2012.3469291391941,
+        "wallmw": 8.899390949196592,
+        "concost": 4132.605531538362,
+        "pnucblkt": 1927.0234193436922,
+        "pgrossmw": 1141.0007088219231
+    }
+}
