@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "27/01/2025",
+        "time": "09:50",
+        "title": "IFE_MFILE",
+        "commit_message": "Ruff \\`ISC\\` rule \\(#3504\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp sort and add $'ISC\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp cleanup $'strings\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp remove unneeded if $'statement\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp cleanup code slightly ",
+        "commit_hash": "52d94e2327196cf6e1a6a67ed38e0f06b7a46f0a"
+    },
+    "tracking": {
+        "fusion_power": 2012.3469291391941,
+        "wallmw": 8.899390949196592,
+        "cdirt": 2593.361309881262,
+        "concost": 4132.605531538362,
+        "divlife": 0.0,
+        "pgrossmw": 1141.0007088219231,
+        "pnucblkt": 1927.0234193436922,
+        "pnetelmw": 999.9215827777995
+    }
+}
