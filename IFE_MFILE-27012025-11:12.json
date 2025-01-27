@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "11:12",
+        "date": "27/01/2025",
+        "title": "IFE_MFILE",
+        "commit_message": "Upgrade ruff to v0.9.3 \\(#3507\\) ",
+        "commit_hash": "155185ac35182cb344f6b7421f40160eb49412b9"
+    },
+    "tracking": {
+        "pgrossmw": 1141.0007088219231,
+        "pnucblkt": 1927.0234193436922,
+        "concost": 4132.605531538362,
+        "cdirt": 2593.361309881262,
+        "pnetelmw": 999.9215827777995,
+        "fusion_power": 2012.3469291391941,
+        "wallmw": 8.899390949196592,
+        "divlife": 0.0
+    }
+}
