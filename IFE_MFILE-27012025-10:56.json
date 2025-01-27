@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "27/01/2025",
+        "time": "10:56",
+        "title": "IFE_MFILE",
+        "commit_message": "Refactor fast ion pressure integral function and update references \\(#3506\\) ",
+        "commit_hash": "28416a9316bb96ddaabba597e1f51a715c056944"
+    },
+    "tracking": {
+        "pgrossmw": 1141.0007088219231,
+        "pnetelmw": 999.9215827777995,
+        "divlife": 0.0,
+        "wallmw": 8.899390949196592,
+        "fusion_power": 2012.3469291391941,
+        "pnucblkt": 1927.0234193436922,
+        "cdirt": 2593.361309881262,
+        "concost": 4132.605531538362
+    }
+}
