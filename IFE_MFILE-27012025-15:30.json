@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "27/01/2025",
+        "time": "15:30",
+        "title": "IFE_MFILE",
+        "commit_message": "Made changes to resolve EXE lints\\, added the EXE rule \\(#3510\\) ",
+        "commit_hash": "1ac4603f8e1e476002357897b980d7291dceb8a3"
+    },
+    "tracking": {
+        "divlife": 0.0,
+        "cdirt": 2593.361309881262,
+        "pnetelmw": 999.9215827777995,
+        "concost": 4132.605531538362,
+        "pnucblkt": 1927.0234193436922,
+        "wallmw": 8.899390949196592,
+        "fusion_power": 2012.3469291391941,
+        "pgrossmw": 1141.0007088219231
+    }
+}
