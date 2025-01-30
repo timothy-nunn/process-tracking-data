@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "11:05",
+        "date": "30/01/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Check fortran types using physics_variables \\(#3517\\) ",
+        "commit_hash": "9491e0aad18d341de8689d47391d6524d14171b1"
+    },
+    "tracking": {
+        "pnetelmw": 999.9215827777995,
+        "concost": 4132.605531538362,
+        "fusion_power": 2012.3469291391941,
+        "cdirt": 2593.361309881262,
+        "divlife": 0.0,
+        "wallmw": 8.899390949196592,
+        "pnucblkt": 1927.0234193436922,
+        "pgrossmw": 1141.0007088219231
+    }
+}
