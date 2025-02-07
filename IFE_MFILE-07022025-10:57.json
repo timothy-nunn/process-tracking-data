@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "10:57",
+        "date": "07/02/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "\ud83d\udd04 Update obsolete_vars.py with new variable names for consistency and clarity ",
+        "commit_hash": "c8f147c6e2c00520c05c79bdc96090a2b3f9822d"
+    },
+    "tracking": {
+        "pnetelmw": 999.9215827777995,
+        "concost": 4132.605531538362,
+        "wallmw": 8.899390949196592,
+        "fusion_power": 2012.3469291391941,
+        "divlife": 0.0,
+        "pnucblkt": 1927.0234193436922,
+        "cdirt": 2593.361309881262,
+        "pgrossmw": 1141.0007088219231
+    }
+}
