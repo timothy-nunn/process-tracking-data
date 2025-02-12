@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "09:54",
+        "date": "12/02/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Updated publications.md \\(#3540\\) ",
+        "commit_hash": "6bac4f3bccbc6100173e877c0cd2426571ea142e"
+    },
+    "tracking": {
+        "fusion_power": 2012.3469291391941,
+        "divlife": 0.0,
+        "cdirt": 2593.361309881262,
+        "pnucblkt": 1927.0234193436922,
+        "concost": 4132.605531538362,
+        "wallmw": 8.899390949196592,
+        "pgrossmw": 1141.0007088219231,
+        "pnetelmw": 999.9215827777995
+    }
+}
