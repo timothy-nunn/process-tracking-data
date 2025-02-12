@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "12/02/2025 UTC",
+        "time": "13:44",
+        "title": "IFE_MFILE",
+        "commit_message": "Make current vs time plot for plot_proc \\(#3532\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :art: add function to plot current profiles over time in $'main_plot\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :art: enhance plot_current_profiles_over_time with annotations and improved axis $'labels\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :bug: Refactor plot_proc.py for improved readability and consistency in text $'formatting\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :art: Update documentation for PROCESS PDF summary and figure $'references\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp fix correct loop range in plot_current_profiles_over_time for PF circuit $'extraction\\r' $'\\r' CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :bug: Suppress error message for missing CS circuit data in plot_current_profiles_over_time ",
+        "commit_hash": "ec69fe65fce42d25ca775410c80068b53f027f66"
+    },
+    "tracking": {
+        "wallmw": 8.899390949196592,
+        "concost": 4132.605531538362,
+        "cdirt": 2593.361309881262,
+        "pnucblkt": 1927.0234193436922,
+        "fusion_power": 2012.3469291391941,
+        "pgrossmw": 1141.0007088219231,
+        "divlife": 0.0,
+        "pnetelmw": 999.9215827777995
+    }
+}
