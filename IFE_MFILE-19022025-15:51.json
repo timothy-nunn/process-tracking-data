@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "15:51",
+        "date": "19/02/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Convert scan.f90 to Python \\(#3526\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Convert scan.f90 to Python CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Remove utilities.f90 CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Move scan data into dictionary ",
+        "commit_hash": "5b4e07322d1da54a8b2660879f6329061a63a8d2"
+    },
+    "tracking": {
+        "pnucblkt": 1927.0234193436922,
+        "wallmw": 8.899390949196592,
+        "pgrossmw": 1141.0007088219231,
+        "cdirt": 2593.361309881262,
+        "pnetelmw": 999.9215827777995,
+        "divlife": 0.0,
+        "fusion_power": 2012.3469291391941,
+        "concost": 4132.605531538362
+    }
+}
