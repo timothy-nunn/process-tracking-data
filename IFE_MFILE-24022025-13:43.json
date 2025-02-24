@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "24/02/2025 UTC",
+        "time": "13:43",
+        "title": "IFE_MFILE",
+        "commit_message": "Rename scaled itv bounds \\(#3557\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Add description for scaled bounds and scales CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Rename bondl and bondu to be more descriptive ",
+        "commit_hash": "5e922d70e15f67d7b7b99c4690c2c0ea3e25ba42"
+    },
+    "tracking": {
+        "cdirt": 2593.361309881262,
+        "pnucblkt": 1927.0234193436922,
+        "pnetelmw": 999.9215827777995,
+        "wallmw": 8.899390949196592,
+        "pgrossmw": 1141.0007088219231,
+        "fusion_power": 2012.3469291391941,
+        "concost": 4132.605531538362,
+        "divlife": 0.0
+    }
+}
