@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "09:48",
+        "date": "03/03/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Run regression input file even where no reference exists \\(#3561\\) ",
+        "commit_hash": "72a5a92a3c9b048653c4366c23f8eea642af10cf"
+    },
+    "tracking": {
+        "wallmw": 8.899390949196592,
+        "divlife": 0.0,
+        "pnetelmw": 999.9215827777995,
+        "fusion_power": 2012.3469291391941,
+        "concost": 4132.605531538362,
+        "pnucblkt": 1927.0234193436922,
+        "cdirt": 2593.361309881262,
+        "pgrossmw": 1141.0007088219231
+    }
+}
