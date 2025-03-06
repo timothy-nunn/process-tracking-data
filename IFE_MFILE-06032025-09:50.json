@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "06/03/2025 UTC",
+        "time": "09:50",
+        "title": "IFE_MFILE",
+        "commit_message": "Added triang and kappa as iteration variables \\(#3563\\) ",
+        "commit_hash": "10691237047d7d0ffbe97d55a42c8875ef898505"
+    },
+    "tracking": {
+        "pnetelmw": 999.9215827777995,
+        "wallmw": 8.899390949196592,
+        "fusion_power": 2012.3469291391941,
+        "pgrossmw": 1141.0007088219231,
+        "pnucblkt": 1927.0234193436922,
+        "divlife": 0.0,
+        "concost": 4132.605531538362,
+        "cdirt": 2593.361309881262
+    }
+}
