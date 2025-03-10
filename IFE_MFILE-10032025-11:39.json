@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "10/03/2025 UTC",
+        "time": "11:39",
+        "title": "IFE_MFILE",
+        "commit_message": "fixed typo in flat_top \\(#3576\\) ",
+        "commit_hash": "0ace3f9ace363fdfb69964cf4ab024fd39bd2b9b"
+    },
+    "tracking": {
+        "cdirt": 2593.361309881262,
+        "divlife": 0.0,
+        "concost": 4132.605531538362,
+        "pnucblkt": 1927.0234193436922,
+        "fusion_power": 2012.3469291391941,
+        "wallmw": 8.899390949196592,
+        "pgrossmw": 1141.0007088219231,
+        "pnetelmw": 999.9215827777995
+    }
+}
