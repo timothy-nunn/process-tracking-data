@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "11:50",
+        "date": "14/03/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Warn about fcohbop \\> 1 rather than preventing it ",
+        "commit_hash": "ecf30f1ed7dfbd64a8b402300dcc98fe6e62ef68"
+    },
+    "tracking": {
+        "pnucblkt": 1927.0234193436922,
+        "divlife": 0.0,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "fusion_power": 2012.3469291391941,
+        "pnetelmw": 999.9215827777995,
+        "concost": 4132.605531538362,
+        "pgrossmw": 1141.0007088219231,
+        "cdirt": 2593.361309881262
+    }
+}
