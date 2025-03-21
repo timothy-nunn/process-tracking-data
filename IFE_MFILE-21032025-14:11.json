@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "21/03/2025 UTC",
+        "time": "14:11",
+        "title": "IFE_MFILE",
+        "commit_message": "Remove input.f90 ",
+        "commit_hash": "cf82f05862a1b9b9dbd749c25d8408683c6b44c4"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "divlife": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "fusion_power": 2012.3469291391941,
+        "cdirt": 2593.361309881262,
+        "pgrossmw": 1141.0007088219231,
+        "pnetelmw": 999.9215827777995,
+        "concost": 4132.605531538362
+    }
+}
