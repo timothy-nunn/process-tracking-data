@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "16:42",
+        "date": "21/03/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Refactor cryostat geometry calculations into a new Cryostat class \\(#3594\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Refactor cryostat geometry calculations into a new Cryostat class and update related modules CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Add unit tests for Cryostat external cryo geometry calculations CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Rename vacuum vessel mass variable and update related tests ",
+        "commit_hash": "204b622a98acfe63af20a386abc80c33fd01a5bd"
+    },
+    "tracking": {
+        "cdirt": 2593.361309881262,
+        "divlife": 0.0,
+        "pnetelmw": 999.9215827777995,
+        "concost": 4132.605531538362,
+        "pgrossmw": 1141.0007088219231,
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "fusion_power": 2012.3469291391941,
+        "pflux_fw_neutron_mw": 8.899390949196592
+    }
+}
