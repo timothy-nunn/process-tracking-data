@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "10:23",
+        "date": "25/03/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Replace stellarator-only variable for first wall coolant channel with general use variable \\(#3580\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp replace afwi and afwo with more general radius_fw_channel CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Remove afwi and afwo from input --------- Co-authored-by: Timothy Nunn \\<timothy.nunn@ukaea.uk\\> ",
+        "commit_hash": "20837329b960dad5b933edfd7d379c3a4ebe5e87"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "fusion_power": 2012.3469291391941,
+        "divlife": 0.0,
+        "concost": 4132.605531538362,
+        "cdirt": 2593.361309881262,
+        "pnetelmw": 999.9215827777995,
+        "pgrossmw": 1141.0007088219231,
+        "pflux_fw_neutron_mw": 8.899390949196592
+    }
+}
