@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "11:30",
+        "date": "26/03/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Calculate and output plasma fuelling masses \\(#3598\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Add method to calculate plasma masses in Physics class CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Add plasma mass calculations and update physics variables CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Add unit tests ",
+        "commit_hash": "03a8c56fa8d98cd22d1de3313b1a7fd5bc645ea3"
+    },
+    "tracking": {
+        "cdirt": 2593.361309881262,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "pnetelmw": 999.9215827777995,
+        "fusion_power": 2012.3469291391941,
+        "divlife": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "pgrossmw": 1141.0007088219231,
+        "concost": 4132.605531538362
+    }
+}
