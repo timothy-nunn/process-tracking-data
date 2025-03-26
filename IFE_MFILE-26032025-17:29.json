@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "17:29",
+        "date": "26/03/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Assert in tests instead of returning \\(#3607\\) ",
+        "commit_hash": "a76277d0d9aebe12e206d574e21c9e4405bbd244"
+    },
+    "tracking": {
+        "pnetelmw": 999.9215827777995,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "concost": 4132.605531538362,
+        "pgrossmw": 1141.0007088219231,
+        "divlife": 0.0,
+        "fusion_power": 2012.3469291391941,
+        "cdirt": 2593.361309881262
+    }
+}
