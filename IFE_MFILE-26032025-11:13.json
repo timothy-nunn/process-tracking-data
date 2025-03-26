@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "26/03/2025 UTC",
+        "time": "11:13",
+        "title": "IFE_MFILE",
+        "commit_message": "Check for string in MFile with both quote characters \\(#3604\\) ",
+        "commit_hash": "a35340c9ef5c60e50ee47905f68a73373877055b"
+    },
+    "tracking": {
+        "fusion_power": 2012.3469291391941,
+        "concost": 4132.605531538362,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "pnetelmw": 999.9215827777995,
+        "pgrossmw": 1141.0007088219231,
+        "divlife": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "cdirt": 2593.361309881262
+    }
+}
