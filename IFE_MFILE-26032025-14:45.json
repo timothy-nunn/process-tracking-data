@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "26/03/2025 UTC",
+        "time": "14:45",
+        "title": "IFE_MFILE",
+        "commit_message": "Create fusion reaction file \\(#3599\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Refactor fusion reaction handling to use dedicated module CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Add unit tests for fusion reactions in test_fusion_reactions.py CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Refactor Stellarator to use fusion reactions module for calculations ",
+        "commit_hash": "cb982bed77a8f431dd243a2b6dc603a8fcaedcf9"
+    },
+    "tracking": {
+        "pgrossmw": 1141.0007088219231,
+        "cdirt": 2593.361309881262,
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "fusion_power": 2012.3469291391941,
+        "divlife": 0.0,
+        "pnetelmw": 999.9215827777995,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "concost": 4132.605531538362
+    }
+}
