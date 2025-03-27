@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "27/03/2025 UTC",
+        "time": "10:32",
+        "title": "IFE_MFILE",
+        "commit_message": "Remove tbr calculation \\(#3605\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :fire: Remove Tritium Breeding Ratio calculation from CCFE HCPB model CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :fire: remove iblanket_thickness CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :memo: Remove tritium breeding ratio calculation details from fw-blanket documentation CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Refactor check_process function to suppress linting warning CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Add iblanket_thickness to OBS_VARS as None ",
+        "commit_hash": "542328b6b4ff4b9e007fe00d2ce9bdbf8963e7b1"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "concost": 4132.605531538362,
+        "divlife": 0.0,
+        "pnetelmw": 999.9215827777995,
+        "pgrossmw": 1141.0007088219231,
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "fusion_power": 2012.3469291391941,
+        "cdirt": 2593.361309881262
+    }
+}
