@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "28/03/2025 UTC",
+        "time": "15:46",
+        "title": "IFE_MFILE",
+        "commit_message": "Add first wall cross section plot proc \\(#3591\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :art: Add first wall geometry output and plotting functions CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :art: Enhance first wall top-down cross-section plot with radius and width annotations\\, and update units to centimeters CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :art: Add first wall pumping output functionality and update plotting with coolant temperatures and pressure annotations CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :art: Add first wall cooling channel counts to output and update plotting functions CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :art: Refactor first wall channel calculations and integrate into the run method CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :bug: Fix plot proc import errors CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :art: Update documentation for PROCESS 8 and add first wall comparison plot CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :art: Update documentation to reflect the addition of an eight-page PDF summary in the plot utility CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :bug: Fix formatting of first wall coolant type for F2PY compatibility ",
+        "commit_hash": "e98968c2fdf5bf2b72415fb44de4d7cf86607c3a"
+    },
+    "tracking": {
+        "pnetelmw": 999.9215827777995,
+        "concost": 4132.605531538362,
+        "divlife": 0.0,
+        "cdirt": 2593.361309881262,
+        "fusion_power": 2012.3469291391941,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "pgrossmw": 1141.0007088219231
+    }
+}
