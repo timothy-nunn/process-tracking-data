@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "09:30",
+        "date": "01/04/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": ":bug: Remove indents causing formatting errors \\(#3609\\) ",
+        "commit_hash": "fca0fb29036a63fc054c7d95285ada5a38d69496"
+    },
+    "tracking": {
+        "pnetelmw": 999.9215827777995,
+        "concost": 4132.605531538362,
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "pgrossmw": 1141.0007088219231,
+        "fusion_power": 2012.3469291391941,
+        "divlife": 0.0,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "cdirt": 2593.361309881262
+    }
+}
