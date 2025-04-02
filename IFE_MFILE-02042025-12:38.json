@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "02/04/2025 UTC",
+        "time": "12:38",
+        "title": "IFE_MFILE",
+        "commit_message": "Add missing params into file reader \\(#3612\\) Co-authored-by: apearce \\<alexaner.pearce@ukaea.uk\\> ",
+        "commit_hash": "2e441dfb5971adace9811b0d2e474d8da166bdc6"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "cdirt": 2593.361309881262,
+        "concost": 4132.605531538362,
+        "divlife": 0.0,
+        "pgrossmw": 1141.0007088219231,
+        "fusion_power": 2012.3469291391941,
+        "pnetelmw": 999.9215827777995
+    }
+}
