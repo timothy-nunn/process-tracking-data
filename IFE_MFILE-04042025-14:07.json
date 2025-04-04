@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "14:07",
+        "date": "04/04/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add single model evaluation example notebook ",
+        "commit_hash": "435436b1e069634ed8b4eb4ad36c0468de32574f"
+    },
+    "tracking": {
+        "cdirt": 2593.361309881262,
+        "divlife": 0.0,
+        "concost": 4132.605531538362,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "pgrossmw": 1141.0007088219231,
+        "fusion_power": 2012.3469291391941,
+        "pnetelmw": 999.9215827777995,
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922
+    }
+}
