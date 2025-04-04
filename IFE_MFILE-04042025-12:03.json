@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "04/04/2025 UTC",
+        "time": "12:03",
+        "title": "IFE_MFILE",
+        "commit_message": "Skip failing inequalities large tokamak regression test \\(#3619\\) ",
+        "commit_hash": "19c2c8a6642b9fdb18eff621617378b203b52a84"
+    },
+    "tracking": {
+        "pgrossmw": 1141.0007088219231,
+        "concost": 4132.605531538362,
+        "divlife": 0.0,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "cdirt": 2593.361309881262,
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "fusion_power": 2012.3469291391941,
+        "pnetelmw": 999.9215827777995
+    }
+}
