@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "09:19",
+        "date": "07/04/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "\ud83d\udcdd Update divtart docs and bugfixes to divertor models \\(#3610\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Enhance divertor documentation and add plotting script for divertor cross-section CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Refactor divertor plotting script and update slider parameters for improved usability CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Update divertor documentation with additional equations and improve formatting CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :bug: Add i_single_null parameter to divertor heat load calculation and update documentation CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :bug: Add dz_divertor parameter to divertor model and update plotting script for height adjustment CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Update divertor documentation and add dz_divertor parameter to heat load calculation CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :memo: Update divertor documentation to clarify interactive graph parameters and their representations ",
+        "commit_hash": "0bef5e6a3a8563867247e5ca3192fd3120ad78aa"
+    },
+    "tracking": {
+        "pgrossmw": 1141.0007088219231,
+        "pnetelmw": 999.9215827777995,
+        "divlife": 0.0,
+        "cdirt": 2593.361309881262,
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "concost": 4132.605531538362,
+        "fusion_power": 2012.3469291391941
+    }
+}
