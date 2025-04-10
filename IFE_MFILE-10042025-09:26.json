@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "09:26",
+        "date": "10/04/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add option 2 to cost model switch \\(#3625\\) ",
+        "commit_hash": "2d48ead9090e20c6d1c01a067cc7ca651bc46270"
+    },
+    "tracking": {
+        "concost": 4132.605531538362,
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "fusion_power": 2012.3469291391941,
+        "cdirt": 2593.361309881262,
+        "divlife": 0.0,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "pgrossmw": 1141.0007088219231,
+        "pnetelmw": 999.9215827777995
+    }
+}
