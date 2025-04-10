@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "10:48",
+        "date": "10/04/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Remove level 3 errors raised in python \\(#3616\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Mark unused errors as removed CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Convert level 3 errors in Python to raise exceptions CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Replace existing model ValueErrors CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Replace RuntimeErrors in models CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Remove old iteration variables errors ",
+        "commit_hash": "b9ea523c639c45214ac168f27bcb0fbf3a930930"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "cdirt": 2593.361309881262,
+        "concost": 4132.605531538362,
+        "pgrossmw": 1141.0007088219231,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "pnetelmw": 999.9215827777995,
+        "fusion_power": 2012.3469291391941,
+        "divlife": 0.0
+    }
+}
