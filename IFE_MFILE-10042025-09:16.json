@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "10/04/2025 UTC",
+        "time": "09:16",
+        "title": "IFE_MFILE",
+        "commit_message": "Convert iteration_variables.f90 to Python \\(#3570\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Convert loadxc to Python CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Convert convxc to Python CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Convert boundxc to Python CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Remove iteration_variables.f90 and use new Python API for initialisation and dicts CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Correct warning message in Fotran-Python string handler CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Comment and style updates ",
+        "commit_hash": "54b7e35c14b3a591318b3b30cb90c45a02a61194"
+    },
+    "tracking": {
+        "concost": 4132.605531538362,
+        "cdirt": 2593.361309881262,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "pnetelmw": 999.9215827777995,
+        "pgrossmw": 1141.0007088219231,
+        "divlife": 0.0,
+        "fusion_power": 2012.3469291391941,
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922
+    }
+}
