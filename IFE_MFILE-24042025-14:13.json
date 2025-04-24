@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "24/04/2025 UTC",
+        "time": "14:13",
+        "title": "IFE_MFILE",
+        "commit_message": "Convert remaining stellarator init routines to Python \\(#3639\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Convert stinit to Python CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Convert init_neoclassics_module to Python ",
+        "commit_hash": "147d61badd140f9ca79b340167edd32b760b8a2a"
+    },
+    "tracking": {
+        "pgrossmw": 1141.0007088219231,
+        "divlife": 0.0,
+        "pnetelmw": 999.9215827777995,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "fusion_power": 2012.3469291391941,
+        "cdirt": 2593.361309881262,
+        "concost": 4132.605531538362
+    }
+}
