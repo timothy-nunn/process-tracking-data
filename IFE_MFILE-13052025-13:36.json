@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "13/05/2025 UTC",
+        "time": "13:36",
+        "title": "IFE_MFILE",
+        "commit_message": "\u26a1 Tidy \\`superconductors.py\\` part 1 \\(#3657\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :memo: Add Superconductors documentation page to navigation CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :memo: Re-factor bottura scaling and add equations to docs CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :memo: Enhance documentation for Bottura scaling function with detailed parameterization and strain function notes CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :memo: Update WST Nb3Sn critical surface model implementation with enhanced documentation and parameter definitions CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :recycle: Refactor superconductors function names to \\`western_superconducting_nb3sn\\` for clarity and consistency CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :art: Add critical surface plot for Western Superconducting Ltd. Nb3Sn and update documentation CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Implement code changes to enhance functionality and improve performance ",
+        "commit_hash": "519e8813d253dde230e391613b1e530b392fef3f"
+    },
+    "tracking": {
+        "fusion_power": 2012.3469291391941,
+        "cdirt": 2593.361309881262,
+        "pnetelmw": 999.9215827777995,
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "divlife": 0.0,
+        "pgrossmw": 1141.0007088219231,
+        "concost": 4132.605531538362
+    }
+}
