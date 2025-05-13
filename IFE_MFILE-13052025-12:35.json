@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "12:35",
+        "date": "13/05/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "\u267b\ufe0f Write current profile\\, inductance and normalised beta relations as functions \\(#3655\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \u267b\ufe0f \u2705 Add function for wesson current profile relation and add unit test CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \u2728 Add Wesson internal inductance calculation and corresponding unit test CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \u2728 Add Menard plasma internal inductance calculation and corresponding unit test CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \u2728 Add Wesson normalized beta limit calculation and corresponding unit test CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \u2728 Add calculate_beta_norm_max_original method and corresponding unit test CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \u2728 Add Menard normalized beta calculation method and corresponding unit test CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \u2728 Add E. Tholerus normalized beta upper limit calculation method and corresponding unit test ",
+        "commit_hash": "a7a96879dafca7b56292717239d288b6bcd23200"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "concost": 4132.605531538362,
+        "pnetelmw": 999.9215827777995,
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "divlife": 0.0,
+        "fusion_power": 2012.3469291391941,
+        "cdirt": 2593.361309881262,
+        "pgrossmw": 1141.0007088219231
+    }
+}
