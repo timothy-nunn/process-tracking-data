@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "13:42",
+        "date": "16/05/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add missing inputs \\(#3663\\) ",
+        "commit_hash": "1541b5387b1f47ee661439b6e2cbb98ac191ccc6"
+    },
+    "tracking": {
+        "concost": 4132.605531538362,
+        "divlife": 0.0,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "pnetelmw": 999.9215827777995,
+        "p_fusion_total_mw": 2012.3469291391941,
+        "cdirt": 2593.361309881262,
+        "pgrossmw": 1141.0007088219231
+    }
+}
