@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "09:48",
+        "date": "16/05/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add Stambaugh normalised beta limit \\(#3650\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \u267b\ufe0f Add Stambaugh-like coefficient for beta scaling and update calculations CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \ud83d\udcda Add Stambaugh relation for beta normalization and update calculations CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \u267b\ufe0f Refactor Stambaugh beta calculation into a separate method and add unit test ",
+        "commit_hash": "b9cb2bcdbc9ed8d496ff3d04de6cdc111bc13830"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "pnetelmw": 999.9215827777995,
+        "cdirt": 2593.361309881262,
+        "p_fusion_total_mw": 2012.3469291391941,
+        "divlife": 0.0,
+        "concost": 4132.605531538362,
+        "pgrossmw": 1141.0007088219231
+    }
+}
