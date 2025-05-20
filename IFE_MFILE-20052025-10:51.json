@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "10:51",
+        "date": "20/05/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Latest cmake installation docs ",
+        "commit_hash": "0694d68c4b8ab4302b41118808fdcbeb03778b91"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.0234193436922,
+        "pnetelmw": 999.9215827777995,
+        "p_fusion_total_mw": 2012.3469291391941,
+        "cdirt": 2593.361309881262,
+        "pflux_fw_neutron_mw": 8.899390949196592,
+        "divlife": 0.0,
+        "pgrossmw": 1141.0007088219231,
+        "concost": 4132.605531538362
+    }
+}
