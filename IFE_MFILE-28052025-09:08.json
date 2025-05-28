@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "09:08",
+        "date": "28/05/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add high level summary to precommit docs page \\(#3665\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp correct settings file extension in docs CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Add tldr to pre-commit docs for if the quality job fails CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Update documentation/proc-pages/development/pre-commit.md Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> --------- Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> ",
+        "commit_hash": "14786932ce1f7e237be697fbaccb9f14af0e49ae"
+    },
+    "tracking": {
+        "divlife": 0.0,
+        "cdirt": 2593.3363718366977,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "concost": 4132.565791953863,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_fusion_total_mw": 2012.3468456341204
+    }
+}
