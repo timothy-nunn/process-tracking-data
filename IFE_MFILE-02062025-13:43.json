@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "02/06/2025 UTC",
+        "time": "13:43",
+        "title": "IFE_MFILE",
+        "commit_message": "Remove conflicting WP iteration variables from test files \\(#3662\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp correct mistake in docs CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Add warning message if ixc=13 and ixc=140 are used simultaneously CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp remove ixc = 13 from any input file that also has ixc = 140 CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp remove dr_tf_inboard from in.dats as it is calculated in-situ CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp spelling error ",
+        "commit_hash": "52e7288aa36c029ca140dcfb1f57324557c1e3ca"
+    },
+    "tracking": {
+        "divlife": 0.0,
+        "concost": 4132.565791953863,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "cdirt": 2593.3363718366977,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "p_plant_electric_net_mw": 999.9215852532003
+    }
+}
