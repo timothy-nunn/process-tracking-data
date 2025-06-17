@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "09:05",
+        "date": "17/06/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": ":memo: Refactor documentation for adding variables and constraints in\u2026 \\(#3692\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :memo: Refactor documentation for adding variables and constraints in \\`PROCESS\\` code CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Update documentation/proc-pages/development/add-vars.md Co-authored-by: Copilot \\<175728472+Copilot@users.noreply.github.com\\> CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Update documentation/proc-pages/development/add-vars.md Co-authored-by: Copilot \\<175728472+Copilot@users.noreply.github.com\\> --------- Co-authored-by: Copilot \\<175728472+Copilot@users.noreply.github.com\\> ",
+        "commit_hash": "b16c99a9307e7a248b0a7ee82e8d966c4e69ea70"
+    },
+    "tracking": {
+        "cdirt": 2593.3363718366977,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "concost": 4132.565791953863,
+        "divlife": 0.0,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "p_plant_electric_net_mw": 999.9215852532003
+    }
+}
