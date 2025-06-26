@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "26/06/2025 UTC",
+        "time": "15:23",
+        "title": "IFE_MFILE",
+        "commit_message": ":bug: Fixes for regression tests ",
+        "commit_hash": "b51b3968898bd7cf3ee443023e93ce334182d9f2"
+    },
+    "tracking": {
+        "concost": 4132.565791953863,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "cdirt": 2593.3363718366977,
+        "divlife": 0.0,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "pflux_fw_neutron_mw": 8.899390579904257
+    }
+}
