@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "13:41",
+        "date": "01/07/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": ":memo: Update documentation and images for PROCESS PDF summary to reflect the addition of the 11th page and update figure captions for clarity ",
+        "commit_hash": "67e69668d5830e7ee830156df5d6aff79764b1e2"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "concost": 4132.565791953863,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "divlife": 0.0,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "cdirt": 2593.3363718366977
+    }
+}
