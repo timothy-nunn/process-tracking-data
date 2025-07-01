@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "09:11",
+        "date": "01/07/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Set tf general methods 3 \\(#3699\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Rename tfcind to tf_coil_self_inductance CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \ud83d\udd04 Refactor tf_coil_self_inductance calls in ResistiveTFCoil and SuperconductingTFCoil for improved clarity and consistency CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \ud83d\udd04 Update TfcindParam structure in test_tfcoil.py for improved clarity and consistency CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Update documentation/proc-pages/eng-models/tf-coil.md Co-authored-by: clmould \\<86794332+clmould@users.noreply.github.com\\> --------- Co-authored-by: clmould \\<86794332+clmould@users.noreply.github.com\\> ",
+        "commit_hash": "48e3910bed862af1e159e7a46a31b0acacd1676e"
+    },
+    "tracking": {
+        "divlife": 0.0,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "concost": 4132.565791953863,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "cdirt": 2593.3363718366977
+    }
+}
