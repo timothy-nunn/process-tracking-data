@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "02/07/2025 UTC",
+        "time": "10:46",
+        "title": "IFE_MFILE",
+        "commit_message": "\\`plot_proc\\` H-factor plot \\(#3702\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \u2728 Add confinement time comparison plotting function to plot_proc.py CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Refactor confinement time calculations in plot_proc.py by removing unused variables and functions for improved clarity and performance. CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :bug: Fix confinement time comparison plotting by applying f2py compatibility to scaling labels CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :memo: Update figure caption for density limit comparison page to include confinement time ",
+        "commit_hash": "969a7ded197a37036f7fa38b444a0b004f68d9d1"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "divlife": 0.0,
+        "concost": 4132.565791953863,
+        "cdirt": 2593.3363718366977,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "p_plant_electric_net_mw": 999.9215852532003
+    }
+}
