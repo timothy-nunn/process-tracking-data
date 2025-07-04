@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "04/07/2025 UTC",
+        "time": "14:38",
+        "title": "IFE_MFILE",
+        "commit_message": "\ud83d\udcdd Reconfigure tf docs 1 \\(#3704\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :memo: Add new documentation for Resistive and Superconducting TF Coils and update navigation structure in mkdocs.yml CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :memo: Add documentation for Resistive and Superconducting TF coils\\, including class definitions and structural details CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Refactor TF coil documentation: streamline sections on topology\\, shape\\, and conductor types - Consolidated and clarified the topology of TF coils and central solenoid\\, including options for ITER-like and alternative configurations. - Revised descriptions of TF coil shapes\\, introducing D-shape and picture frame options with clear definitions. - Updated the section on TF coil conductor types\\, detailing resistive and superconducting magnets with associated cooling methods. - Removed redundant sections and improved overall structure for better readability and coherence. CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :memo: Add inboard peak field radius section to Resistive and Superconducting TF coil documentation ",
+        "commit_hash": "05d0a8d7b322a60c7bb86d318bf856d241c5c140"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "cdirt": 2593.3363718366977,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "concost": 4132.565791953863,
+        "divlife": 0.0,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "pflux_fw_neutron_mw": 8.899390579904257
+    }
+}
