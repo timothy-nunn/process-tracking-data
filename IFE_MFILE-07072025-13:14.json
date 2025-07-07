@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "07/07/2025 UTC",
+        "time": "13:14",
+        "title": "IFE_MFILE",
+        "commit_message": "\ud83c\udfa8 Radial build \\`plot_proc\\` \\(#3708\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \ud83d\udd04 Add radial build plot function and update main_plot to include new figures CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \ud83d\udd04 Implement radial build plotting function and integrate into main_plot CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :art: Update figures and captions in documentation for radial build plots ",
+        "commit_hash": "834ebbf97c4ff1af28421a12dd2d2ff8d7a82588"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "divlife": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "cdirt": 2593.3363718366977,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "concost": 4132.565791953863,
+        "pflux_fw_neutron_mw": 8.899390579904257
+    }
+}
