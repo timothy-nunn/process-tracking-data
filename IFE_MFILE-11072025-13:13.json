@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "13:13",
+        "date": "11/07/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "\u267b\ufe0f update DCLL and CCFE_HCPB classes to inherit from BlanketLibrary \\(#3717\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp refactor update DCLL and CCFE_HCPB classes to inherit from BlanketLibrary CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Remove BlanketLibrary dependency from CCFE_HCPB and DCLL initializations in unit tests ",
+        "commit_hash": "29917c39f66438cbfdba04db48d18c0ee9c3c3db"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "divlife": 0.0,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "concost": 4132.565791953863,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "cdirt": 2593.3363718366977,
+        "p_plant_electric_gross_mw": 1141.0006614745462
+    }
+}
