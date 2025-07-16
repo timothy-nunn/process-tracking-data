@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "16/07/2025 UTC",
+        "time": "09:26",
+        "title": "IFE_MFILE",
+        "commit_message": "Refactor TF \\`supercon\\` \\(#3698\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \ud83d\udd04 Refactor variable names from aturn to a_tf_turn for consistency and clarity in superconducting_tf_coil.py CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \ud83d\udd04 Refactor variable names for clarity: a_tf_turn to b_tf_inboard_peak in superconducting_tf_coil.py CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \ud83d\udd04 Refactor function parameters for consistency: rename variables in supercon method in superconducting_tf_coil.py CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \ud83d\udd04 Refactor parameter types and documentation for supercon method in superconducting_tf_coil.py CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \ud83d\udd04 Remove unused parameter c_tf_turn from SuperconParam NamedTuple in test_sctfcoil.py ",
+        "commit_hash": "b6f88a46d46770e0bee5d57cf9a38cf94c33434d"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "concost": 4132.565791953863,
+        "divlife": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "cdirt": 2593.3363718366977,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "p_fusion_total_mw": 2012.3468456341204
+    }
+}
