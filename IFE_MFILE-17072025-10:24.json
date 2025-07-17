@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "17/07/2025 UTC",
+        "time": "10:24",
+        "title": "IFE_MFILE",
+        "commit_message": "Convert water_usuage_variables to Python data structure \\(#3690\\) ",
+        "commit_hash": "0e7f02b4d587531695361d5d6f97cd7cfc92a62b"
+    },
+    "tracking": {
+        "concost": 4132.565791953863,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "divlife": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "cdirt": 2593.3363718366977
+    }
+}
