@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "10:47",
+        "date": "24/07/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "small change \\(#3743\\) ",
+        "commit_hash": "b62d1a54709c3edd64361ebe54ad65a9df4a7b30"
+    },
+    "tracking": {
+        "p_fusion_total_mw": 2012.3468456341204,
+        "divlife": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "concost": 4132.565791953863,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "cdirt": 2593.3363718366977
+    }
+}
