@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "11:11",
+        "date": "25/07/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "\ud83d\udcdd Enhance plasma information display in plot_main_plasma_information and plot_n_profiles functions \\(#3745\\) ",
+        "commit_hash": "eb30b0da030537e37161650be3ec677c8b797ef1"
+    },
+    "tracking": {
+        "divlife": 0.0,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "cdirt": 2593.3363718366977,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "concost": 4132.565791953863,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337
+    }
+}
