@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "31/07/2025 UTC",
+        "time": "10:58",
+        "title": "IFE_MFILE",
+        "commit_message": "Convert rebco_variables to python \\(#3738\\) ",
+        "commit_hash": "9332b2e427b57995eebce099b9428d252f2cd2f4"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "divlife": 0.0,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "cdirt": 2593.3363718366977,
+        "concost": 4132.565791953863,
+        "pflux_fw_neutron_mw": 8.899390579904257
+    }
+}
