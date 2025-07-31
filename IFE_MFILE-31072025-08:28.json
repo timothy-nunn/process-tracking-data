@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "08:28",
+        "date": "31/07/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Upversion PyVMCON to 2.3.1 \\(#3750\\) ",
+        "commit_hash": "40e55b19da99a0961d6359d6fd96a0676c4c7eb4"
+    },
+    "tracking": {
+        "cdirt": 2593.3363718366977,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "divlife": 0.0,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "concost": 4132.565791953863,
+        "p_fusion_total_mw": 2012.3468456341204
+    }
+}
