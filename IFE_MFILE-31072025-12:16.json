@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "12:16",
+        "date": "31/07/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Reduce wasteful calculations and JIT compile to improve speed \\(#3752\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Rewrite coolprop interface to reduce wasteful calculations CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp JIT compile additional slow functions in physics CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Update coolprop test assets ",
+        "commit_hash": "f4428d59f75ab14d61f4e61c630d56b723339445"
+    },
+    "tracking": {
+        "divlife": 0.0,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "concost": 4132.565791953863,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "cdirt": 2593.3363718366977
+    }
+}
