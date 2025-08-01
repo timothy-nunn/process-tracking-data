@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "12:28",
+        "date": "01/08/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Convert neoclassics_module to Python data structure \\(#3751\\) ",
+        "commit_hash": "76a35102936099fa181163eeba5ce029356ed8d1"
+    },
+    "tracking": {
+        "divlife": 0.0,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "concost": 4132.565791953863,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "cdirt": 2593.3363718366977
+    }
+}
