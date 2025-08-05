@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "05/08/2025 UTC",
+        "time": "08:46",
+        "title": "IFE_MFILE",
+        "commit_message": "3749 pub \\(#3758\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Added missing references to publications.md CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Added recent papers to publications.md CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Added Nilima to publications.md ",
+        "commit_hash": "4c4a4210fe71c71bd441aaf3e267eb56e09b8077"
+    },
+    "tracking": {
+        "divlife": 0.0,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "cdirt": 2593.3363718366977,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "concost": 4132.565791953863,
+        "p_plant_electric_gross_mw": 1141.0006614745462
+    }
+}
