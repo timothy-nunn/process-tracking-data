@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "13:13",
+        "date": "11/08/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add toroidal dividing lines in plot_proc \\(#3771\\) ",
+        "commit_hash": "86fad28cb93d231667acb233ff7838ec2c10180d"
+    },
+    "tracking": {
+        "p_fusion_total_mw": 2012.3468456341204,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "divlife": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "cdirt": 2593.3363718366977,
+        "concost": 4132.565791953863,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "pflux_fw_neutron_mw": 8.899390579904257
+    }
+}
