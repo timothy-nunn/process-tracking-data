@@ -1,0 +1,491 @@
+ # PROCESS #
+ # Power Reactor Optimisation Code #
+ # PROCESS #
+ # Power Reactor Optimisation Code #
+ PROCESS_version_________________________________________________________ (procver)_____________________     "3.1.0"
+ Date_of_run_____________________________________________________________ (date)________________________     "12/08/2025 UTC"
+ Time_of_run_____________________________________________________________ (time)________________________     "11:10"
+ User____________________________________________________________________ (username)____________________     "runner"
+ PROCESS_run_title_______________________________________________________ (runtitle)____________________     "IFE"
+ PROCESS_git_tag_________________________________________________________ (tagno)_______________________     ""
+ PROCESS_git_branch______________________________________________________ (branch_name)_________________     ""
+ Input_filename__________________________________________________________ (fileprefix)__________________     "/home/runner/work/PROCESS/PROCESS/tests/regression/input_files/IFE.IN.DAT"
+ Optimisation_switch_____________________________________________________ (ioptimz)_____________________              1    
+ Figure_of_merit_switch__________________________________________________ (minmax)______________________             18    
+ # Numerics #
+ # PROCESS found a feasible solution #
+ Error_flag______________________________________________________________ (ifail)_______________________              1    
+ Number_of_iteration_variables___________________________________________ (nvar)________________________              1    
+ Number_of_constraints_(total)___________________________________________ (neqns+nineqns)_______________              1    
+ Optimisation_switch_____________________________________________________ (ioptimz)_____________________              1    
+ Figure_of_merit_switch__________________________________________________ (minmax)______________________             18    
+ Objective_function_name_________________________________________________ (objf_name)___________________     "Null figure of merit"                  
+ Normalised_objective_function____________________________________________ (norm_objf)____________________ 1.00000000000000000e+00 OP
+ Square_root_of_the_sum_of_squares_of_the_constraint_residuals____________ (sqsumsq)______________________ 7.84147467997042824e-05 OP
+ VMCON_convergence_parameter______________________________________________ (convergence_parameter)________ 2.74346725224638327e-09 OP
+ Number_of_optimising_solver_iterations__________________________________ (nviter)______________________              2 OP 
+ edrive___________________________________________________________________ (itvar001)_____________________ 5.01145820620831475e+06
+ edrive_(final_value/initial_value)_______________________________________ (xcm001)_______________________ 1.00229164124166292e+00
+ edrive_(range_normalised)________________________________________________ (nitvar001)____________________ 9.84260161564792513e-02
+ edrive_(upper_bound)_____________________________________________________ (boundu001)____________________ 5.00000000000000000e+07
+ edrive_(lower_bound)_____________________________________________________ (boundl001)____________________ 1.00000000000000000e+05
+ Net_electric_power_lower_limit____normalised_residue_____________________ (eq_con016)____________________ -7.84147467997042824e-05
+ # Final Feasible Point #
+ # Radial build #
+ Chamber_(m)______________________________________________________________ (chrad)________________________ 3.50000000000000000e+00
+ First_Wall_(m)___________________________________________________________ (fwdr)_________________________ 5.50000000000000003e-02
+ Void_1_(m)_______________________________________________________________ (v1dr)_________________________ 5.00000000000000010e-03
+ Blanket_(m)______________________________________________________________ (bldr)_________________________ 5.50000000000000044e-01
+ Void_2_(m)_______________________________________________________________ (v2dr)_________________________ 2.18999999999999995e+00
+ Shield_(m)_______________________________________________________________ (shdr)_________________________ 2.00000000000000011e-01
+ Void_3_(m)_______________________________________________________________ (v3dr)_________________________ 3.50000000000000000e+00
+ # Vertical build #
+ Void_3_lower_(m)_________________________________________________________ (v3dzl)________________________ 0.00000000000000000e+00
+ Shield_lower_(m)_________________________________________________________ (shdzl)________________________ 3.49999999999999978e-01
+ Void_2_lower_(m)_________________________________________________________ (v2dzl)________________________ 0.00000000000000000e+00
+ Blanket_lower_(m)________________________________________________________ (bldzl)________________________ 6.50000000000000022e-01
+ Void_1_lower_(m)_________________________________________________________ (v1dzl)________________________ 1.75000000000000000e+00
+ First_wall_lower_(m)_____________________________________________________ (fwdzl)________________________ 0.00000000000000000e+00
+ Chamber_lower_(m)________________________________________________________ (chdzl)________________________ 3.10000000000000009e+00
+ Chamber_upper_(m)________________________________________________________ (chdzu)________________________ 3.70000000000000018e+00
+ First_wall_upper_(m)_____________________________________________________ (fwdzu)________________________ 5.50000000000000003e-02
+ Void_1_upper_(m)_________________________________________________________ (v1dzu)________________________ 5.00000000000000010e-03
+ Blanket_upper_(m)________________________________________________________ (bldzu)________________________ 5.50000000000000044e-01
+ Void_2_upper_(m)_________________________________________________________ (v2dzu)________________________ 8.49999999999999978e-01
+ Shield_upper_(m)_________________________________________________________ (shdzu)________________________ 2.00000000000000011e-01
+ Void_3_upper_(m)_________________________________________________________ (v3dzu)________________________ 1.36400000000000006e+01
+ # Physics / Driver Issues #
+ Driver_energy_(J)________________________________________________________ (edrive)_______________________ 5.01145820620831475e+06
+ Driver_efficiency________________________________________________________ (etadrv)_______________________ 2.82045832824833254e-01
+ Driver_power_reaching_target_(W)_________________________________________ (pdrive)_______________________ 2.31000000000000000e+07
+ Driver_repetition_rate_(Hz)______________________________________________ (reprat)_______________________ 4.60943682447219949e+00
+ Target_gain______________________________________________________________ (gain)_________________________ 8.71145820620831444e+01
+ Fusion_power_(MW)________________________________________________________ (p_fusion_total_mw)____________ 2.01234684563412043e+03
+ Neutron_wall_load_(MW/m2)________________________________________________ (pflux_fw_neutron_mw)__________ 8.89939057990425653e+00
+ # First Wall, Blanket, Shield #
+ First_wall_area_(m2)_____________________________________________________ (a_fw_total)___________________ 1.88024320317349122e+02
+ First_wall_mass_(kg)_____________________________________________________ (m_fw_total)___________________ 2.05743661848917181e+04
+ Blanket_mass_(kg)________________________________________________________ (m_blkt_total)_________________ 3.47956929287043342e+05
+ Blanket_lithium_mass_(kg)________________________________________________ (m_blkt_lithium)_______________ 0.00000000000000000e+00
+ Total_mass_of_FLiBe_(kg)_________________________________________________ (mflibe)_______________________ 9.39298959678171203e+05
+ Shield_mass_(kg)_________________________________________________________ (whtshld)______________________ 1.06731095937070088e+06
+ # Plant Buildings System #
+ Internal_volume_of_reactor_building_(m3)_________________________________ (vrci)_________________________ 9.94000000000000000e+03
+ Dist_from_device_centre_to_bldg_wall_(m)_________________________________ (wrbi)_________________________ 1.00000000000000000e+01
+ Effective_floor_area_(m2)________________________________________________ (a_plant_floor_effective)______ 1.28814367771785473e+05
+ Reactor_building_volume_(m3)_____________________________________________ (rbv)__________________________ 2.09436479999999974e+04
+ Reactor_maintenance_building_volume_(m3)_________________________________ (rmbv)_________________________ 2.94010797499999986e+05
+ Warmshop_volume_(m3)_____________________________________________________ (wsv)__________________________ 1.10101885899999994e+05
+ Tritium_building_volume_(m3)_____________________________________________ (triv)_________________________ 4.00000000000000000e+04
+ Electrical_building_volume_(m3)__________________________________________ (elev)_________________________ 4.00000000000000000e+04
+ Control_building_volume_(m3)_____________________________________________ (conv)_________________________ 6.00000000000000000e+04
+ Cryogenics_building_volume_(m3)__________________________________________ (cryv)_________________________ 7.82987523071277064e+03
+ Administration_building_volume_(m3)______________________________________ (admv)_________________________ 1.00000000000000000e+05
+ Shops_volume_(m3)________________________________________________________ (shov)_________________________ 1.00000000000000000e+05
+ Total_volume_of_nuclear_buildings_(m3)___________________________________ (volnucb)______________________ 4.61882558630712738e+05
+ # AC Power #
+ Facility_base_load_(MW)__________________________________________________ (basemw)_______________________ 5.00000000000000000e+00
+ Total_floor_space_(m2)___________________________________________________ (a_plant_floor_effective)______ 1.28814367771785473e+05
+ Power/floor_area_(MW/m2)_________________________________________________ (pmwpm2)_______________________ 1.49999999999999987e-04
+ Driver_power_supplies_(MW)_______________________________________________ (p_hcd_electric_total_mw)______ 8.19015823373161851e+01
+ Target_delivery_system_(MW)______________________________________________ (tdspmw)_______________________ 1.00000000000000002e-02
+ Target_factory_(MW)______________________________________________________ (tfacmw)_______________________ 1.66294401080816612e+00
+ Tritium_processing_plant_(MW)____________________________________________ (p_tritium_plant_electric_mw)__ 1.50000000000000000e+01
+ Vacuum_pump_motors_(MW)__________________________________________________ (vachtmw)______________________ 5.00000000000000000e-01
+ Cryogenic_comp_motors_(MW)_______________________________________________ (p_cryo_plant_electric_mw)_____ 1.00000000000000000e+01
+ Heat_transport_system_pump_motors_(MW)___________________________________ (htpmw_ife*reprat/6)___________ 7.68239470745366493e+00
+ Total_pulsed_power_(MW)__________________________________________________ (pacpmw)_______________________ 1.41079076221345844e+02
+ Total_base_power_reqd_at_all_times_(MW)__________________________________ (p_plant_electric_base_total_mw)_ 2.43221551657678177e+01
+ Total_low_voltage_power_(MW)_____________________________________________ (tlvpmw)_______________________ 5.41674938840296534e+01
+ # Power / Heat Transport #
+ Fusion_power_escaping_via_holes_(MW)_____________________________________ (pnucloss)_____________________ 0.00000000000000000e+00
+ Power_multiplication_factor______________________________________________ (f_p_blkt_multiplication)______ 1.26000000000000001e+00
+ Driver_wall_plug_power_(MW)______________________________________________ (p_hcd_electric_total_mw)______ 8.19015823373161851e+01
+ First_wall_nuclear_heating_(MW)__________________________________________ (p_fw_div_heat_deposited_mw)___ 6.08533686119757931e+02
+ Blanket_nuclear_heating_(MW)_____________________________________________ (p_blkt_nuclear_heat_total_mw)_ 1.92702333937923368e+03
+ Primary_heat_(MW)________________________________________________________ (p_plant_primary_heat_mw)______ 2.53555702549899161e+03
+ Secondary_heat_(MW)______________________________________________________ (p_plant_secondary_heat_mw)____ 1.20296681513892182e+02
+ Heat_removal_from_driver_power_(MW)______________________________________ (p_hcd_electric_loss_mw)_______ 5.88015823373161908e+01
+ Heat_removal_from_cryogenic_plant_(MW)___________________________________ (p_cryo_plant_electric_mw)_____ 1.00000000000000000e+01
+ Heat_removal_from_vacuum_pumps_(MW)______________________________________ (vachtmw)______________________ 5.00000000000000000e-01
+ Heat_removal_from_target_factory_(MW)____________________________________ (tfacmw)_______________________ 1.66294401080816612e+00
+ Heat_removal_from_delivery_system_(MW)___________________________________ (tdspmw)_______________________ 1.00000000000000002e-02
+ Heat_removal_from_tritium_plant_(MW)_____________________________________ (p_tritium_plant_electric_mw)__ 1.50000000000000000e+01
+ Heat_removal_from_facilities_(MW)________________________________________ (fachtmw)______________________ 2.43221551657678177e+01
+ Number_of_primary_heat_exchangers_______________________________________ (n_primary_heat_exchangers)___              3    
+ Gross_electric_power_(MW)________________________________________________ (p_plant_electric_gross_mw)____ 1.14100066147454618e+03
+ Net_electric_power_(MW)__________________________________________________ (p_plant_electric_net_mw)______ 9.99921585253200305e+02
+ Balance_of_plant_aux._power_fraction_____________________________________ (fgrosbop)_____________________ 0.00000000000000000e+00
+ # Plant Availability #
+ Allowable_blanket_neutron_fluence_(MW-yr/m2)_____________________________ (abktflnc)_____________________ 2.00000000000000000e+01
+ Allowable_divertor_heat_fluence_(MW-yr/m2)_______________________________ (adivflnc)_____________________ 7.00000000000000000e+00
+ First_wall_/_blanket_lifetime_(years)____________________________________ (life_blkt_fpy)________________ 2.99645986174410117e+00 OP
+ Divertor_lifetime_(years)________________________________________________ (divlife)______________________ 0.00000000000000000e+00 OP
+ Heating/CD_system_lifetime_(years)_______________________________________ (cdrlife)______________________ 2.99645986174410117e+00 OP
+ Total_plant_lifetime_(years)_____________________________________________ (tlife)________________________ 3.00000000000000000e+01
+ Total_plant_availability_fraction________________________________________ (cfactr)_______________________ 7.50000000000000000e-01
+ Number_of_fusion_cycles_to_reach_allowable_fw/blanket_DPA________________ (bktcycles)____________________ inf
+ # Power Reactor Costs (1990 US$) #
+ First_wall_/_blanket_life_(years)________________________________________ (life_blkt)____________________ 2.24734489630807577e+00
+ Cost_of_electricity_(m$/kWh)_____________________________________________ (coe)__________________________ 9.79298675728653905e+01
+ # Replaceable Components Direct Capital Cost #
+ First_wall_direct_capital_cost_(M$)______________________________________ (fwallcst)_____________________ 1.10823415099031095e+01
+ Blanket_direct_capital_cost_(M$)_________________________________________ (blkcst)_______________________ 7.89011126129663722e+01
+ IFE_driver_system_direct_cap_cost_(M$)___________________________________ _______________________________ 0.00000000000000000e+00
+ Fraction_of_driver_cost_-->_fuel_cost____________________________________ (fcdfuel)______________________ 0.00000000000000000e+00
+ # Detailed Costings (1990 US$) #
+ Acc.22_multiplier_for_Nth_of_a_kind______________________________________ (fkind)________________________ 1.00000000000000000e+00
+ Level_of_Safety_Assurance_______________________________________________ (lsa)_________________________              4    
+ # Structures and Site Facilities #
+ Site_improvements,_facilities,_land_(M$)_________________________________ (c211)_________________________ 3.52000000000000028e+01
+ Reactor_building_cost_(M$)_______________________________________________ (c212)_________________________ 8.37745919999999877e+00
+ Turbine_building_cost_(M$)_______________________________________________ (c213)_________________________ 3.80000000000000000e+01
+ Reactor_maintenance_building_cost_(M$)___________________________________ (c2141)________________________ 7.64428073499999954e+01
+ Warm_shop_cost_(M$)______________________________________________________ (c2142)________________________ 5.06468675139999931e+01
+ Tritium_building_cost_(M$)_______________________________________________ (c215)_________________________ 1.47999999999999989e+01
+ Electrical_equipment_building_cost_(M$)__________________________________ (c216)_________________________ 1.51999999999999993e+01
+ Additional_buildings_cost_(M$)___________________________________________ (c2171)________________________ 1.80000000000000000e+01
+ Control_room_buildings_cost_(M$)_________________________________________ (c2172)________________________ 2.10000000000000000e+01
+ Shop_and_warehouses_cost_(M$)____________________________________________ (c2173)________________________ 1.14999999999999982e+01
+ Cryogenic_building_cost_(M$)_____________________________________________ (c2174)________________________ 0.00000000000000000e+00
+ Total_account_21_cost_(M$)_______________________________________________ (c21)__________________________ 2.89167134063999981e+02
+ # Reactor Systems #
+ First_wall_cost_(M$)_____________________________________________________ (c2211)________________________ 0.00000000000000000e+00
+ Blanket_beryllium_cost_(M$)______________________________________________ (c22121)_______________________ 0.00000000000000000e+00
+ Blanket_lithium_oxide_cost_(M$)__________________________________________ (c22122)_______________________ 0.00000000000000000e+00
+ Blanket_stainless_steel_cost_(M$)________________________________________ (c22123)_______________________ 0.00000000000000000e+00
+ Blanket_vanadium_cost_(M$)_______________________________________________ (c22124)_______________________ 0.00000000000000000e+00
+ Blanket_carbon_cloth_cost_(M$)___________________________________________ (c22125)_______________________ 0.00000000000000000e+00
+ Blanket_concrete_cost_(M$)_______________________________________________ (c22126)_______________________ 0.00000000000000000e+00
+ Blanket_FLiBe_cost_(M$)__________________________________________________ (c22127)_______________________ 7.89011126129663722e+01
+ Blanket_lithium_cost_(M$)________________________________________________ (c22128)_______________________ 0.00000000000000000e+00
+ Blanket_total_cost_(M$)__________________________________________________ (c2212)________________________ 0.00000000000000000e+00
+ Bulk_shield_cost_(M$)____________________________________________________ (c22131)_______________________ 5.33655479685350429e+02
+ Penetration_shielding_cost_(M$)__________________________________________ (c22132)_______________________ 0.00000000000000000e+00
+ Total_shield_cost_(M$)___________________________________________________ (c2213)________________________ 5.33655479685350429e+02
+ Total_support_structure_cost_(M$)________________________________________ (c2214)________________________ 0.00000000000000000e+00
+ Divertor_cost_(M$)_______________________________________________________ (c2215)________________________ 0.00000000000000000e+00
+ Total_account_221_cost_(M$)______________________________________________ (c221)_________________________ 5.33655479685350429e+02
+ # Power Injection #
+ IFE_driver_system_cost_(M$)______________________________________________ (c2231)________________________ 5.45086346551878023e+02
+ Total_account_223_cost_(M$)______________________________________________ (c223)_________________________ 5.45086346551878023e+02
+ # Vacuum Systems #
+ High_vacuum_pumps_cost_(M$)______________________________________________ (c2241)________________________ 1.24799999999999986e+01
+ Backing_pumps_cost_(M$)__________________________________________________ (c2242)________________________ 4.67999999999999972e+00
+ Vacuum_duct_cost_(M$)____________________________________________________ (c2243)________________________ 1.35199999999999987e+00
+ Valves_cost_(M$)_________________________________________________________ (c2244)________________________ 2.98564444016755015e+00
+ Duct_shielding_cost_(M$)_________________________________________________ (c2245)________________________ 0.00000000000000000e+00
+ Instrumentation_cost_(M$)________________________________________________ (c2246)________________________ 1.30000000000000004e+00
+ Total_account_224_cost_(M$)______________________________________________ (c224)_________________________ 2.27976444401675487e+01
+ # Heat Transport System #
+ Pumps_and_piping_system_cost_(M$)________________________________________ (cpp)__________________________ 6.98804549550712153e+01
+ Primary_heat_exchanger_cost_(M$)_________________________________________ (chx)__________________________ 7.98139864888507162e+01
+ Total,_reactor_cooling_system_cost_(M$)__________________________________ (c2261)________________________ 1.49694441443921932e+02
+ Pumps,_piping_cost_(M$)__________________________________________________ (cppa)_________________________ 1.98538711494167295e+01
+ Total,_auxiliary_cooling_system_cost_(M$)________________________________ (c2262)________________________ 1.98538711494167295e+01
+ Total,_cryogenic_system_cost_(M$)________________________________________ (c2263)________________________ 7.14543104266423654e+01
+ Total_account_226_cost_(M$)______________________________________________ (c226)_________________________ 2.41002623019981030e+02
+ # Fuel Handling System #
+ Fuelling_system_cost_(M$)________________________________________________ (c2271)________________________ 5.00000000000000000e+00
+ Fuel_processing_and_purification_cost_(M$)_______________________________ (c2272)________________________ 1.59704653402342103e+02
+ Atmospheric_recovery_systems_cost_(M$)___________________________________ (c2273)________________________ 6.21263962066211750e+00
+ Nuclear_building_ventilation_cost_(M$)___________________________________ (c2274)________________________ 1.15735408209377511e+01
+ Total_account_227_cost_(M$)______________________________________________ (c227)_________________________ 1.82490833843941971e+02
+ # Instrumentation and Control #
+ Instrumentation_and_control_cost_(M$)____________________________________ (c228)_________________________ 1.50000000000000000e+02
+ # Maintenance Equipment #
+ Maintenance_equipment_cost_(M$)__________________________________________ (c229)_________________________ 3.00000000000000000e+02
+ # Total Account 22 Cost #
+ Total_account_22_cost_(M$)_______________________________________________ (c22)__________________________ 1.97503292754131894e+03
+ # Turbine Plant Equipment #
+ Turbine_plant_equipment_cost_(M$)________________________________________ (c23)__________________________ 2.20574191303843406e+02
+ # Electric Plant Equipment #
+ Switchyard_equipment_cost_(M$)___________________________________________ (c241)_________________________ 1.83999999999999986e+01
+ Transformers_cost_(M$)___________________________________________________ (c242)_________________________ 2.48246278996468472e+00
+ Low_voltage_equipment_cost_(M$)__________________________________________ (c243)_________________________ 1.08334987768059299e+00
+ Diesel_backup_equipment_cost_(M$)________________________________________ (c244)_________________________ 6.79999999999999982e+00
+ Auxiliary_facilities_cost_(M$)___________________________________________ (c245)_________________________ 1.50000000000000000e+00
+ Total_account_24_cost_(M$)_______________________________________________ (c24)__________________________ 3.02658126676452781e+01
+ # Miscellaneous Plant Equipment #
+ Miscellaneous_plant_equipment_cost_(M$)__________________________________ (c25)__________________________ 2.50000000000000000e+01
+ # Heat Rejection System #
+ Heat_rejection_system_cost_(M$)__________________________________________ (c26)__________________________ 5.32963062598907555e+01
+ # Plant Direct Cost #
+ Plant_direct_cost_(M$)___________________________________________________ (cdirt)________________________ 2.59333637183669771e+03
+ # Reactor Core Cost #
+ Reactor_core_cost_(M$)___________________________________________________ (crctcore)_____________________ 1.07874182623722845e+03
+ # Indirect Cost #
+ Indirect_cost_(M$)_______________________________________________________ (c9)___________________________ 8.64877680007538515e+02
+ # Total Contingency #
+ Total_contingency_(M$)___________________________________________________ (ccont)________________________ 6.74351740109626121e+02
+ # Constructed Cost #
+ Constructed_cost_(M$)____________________________________________________ (concost)______________________ 4.13256579195386257e+03
+ # Interest during Construction #
+ Interest_during_construction_(M$)________________________________________ (moneyint)_____________________ 6.81873355672387447e+02
+ # Total Capital Investment #
+ Total_capital_investment_(M$)____________________________________________ (capcost)______________________ 4.81443914762624991e+03
+ # Errors and Warnings #
+ # Errors and Warnings #
+ PROCESS_error_status_flag_______________________________________________ (error_status)________________              0    
+ Final_error/warning_identifier__________________________________________ (error_id)____________________              0    
+ # End of PROCESS Output #
+ # End of PROCESS Output #
+ # Copy of PROCESS Input Follows #
+************************************************************************************************************************
+*****                                                               *****
+*****               OSIRIS Inertial Fusion Plant                    *****
+*****               Stuart Muldrew (01/08/2019)                     *****
+*****               Based on run by Peter Knight                    *****
+*****                                                               *****
+*****                                                               *****
+*************************************************************************
+
+*---------------Constraint Equations---------------*
+
+icc = 16               *Net electric power lower limit
+
+*---------------Iteration Variables----------------*
+ixc = 81               *edrive
+edrive = 5.0D6         *IFE driver energy (J)
+
+*-----------------Global Variables-----------------*
+runtitle = IFE_001
+
+*---------------Constraint Variables---------------*
+p_plant_electric_net_required_mw  = 1000.0     *Required net electric power (MW)
+
+*---------------Numerics Variables-----------------*
+IOPTIMZ   = 1         *Code operation switch (1: for optimisation VMCON only)
+minmax    = 18        *Null FoM, find feasible
+
+
+*------------------IFE Variables-------------------*
+ife         = 1        *Switch for Inertial Fusion Energy model
+ifetyp      = 1        *Switch for type of IFE device build (1: OSIRIS-like build)
+ifedrv      = 2        *Switch for type of IFE driver (2: Heavy ion beam driver based on OSIRIS)
+bldr        = 0.55     *Radial thickness of IFE blanket (m)
+bldzl       = 0.65     *Vertical thickness of IFE blanket below chamber (m)
+bldzu       = 0.55     *Vertical thickness of IFE blanket above chamber (m)
+
+blmatf(1)   = 0.0500   *Blanket material fraction (radial void)
+blmatf(2)   = 0.0000   *Blanket material fraction (upper void)
+blmatf(3)   = 0.0000   *Blanket material fraction (lower void)
+blmatf(4)   = 0.0000   *Blanket material fraction (radial steel)
+blmatf(5)   = 0.0000   *Blanket material fraction (upper steel)
+blmatf(6)   = 0.0000   *Blanket material fraction (lower steel)
+blmatf(7)   = 0.0086   *Blanket material fraction (radial carbon)
+blmatf(8)   = 0.0091   *Blanket material fraction (upper carbon)
+blmatf(9)   = 0.0000   *Blanket material fraction (lower carbon)
+blmatf(10)  = 0.9414   *Blanket material fraction (radial FLiBe)
+blmatf(11)  = 0.9909   *Blanket material fraction (upper FLiBe)
+blmatf(12)  = 1.0000   *Blanket material fraction (lower FLiBe)
+blmatf(13)  = 0.0000   *Blanket material fraction (radial Li20)
+blmatf(14)  = 0.0000   *Blanket material fraction (upper Li20)
+blmatf(15)  = 0.0000   *Blanket material fraction (lower Li20)
+blmatf(16)  = 0.0000   *Blanket material fraction (radial concrete)
+blmatf(17)  = 0.0000   *Blanket material fraction (upper concrete)
+blmatf(18)  = 0.0000   *Blanket material fraction (lower concrete)
+blmatf(19)  = 0.0000   *Blanket material fraction (radial helium)
+blmatf(20)  = 0.0000   *Blanket material fraction (upper helium)
+blmatf(21)  = 0.0000   *Blanket material fraction (lower helium)
+blmatf(22)  = 0.0000   *Blanket material fraction (radial xenon)
+blmatf(23)  = 0.0000   *Blanket material fraction (upper xenon)
+blmatf(24)  = 0.0000   *Blanket material fraction (lower xenon)
+blmatf(25)  = 0.0000   *Blanket material fraction (radial lithium)
+blmatf(26)  = 0.0000   *Blanket material fraction (upper lithium)
+blmatf(27)  = 0.0000   *Blanket material fraction (lower lithium)
+
+chdzl       = 3.1      *Vertical thickness of IFE chamber below centre (m)
+chdzu       = 3.7      *Vertical thickness of IFE chamber above centre (m)
+chmatf(0)   = 1.0      *IFE chamber material fractions (void)
+chrad       = 3.5      *Radius of IFE chamber (m)
+fauxbop     = 0.0      *Fraction of gross electric power to balance-of-plant
+fbreed      = 0.526    *Fraction of breeder external to device core
+fwdr        = 0.055    *Radial thickness of IFE first wall (m)
+fwdzl       = 0.0      *Vertical thickness of IFE first wall below chamber (m)
+fwdzu       = 0.055    *Vertical thickness of IFE first wall above chamber (m)
+
+fwmatf(1)   = 0.0500   *First wall material fraction (radial void)
+fwmatf(2)   = 0.0000   *First wall material fraction (upper void)
+fwmatf(3)   = 1.0000   *First wall material fraction (lower void)
+fwmatf(4)   = 0.0000   *First wall material fraction (radial steel)
+fwmatf(5)   = 0.0000   *First wall material fraction (upper steel)
+fwmatf(6)   = 0.0000   *First wall material fraction (lower steel)
+fwmatf(7)   = 0.0864   *First wall material fraction (radial carbon)
+fwmatf(8)   = 0.0909   *First wall material fraction (upper carbon)
+fwmatf(9)   = 0.0000   *First wall material fraction (lower carbon)
+fwmatf(10)  = 0.8636   *First wall material fraction (radial FLiBe)
+fwmatf(11)  = 0.9091   *First wall material fraction (upper FLiBe)
+fwmatf(12)  = 0.0000   *First wall material fraction (lower FLiBe)
+fwmatf(13)  = 0.0000   *First wall material fraction (radial Li20)
+fwmatf(14)  = 0.0000   *First wall material fraction (upper Li20)
+fwmatf(15)  = 0.0000   *First wall material fraction (lower Li20)
+fwmatf(16)  = 0.0000   *First wall material fraction (radial concrete)
+fwmatf(17)  = 0.0000   *First wall material fraction (upper concrete)
+fwmatf(18)  = 0.0000   *First wall material fraction (lower concrete)
+fwmatf(19)  = 0.0000   *First wall material fraction (radial helium)
+fwmatf(20)  = 0.0000   *First wall material fraction (upper helium)
+fwmatf(21)  = 0.0000   *First wall material fraction (lower helium)
+fwmatf(22)  = 0.0000   *First wall material fraction (radial xenon)
+fwmatf(23)  = 0.0000   *First wall material fraction (upper xenon)
+fwmatf(24)  = 0.0000   *First wall material fraction (lower xenon)
+fwmatf(25)  = 0.0000   *First wall material fraction (radial lithium)
+fwmatf(26)  = 0.0000   *First wall material fraction (upper lithium)
+fwmatf(27)  = 0.0000   *First wall material fraction (lower lithium)
+
+pdrive      = 23.1D6   *IFE driver power reaching target (W)
+shdr        = 0.2      *Radial thickness of IFE shield (m)
+shdzl       = 0.35     *Vertical thickness of IFE shield below chamber (m)
+shdzu       = 0.2      *Vertical thickness of IFE shield above chamber (m)
+
+shmatf(1)   = 0.0000   *Shield material fraction (radial void)
+shmatf(2)   = 0.3000   *Shield material fraction (upper void)
+shmatf(3)   = 0.3000   *Shield material fraction (lower void)
+shmatf(4)   = 1.0000   *Shield material fraction (radial steel)
+shmatf(5)   = 0.7000   *Shield material fraction (upper steel)
+shmatf(6)   = 0.7000   *Shield material fraction (lower steel)
+shmatf(7)   = 0.0000   *Shield material fraction (radial carbon)
+shmatf(8)   = 0.0000   *Shield material fraction (upper carbon)
+shmatf(9)   = 0.0000   *Shield material fraction (lower carbon)
+shmatf(10)  = 0.0000   *Shield material fraction (radial FLiBe)
+shmatf(11)  = 0.0000   *Shield material fraction (upper FLiBe)
+shmatf(12)  = 0.0000   *Shield material fraction (lower FLiBe)
+shmatf(13)  = 0.0000   *Shield material fraction (radial Li20)
+shmatf(14)  = 0.0000   *Shield material fraction (upper Li20)
+shmatf(15)  = 0.0000   *Shield material fraction (lower Li20)
+shmatf(16)  = 0.0000   *Shield material fraction (radial concrete)
+shmatf(17)  = 0.0000   *Shield material fraction (upper concrete)
+shmatf(18)  = 0.0000   *Shield material fraction (lower concrete)
+shmatf(19)  = 0.0000   *Shield material fraction (radial helium)
+shmatf(20)  = 0.0000   *Shield material fraction (upper helium)
+shmatf(21)  = 0.0000   *Shield material fraction (lower helium)
+shmatf(22)  = 0.0000   *Shield material fraction (radial xenon)
+shmatf(23)  = 0.0000   *Shield material fraction (upper xenon)
+shmatf(24)  = 0.0000   *Shield material fraction (lower xenon)
+shmatf(25)  = 0.0000   *Shield material fraction (radial lithium)
+shmatf(26)  = 0.0000   *Shield material fraction (upper lithium)
+shmatf(27)  = 0.0000   *Shield material fraction (lower lithium)
+
+v1dr        = 0.005    *Radial thickness of IFE void between first wall and blanket (m)
+v1dzl       = 1.75     *Vertical thickness of IFE void 1 below chamber (m)
+v1dzu       = 0.005    *Vertical thickness of IFE void 1 above chamber (m)
+
+v1matf(1)   = 0.0500   *Void 1 material fraction (radial void)
+v1matf(2)   = 0.0000   *Void 1 material fraction (upper void)
+v1matf(3)   = 1.0000   *Void 1 material fraction (lower void)
+v1matf(4)   = 0.0000   *Void 1 material fraction (radial steel)
+v1matf(5)   = 0.0000   *Void 1 material fraction (upper steel)
+v1matf(6)   = 0.0000   *Void 1 material fraction (lower steel)
+v1matf(7)   = 0.9500   *Void 1 material fraction (radial carbon)
+v1matf(8)   = 1.0000   *Void 1 material fraction (upper carbon)
+v1matf(9)   = 0.0000   *Void 1 material fraction (lower carbon)
+v1matf(10)  = 0.0000   *Void 1 material fraction (radial FLiBe)
+v1matf(11)  = 0.0000   *Void 1 material fraction (upper FLiBe)
+v1matf(12)  = 0.0000   *Void 1 material fraction (lower FLiBe)
+v1matf(13)  = 0.0000   *Void 1 material fraction (radial Li20)
+v1matf(14)  = 0.0000   *Void 1 material fraction (upper Li20)
+v1matf(15)  = 0.0000   *Void 1 material fraction (lower Li20)
+v1matf(16)  = 0.0000   *Void 1 material fraction (radial concrete)
+v1matf(17)  = 0.0000   *Void 1 material fraction (upper concrete)
+v1matf(18)  = 0.0000   *Void 1 material fraction (lower concrete)
+v1matf(19)  = 0.0000   *Void 1 material fraction (radial helium)
+v1matf(20)  = 0.0000   *Void 1 material fraction (upper helium)
+v1matf(21)  = 0.0000   *Void 1 material fraction (lower helium)
+v1matf(22)  = 0.0000   *Void 1 material fraction (radial xenon)
+v1matf(23)  = 0.0000   *Void 1 material fraction (upper xenon)
+v1matf(24)  = 0.0000   *Void 1 material fraction (lower xenon)
+v1matf(25)  = 0.0000   *Void 1 material fraction (radial lithium)
+v1matf(26)  = 0.0000   *Void 1 material fraction (upper lithium)
+v1matf(27)  = 0.0000   *Void 1 material fraction (lower lithium)
+
+v2dr        = 2.19     *Radial thickness of IFE void between blanket and shield (m)
+v2dzl       = 0.0      *Vertical thickness of IFE void 2 below chamber (m)
+v2dzu       = 0.85     *Vertical thickness of IFE void 2 above chamber (m)
+
+v2matf(1)   = 0.9500   *Void 2 material fraction (radial void)
+v2matf(2)   = 0.9500   *Void 2 material fraction (upper void)
+v2matf(3)   = 0.9500   *Void 2 material fraction (lower void)
+v2matf(4)   = 0.0000   *Void 2 material fraction (radial steel)
+v2matf(5)   = 0.0000   *Void 2 material fraction (upper steel)
+v2matf(6)   = 0.0000   *Void 2 material fraction (lower steel)
+v2matf(7)   = 0.0000   *Void 2 material fraction (radial carbon)
+v2matf(8)   = 0.0000   *Void 2 material fraction (upper carbon)
+v2matf(9)   = 0.0000   *Void 2 material fraction (lower carbon)
+v2matf(10)  = 0.0500   *Void 2 material fraction (radial FLiBe)
+v2matf(11)  = 0.0500   *Void 2 material fraction (upper FLiBe)
+v2matf(12)  = 0.5000   *Void 2 material fraction (lower FLiBe)
+v2matf(13)  = 0.0000   *Void 2 material fraction (radial Li20)
+v2matf(14)  = 0.0000   *Void 2 material fraction (upper Li20)
+v2matf(15)  = 0.0000   *Void 2 material fraction (lower Li20)
+v2matf(16)  = 0.0000   *Void 2 material fraction (radial concrete)
+v2matf(17)  = 0.0000   *Void 2 material fraction (upper concrete)
+v2matf(18)  = 0.0000   *Void 2 material fraction (lower concrete)
+v2matf(19)  = 0.0000   *Void 2 material fraction (radial helium)
+v2matf(20)  = 0.0000   *Void 2 material fraction (upper helium)
+v2matf(21)  = 0.0000   *Void 2 material fraction (lower helium)
+v2matf(22)  = 0.0000   *Void 2 material fraction (radial xenon)
+v2matf(23)  = 0.0000   *Void 2 material fraction (upper xenon)
+v2matf(24)  = 0.0000   *Void 2 material fraction (lower xenon)
+v2matf(25)  = 0.0000   *Void 2 material fraction (radial lithium)
+v2matf(26)  = 0.0000   *Void 2 material fraction (upper lithium)
+v2matf(27)  = 0.0000   *Void 2 material fraction (lower lithium)
+
+v3dr        = 3.5      *Radial thickness of IFE void outside shield (m)
+v3dzl       = 0.0      *Vertical thickness of IFE void 3 below chamber (m)
+v3dzu       = 13.64    *Vertical thickness of IFE void 3 above chamber (m)
+
+v3matf(1)   = 1.0000   *Void 3 material fraction (radial void)
+v3matf(2)   = 1.0000   *Void 3 material fraction (upper void)
+v3matf(3)   = 1.0000   *Void 3 material fraction (lower void)
+v3matf(4)   = 0.0000   *Void 3 material fraction (radial steel)
+v3matf(5)   = 0.0000   *Void 3 material fraction (upper steel)
+v3matf(6)   = 0.0000   *Void 3 material fraction (lower steel)
+v3matf(7)   = 0.0000   *Void 3 material fraction (radial carbon)
+v3matf(8)   = 0.0000   *Void 3 material fraction (upper carbon)
+v3matf(9)   = 0.0000   *Void 3 material fraction (lower carbon)
+v3matf(10)  = 0.0000   *Void 3 material fraction (radial FLiBe)
+v3matf(11)  = 0.0000   *Void 3 material fraction (upper FLiBe)
+v3matf(12)  = 0.0000   *Void 3 material fraction (lower FLiBe)
+v3matf(13)  = 0.0000   *Void 3 material fraction (radial Li20)
+v3matf(14)  = 0.0000   *Void 3 material fraction (upper Li20)
+v3matf(15)  = 0.0000   *Void 3 material fraction (lower Li20)
+v3matf(16)  = 0.0000   *Void 3 material fraction (radial concrete)
+v3matf(17)  = 0.0000   *Void 3 material fraction (upper concrete)
+v3matf(18)  = 0.0000   *Void 3 material fraction (lower concrete)
+v3matf(19)  = 0.0000   *Void 3 material fraction (radial helium)
+v3matf(20)  = 0.0000   *Void 3 material fraction (upper helium)
+v3matf(21)  = 0.0000   *Void 3 material fraction (lower helium)
+v3matf(22)  = 0.0000   *Void 3 material fraction (radial xenon)
+v3matf(23)  = 0.0000   *Void 3 material fraction (upper xenon)
+v3matf(24)  = 0.0000   *Void 3 material fraction (lower xenon)
+v3matf(25)  = 0.0000   *Void 3 material fraction (radial lithium)
+v3matf(26)  = 0.0000   *Void 3 material fraction (upper lithium)
+v3matf(27)  = 0.0000   *Void 3 material fraction (lower lithium)
+
+*------------------FWBS Variables------------------*
+f_p_blkt_multiplication       = 1.26     *Energy multiplication in blanket and shield
+fhole       = 0.0      *Area fraction taken up by other holes 
+
+*-----------------Cost Variables-------------------*
+cost_model = 0         *1990 cost model
+abktflnc    = 20.0     *Allowable first wall/blanket neutron fluence (MW-yr/m2)
+cfactr      = 0.75     *Total plant availability fraction
+fcdfuel     = 0.0      *Fraction of current drive cost treated as fuel (if ifueltyp = 1)
+fkind       = 1.0      *Multiplier for Nth of a kind costs
+iavail      = 0        *Switch for plant availability model (use cfactr)
+ifueltyp    = 1        *Fuel Switch (1: Treat blankets, FW and fcdfuel of CD as fuel)
+ireactor    = 1        *Switch for net electric and CoE (1: calculate)
+lsa         = 4        *Level of safety assurance switch (4: like current fission plant)
+uccarb      = 500.0    *Cost of carbon cloth ($/kg)
+ucf1        = 5.0D6    *Cost of fuelling system ($)
+ucme        = 3.0D8    *Cost of maintenance equipment ($)
+
+*---------------Buildings Variables----------------*
+pibv        = 4.0D4    *Power injection building volume (m3)
+rbrt        = 3.2      *Reactor building roof thickness (m)
+rbwt        = 3.2      *Reactor building wall thickness (m)
+
+*---------------Heat Transport Variables-----------*
+eta_turbine       = 0.45    *Thermal-to-electric conversion efficiency
+fauxbop     = 0.0     *Fraction of gross electric power to balance-of-plant
+htpmw_ife   = 10.0    *IFE heat transport system electrical pump power (MW)
