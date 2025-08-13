@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "08:49",
+        "date": "13/08/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Refactor FW coverage variables \\(#3715\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \u2728 Update first wall area calculations to use full coverage variables CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \ud83d\udd04 Updated variable names from f_a_fw_hcd to f_a_fw_outboard_hcd across multiple data files and test cases to reflect the new naming convention. CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :bug: Remove f_a_fw_outboard_hcd from inboard FW area calc CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \ud83d\udd04 Update obsolete variable mapping to include f_a_fw_hcd as f_a_fw_outboard_hcd CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Post rebase changes ",
+        "commit_hash": "3640bd2805b69a9c0bac25a3666f54b4ed7bf04e"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "divlife": 0.0,
+        "cdirt": 2593.3363718366977,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "concost": 4132.565791953863,
+        "p_fusion_total_mw": 2012.3468456341204
+    }
+}
