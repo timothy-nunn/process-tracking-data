@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "15:24",
+        "date": "13/08/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Refactor \\`tf_field_and_force\\` \\(#3762\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Refactor TF coil force calculations to improve readability and maintainability CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Refactor test_tf_field_and_force to remove monkeypatching and directly call tf_field_and_force CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Add TF forces section to documentation\\, detailing calculations for centering and vertical forces on TF coils CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Refactor TF coil calculations for inner and outer conductor radii to enhance clarity and maintainability CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Refactor TF coil documentation to clarify vertical force calculations and add sliding joints case ",
+        "commit_hash": "51c9846c53347e42a2aecb0d72ad7542148e79f3"
+    },
+    "tracking": {
+        "cdirt": 2593.3363718366977,
+        "concost": 4132.565791953863,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "divlife": 0.0
+    }
+}
