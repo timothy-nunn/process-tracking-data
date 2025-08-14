@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "15:19",
+        "date": "14/08/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Fix CS pre-commpresion bugs when CS in TF \\(#3780\\) Co-authored-by: apearce \\<alexaner.pearce@ukaea.uk\\> ",
+        "commit_hash": "0d669744229a107e1ed88026a86d3c0f77df53a0"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "cdirt": 2593.3363718366977,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "concost": 4132.565791953863,
+        "divlife": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "pflux_fw_neutron_mw": 8.899390579904257
+    }
+}
