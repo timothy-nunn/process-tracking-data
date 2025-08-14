@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "15:02",
+        "date": "14/08/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Convert pf_power_variables data structure to python \\(#3790\\) ",
+        "commit_hash": "e472f8ce277d9b680a7b8a54969b1bd054f465c7"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "cdirt": 2593.3363718366977,
+        "divlife": 0.0,
+        "concost": 4132.565791953863,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_plant_electric_gross_mw": 1141.0006614745462
+    }
+}
