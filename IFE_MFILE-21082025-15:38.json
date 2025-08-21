@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "15:38",
+        "date": "21/08/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "add missing initialisation of current drive variables \\(#3805\\) ",
+        "commit_hash": "532873a8c23e2b4ab71e5662a5ff06723b4ef3e4"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "divlife": 0.0,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "concost": 4132.565791953863,
+        "cdirt": 2593.3363718366977,
+        "p_plant_electric_gross_mw": 1141.0006614745462
+    }
+}
