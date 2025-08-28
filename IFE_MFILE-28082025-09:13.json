@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "09:13",
+        "date": "28/08/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add method to calculate TF stored magnetic energy \\(#3803\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :sparkle: Implement \\`tf_stored_magnetic_energy\\` method to calculate stored magnetic energy in TF coils CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Add unit test for \\`tf_stored_magnetic_energy\\` method in TFCoil class CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \u2728 Add new e_tf_coil_magnetic_stored variable CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \u267b\ufe0f Update magnetic energy variable references in TF coil classes ",
+        "commit_hash": "91bb3031c162e57b6a32580fb5ba4e2cdb453e2d"
+    },
+    "tracking": {
+        "p_fusion_total_mw": 2012.3468456341204,
+        "concost": 4132.565791953863,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "divlife": 0.0,
+        "cdirt": 2593.3363718366977,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "pflux_fw_neutron_mw": 8.899390579904257
+    }
+}
