@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "02/09/2025 UTC",
+        "time": "13:52",
+        "title": "IFE_MFILE",
+        "commit_message": "Add new obsolete variable mappings for TF layers and pancakes \\(#3814\\) ",
+        "commit_hash": "3d1276f559a35b91f374805d2eee23864aea3a2d"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "cdirt": 2593.3363718366977,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "concost": 4132.565791953863,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "divlife": 0.0
+    }
+}
