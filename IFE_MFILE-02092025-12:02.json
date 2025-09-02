@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "12:02",
+        "date": "02/09/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Adjust plot annotations and add TF/PF coil power boxes in power flow diagram \\(#3817\\) ",
+        "commit_hash": "afdd003c593ab3b566e536859eaa896f19944abd"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "divlife": 0.0,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "concost": 4132.565791953863,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "cdirt": 2593.3363718366977,
+        "p_fusion_total_mw": 2012.3468456341204
+    }
+}
