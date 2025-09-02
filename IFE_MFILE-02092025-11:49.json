@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "02/09/2025 UTC",
+        "time": "11:49",
+        "title": "IFE_MFILE",
+        "commit_message": "\ud83d\udd04 Updated all instances of fimp\\(1\\) to fimp\\(14\\) to \\`f_nd_impurity_electrons\\` \\(#3810\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp \ud83d\udd04 Updated all instances of fimp\\(1\\) to fimp\\(14\\) to f_nd_impurity_electrons\\(1\\) to f_nd_impurity_electrons\\(14\\) across various input and data files. CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Add mapping for obsolete variable \\'fimp\\' to \\'f_nd_impurity_electrons\\' in OBS_VARS ",
+        "commit_hash": "1dfc8f3db314a438b759b42a4ec735a38c1e723b"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "concost": 4132.565791953863,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "cdirt": 2593.3363718366977,
+        "divlife": 0.0
+    }
+}
