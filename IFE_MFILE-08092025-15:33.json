@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "08/09/2025 UTC",
+        "time": "15:33",
+        "title": "IFE_MFILE",
+        "commit_message": "Fix link for engineering model paper in publications.md \\(#3832\\) ",
+        "commit_hash": "6b740ffbffde86b5cf5dcb7b426ac62de009f1a1"
+    },
+    "tracking": {
+        "cdirt": 2593.3363718366977,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "concost": 4132.565791953863,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "divlife": 0.0
+    }
+}
