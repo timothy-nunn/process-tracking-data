@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "10:49",
+        "date": "08/09/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Convert constants to Python ",
+        "commit_hash": "7ff9e569e219b0731834436f9fb2c2b766212da0"
+    },
+    "tracking": {
+        "divlife": 0.0,
+        "cdirt": 2593.3363718366977,
+        "concost": 4132.565791953863,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_plant_electric_net_mw": 999.9215852532003
+    }
+}
