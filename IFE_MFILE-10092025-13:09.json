@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "13:09",
+        "date": "10/09/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Refactor CS geometry calculations into a separate methods \\(#3837\\) CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :recycle: Refactor CS geometry calculations into a separate method for improved clarity and maintainability CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Add unit test for calculate_cs_geometry function with parameterized cases CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Refactor calculate_cs_geometry parameters and update related tests for consistency CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Add vertical and horizontal reference lines to CS coil structure plot for better visualization CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :sparkle: Add dz_cs_full variable to track full height of the central solenoid CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp :sparkle: Add dr_cs_full variable to track full radial thickness of the central solenoid CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Add full height and radial thickness variables for central solenoid geometry CITATION.cff CMakeLists.txt CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md cmake documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements.txt requirements_dev.txt ruff.toml scripts setup.py source tests tracking valgrind-python.supp Update test_cs_geometry to include additional expected values for geometry calculations ",
+        "commit_hash": "5e923118a9fc7d4642af32f1ce0657c28ea9d7f9"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "cdirt": 2593.3363718366977,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "divlife": 0.0,
+        "concost": 4132.565791953863
+    }
+}
