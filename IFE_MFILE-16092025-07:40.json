@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "07:40",
+        "date": "16/09/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Remove CMake and make PROCESS a pip installed package \\(#3842\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py source tests tracking Remove build-time creation of dicts The get_dicts\\(\\) now does what dict creation build-time scripts did. Instead of writing a file\\, the dicts are created when get_dicts is first called and are cached for a given Python PROCESS CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py source tests tracking Remove CMake CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py source tests tracking Remove FORD docs CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py source tests tracking Remove automatic Fortran namespacing from tracker The tracker now requires tracking config to be of the form \\<arbitrary namespace\\>.\\<MFile variable\\> CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py source tests tracking Update docs to remove references to CMake and Fortran CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py source tests tracking Remove empty utilities package ",
+        "commit_hash": "68d80587cb61981911f7048b57892ca9623bf704"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "divlife": 0.0,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "cdirt": 2593.3363718366977,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "concost": 4132.565791953863,
+        "p_plant_electric_gross_mw": 1141.0006614745462
+    }
+}
