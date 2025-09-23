@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "23/09/2025 UTC",
+        "time": "08:56",
+        "title": "IFE_MFILE",
+        "commit_message": "Allow numpy versions \\>=2 \\(#3855\\) ",
+        "commit_hash": "ade4543e2f6a7661b05cf85b3594bac95577dff8"
+    },
+    "tracking": {
+        "cdirt": 2593.3363718366977,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "concost": 4132.565791953863,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "divlife": 0.0,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_fusion_total_mw": 2012.3468456341204
+    }
+}
