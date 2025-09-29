@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "15:08",
+        "date": "29/09/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "\ud83c\udfa8 Plot proc cover page \\(#3862\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add cover page plotting functionality and scale fontsize in coil plots CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add cover page to main plot and adjust figure handling ",
+        "commit_hash": "1926056b918173d546b5fa806ca54a2510a75986"
+    },
+    "tracking": {
+        "divlife": 0.0,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "concost": 4132.565791953863,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "cdirt": 2593.3363718366977,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_plant_electric_gross_mw": 1141.0006614745462
+    }
+}
