@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "30/09/2025 UTC",
+        "time": "10:56",
+        "title": "IFE_MFILE",
+        "commit_message": "Refactor CS coil current filament variable names \\(#3872\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Refactor \\`bfmax\\` function to \\`calculate_cs_peak_field\\` for clarity and consistency CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename \\`nfxfh\\` to \\`n_cs_current_filaments\\` for clarity and update references accordingly CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename \\`rfxf\\` to \\`r_cs_current_filaments\\` for clarity and update references accordingly CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename \\`zfxf\\` to \\`z_cs_current_filaments\\` for clarity and update references accordingly CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Refactor internal variable \\`ioheof\\` to \\`c_cs_flat_top_end\\` for clarity and update references accordingly CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename \\`cfxf\\` to \\`c_cs_current_filaments\\` for clarity and update references accordingly CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking :sparkle: Refactor CS filament placement logic into a dedicated method for improved clarity and maintainability CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Output flux filaments into plot_proc CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename current filament variables for central solenoid to improve clarity and consistency CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Update obsolete variable mapping for central solenoid current filaments and remove commented-out code in PFCoil class for clarity ",
+        "commit_hash": "f616def3bdb78e64a6a9ee31af8cc50961063785"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "concost": 4132.565791953863,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "divlife": 0.0,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "cdirt": 2593.3363718366977,
+        "p_plant_electric_net_mw": 999.9215852532003
+    }
+}
