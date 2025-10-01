@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "01/10/2025 UTC",
+        "time": "21:00",
+        "title": "IFE_MFILE",
+        "commit_message": "\u267b\ufe0f Refactor pf coil 4 \\(#3876\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename \\'tim\\' to \\'t_pulse_cumulative\\' for clarity and consistency across the codebase CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking :recycle: Refactor bfield function parameters for clarity and consistency CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename \\'bfield\\' to \\'calculate_b_field_at_point\\' for clarity and consistency across the codebase CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename \\'peakb\\' to \\'peak_b_field_at_pf_coil\\' for clarity and consistency\\; update related tests CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Refactor parameters of \\'peak_b_field_at_pf_coil\\' method for clarity and consistency\\; update related calls CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename \\'waves\\' to \\'f_c_pf_cs_peak_time_array\\' for clarity and consistency\\; update related code and tests ",
+        "commit_hash": "269be23293b9543050418325fa82bb6647880002"
+    },
+    "tracking": {
+        "divlife": 0.0,
+        "cdirt": 2593.3363718366977,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "concost": 4132.565791953863,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_plant_electric_net_mw": 999.9215852532003
+    }
+}
