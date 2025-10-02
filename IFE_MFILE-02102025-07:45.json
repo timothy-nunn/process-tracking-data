@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "07:45",
+        "date": "02/10/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add bug emoji to bug issue template \\(#3871\\) ",
+        "commit_hash": "323004a9ada465438d0b2077a4f422dd1e51c321"
+    },
+    "tracking": {
+        "concost": 4132.565791953863,
+        "cdirt": 2593.3363718366977,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "divlife": 0.0,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337
+    }
+}
