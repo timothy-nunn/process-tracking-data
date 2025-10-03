@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "10:20",
+        "date": "03/10/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Create new CSCoil class in pfcoil.py \\(#3877\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking :recycle: Create new CSCoil class in pfcoil.py CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \u267b\ufe0f Refactor integration tests to include CSCoil fixture and update related tests ",
+        "commit_hash": "50cfc493678a06ec5be60b14589de270d60039c0"
+    },
+    "tracking": {
+        "cdirt": 2593.3363718366977,
+        "concost": 4132.565791953863,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "divlife": 0.0,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_fusion_total_mw": 2012.3468456341204
+    }
+}
