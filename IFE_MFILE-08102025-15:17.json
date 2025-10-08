@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "08/10/2025 UTC",
+        "time": "15:17",
+        "title": "IFE_MFILE",
+        "commit_message": "Correct winding pack steel variable descriptions and output \\(#3883\\) ",
+        "commit_hash": "1f360a6f407b3c5579c500a0324f6e7583b0ecc8"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "cdirt": 2593.3363718366977,
+        "divlife": 0.0,
+        "concost": 4132.565791953863,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "pflux_fw_neutron_mw": 8.899390579904257
+    }
+}
