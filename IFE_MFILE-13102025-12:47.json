@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "12:47",
+        "date": "13/10/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Rewriting an indat changes the results \\(#3901\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Implement equality and repr method for INVariable CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add test to check re-written input files are the same as the source CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Correct get_constraint_equations incorrectly ignoring constraints CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Correct comments and repr for INVariable ",
+        "commit_hash": "bf62c3f89382351aefffc917799d29b92e055c35"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "concost": 4132.565791953863,
+        "cdirt": 2593.3363718366977,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "divlife": 0.0,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_fusion_total_mw": 2012.3468456341204
+    }
+}
