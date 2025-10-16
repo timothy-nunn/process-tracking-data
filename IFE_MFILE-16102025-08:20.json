@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "16/10/2025 UTC",
+        "time": "08:20",
+        "title": "IFE_MFILE",
+        "commit_message": "\ud83d\uddd2\ufe0f Add CS peak field docs \\(#3890\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking :memo: Add section headers for CSCoil class and related functions in documentation CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Enhance documentation for CS geometry calculations in central solenoid CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename \\`calculate_cs_peak_field\\` to \\`calculate_cs_self_peak_magnetic_field\\` for clarity and update references in code and tests CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add detailed explanation for self peak magnetic field calculation in documentation CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Enhance documentation for peak magnetic field calculations in central solenoid and update reference details ",
+        "commit_hash": "2b2f8a49f8eb771a9b3ec42c59bb7cafd63d0b48"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "concost": 4132.565791953863,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "cdirt": 2593.3363718366977,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "divlife": 0.0
+    }
+}
