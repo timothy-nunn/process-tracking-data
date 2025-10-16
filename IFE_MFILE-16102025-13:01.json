@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "13:01",
+        "date": "16/10/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Rename example plot proc SIG_TF \\(#3926\\) ",
+        "commit_hash": "00286930b79b4cc2e7bb00f8f094e90bcc57ac3f"
+    },
+    "tracking": {
+        "p_fusion_total_mw": 2012.3468456341204,
+        "divlife": 0.0,
+        "cdirt": 2593.3363718366977,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "concost": 4132.565791953863,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_plant_electric_gross_mw": 1141.0006614745462
+    }
+}
