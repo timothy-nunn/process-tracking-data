@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "15:52",
+        "date": "21/10/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Improve quality of notebook renders \\(#3908\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Disable logging to terminal in examples to run PROCESS CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add matplotlib magic commands to examples notebook to render plots CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Don\\'t track environment names and Python versions in the example notebooks CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Allow display_name field to be kept in notebooks ",
+        "commit_hash": "b709cbd3eae9fc55afa79a8f00cbc2a3115ae936"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "divlife": 0.0,
+        "concost": 4132.565791953863,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "cdirt": 2593.3363718366977
+    }
+}
