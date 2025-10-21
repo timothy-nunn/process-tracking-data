@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "08:28",
+        "date": "21/10/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Fusion contour plots plot proc \\(#3939\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Refactor plasma poloidal pressure contour plotting and add interpolation function CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add fusion rate contour plotting function and integrate into main plot CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add cumulative fusion rate reactions plotting to fusion rate profiles CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Refactor fusion rate plotting functions for clarity and consistency\\; update axis labels and titles for thermal pressure and fusion rate density. CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add fusion rate contour plotting for DT and He3\\; include legends for peak levels and handle plasma boundary conditions ",
+        "commit_hash": "e8ee1387f04d705f164097dd15d77bbf21007a6d"
+    },
+    "tracking": {
+        "divlife": 0.0,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "concost": 4132.565791953863,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "cdirt": 2593.3363718366977,
+        "p_plant_electric_gross_mw": 1141.0006614745462
+    }
+}
