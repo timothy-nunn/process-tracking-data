@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "10:24",
+        "date": "24/10/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "\ud83d\udccf Tf plasma offset plot proc \\(#3941\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename variable \\`tfoffset\\` to \\`dz_tf_plasma_offset\\` for clarity in TF coil vertical offset calculations CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add plots for TF coil structure and label vertical center offset CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename variable \\`dz_tf_plasma_offset\\` to \\`dz_tf_plasma_centre_offset\\` for clarity in TF coil vertical offset calculations CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename variable \\`tfootfi\\` to \\`f_dr_tf_outboard_inboard\\` for clarity in TF coil thickness ratio calculations CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add mapping for obsolete variable \\`tfootfi\\` to \\`f_dr_tf_outboard_inboard\\` in input validator CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename variable \\`tfoffset\\` to \\`dz_tf_plasma_centre_offset\\` for clarity in TF coil vertical offset calculations across multiple data files CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Remove redundant plot commands for TF coil structure visualization ",
+        "commit_hash": "57e4499675250e1d7c011a0efce7af6a4725a5e4"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "cdirt": 2593.3363718366977,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "concost": 4132.565791953863,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "divlife": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_fusion_total_mw": 2012.3468456341204
+    }
+}
