@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "24/10/2025 UTC",
+        "time": "15:53",
+        "title": "IFE_MFILE",
+        "commit_message": "\ud83e\uddf2 Add toroidal beta and field profile output \\(#3946\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking :sparkle: Add b_plasma_toroidal_profile variable and initialize in init_physics_variables function CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking :sparkle: Add calculation and output for toroidal field profile across the plasma CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking :sparkle: Add calculate_plasma_beta method to compute plasma beta from pressure and magnetic field CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking :sparkle: Add beta_toroidal_profile variable and initialize in init_physics_variables function CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking :sparkle: Implement magnetic field and beta profile plotting functions in plot_proc.py\\; update physics.py to calculate and store toroidal beta profile CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking :sparkle: Add inboard and outboard toroidal field variables to physics_variables.py CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking :sparkle: Add inboard and outboard toroidal field calculations and display in plot_proc.py CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename pressure variables to reflect thermal profiles and update related calculations in physics_variables.py\\, plot_proc.py\\, and plasma_profiles.py CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename \\`beta_toroidal_profile\\` to \\`beta_thermal_toroidal_profile\\` in physics_variables.py\\, update related references in plot_proc.py and physics.py ",
+        "commit_hash": "7621ab10ddd455c814d2030babf315d0784e86a6"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "divlife": 0.0,
+        "concost": 4132.565791953863,
+        "cdirt": 2593.3363718366977,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "p_fusion_total_mw": 2012.3468456341204
+    }
+}
