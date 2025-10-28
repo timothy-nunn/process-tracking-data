@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "09:18",
+        "date": "28/10/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Fix error in volume averaged thermal plasma pressure \\(#3938\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking :bug: Fix error in volume averaged thermal plasma pressure to be profile independant CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking :notes: Refine plasma pressure calculations to use density-weighted temperatures and clarify assumptions for parabolic profiles CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add volume-average thermal pressure line and annotations to plasma pressure profiles plot ",
+        "commit_hash": "633a49e097ae625dfe72d44b961213254e995513"
+    },
+    "tracking": {
+        "p_fusion_total_mw": 2012.3468456341204,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "divlife": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "cdirt": 2593.3363718366977,
+        "concost": 4132.565791953863,
+        "pflux_fw_neutron_mw": 8.899390579904257
+    }
+}
