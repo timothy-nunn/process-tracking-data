@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "15:37",
+        "date": "30/10/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Write NaN to other H-factor table if calculation fails \\(#3965\\) ",
+        "commit_hash": "a238c01ca5cab26fe1d1e4ff9eddcfdc9d43d67f"
+    },
+    "tracking": {
+        "divlife": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "cdirt": 2593.3363718366977,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "concost": 4132.565791953863
+    }
+}
