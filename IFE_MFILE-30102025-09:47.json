@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "30/10/2025 UTC",
+        "time": "09:47",
+        "title": "IFE_MFILE",
+        "commit_message": "HCD efficiencies missing as inputs \\(#3961\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Added missing wall plug efficiencies as inputs CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking :bug: Fixed EBW efficiency model as density units were wrong and added tests ",
+        "commit_hash": "88cc783b8ef35a9b02d04606048b3e65a1bc3833"
+    },
+    "tracking": {
+        "cdirt": 2593.3363718366977,
+        "concost": 4132.565791953863,
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "divlife": 0.0,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "p_plant_electric_gross_mw": 1141.0006614745462
+    }
+}
