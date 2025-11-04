@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "04/11/2025 UTC",
+        "time": "15:35",
+        "title": "IFE_MFILE",
+        "commit_message": "Refactor CS coil stress routines and variables \\(#3962\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Refactor axial stress calculation in CSCoil class to improve parameter handling and documentation CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename axial_stress method to \\`calculate_cs_self_peak_midplane_axial_stress\\` and update references in tests CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename variable \\`sig_axial\\` to \\`stress_z_cs_self_peak_midplane\\` and update references in PFCoil and CSCoil classes CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Rename axial_force variable to \\`forc_z_cs_self_peak_midplane\\` and update references in PFCoil and CSCoil classes CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking :memo: Update axial stress calculation in CSCoil class to use average axial stress at coil interface CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Update tests CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking \ud83d\udd04 - Update plot_cs_coil_structure to include peak magnetic field\\, axial force\\, and stress in the plot output \ud83d\udd04 - Refactor test cases for calculate_cs_self_peak_midplane_axial_stress to ensure proper assertions and formatting ",
+        "commit_hash": "5eeaeff8145c6c2e2558d9507e3d472a4e83bbcb"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.899390579904257,
+        "concost": 4132.565791953863,
+        "cdirt": 2593.3363718366977,
+        "p_plant_electric_gross_mw": 1141.0006614745462,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792337,
+        "p_fusion_total_mw": 2012.3468456341204,
+        "p_plant_electric_net_mw": 999.9215852532003,
+        "divlife": 0.0
+    }
+}
