@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "06/11/2025 UTC",
+        "time": "13:31",
+        "title": "IFE_MFILE",
+        "commit_message": "Add system power plot over time \\(#3940\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add function to plot system power profiles over time CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Enhance power profile plotting function to include gross and net electric power calculations and improve line styling for better visualization. CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add power_profiles_over_time method to calculate time-dependent electric power profiles CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking :sparkle: Add \\`e_plant_net_electric_pulse_mj\\` variable and update power_profiles_over_time assignment CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking :sparkle: Add \\`e_plant_net_electric_pulse_kwh\\` variable and initialize in \\`init_power_variables\\` function CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Refactor power profile calculations and add electric energy output variables for kWh and MJ CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add pulse timings and energy to plot_proc page CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Post rebase changes CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add electric power profiles for various systems and update output methods CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Post rebase fixes CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Refactor output_power_profiles_over_time to use enumerate for cleaner iteration ",
+        "commit_hash": "a9a5e816339c7f57eb1bb4aedf9b698d31a6a074"
+    },
+    "tracking": {
+        "cdirt": 2593.3363718366973,
+        "p_fusion_total_mw": 2012.3468456341188,
+        "concost": 4132.565791953862,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "p_plant_electric_net_mw": 999.9215852531996,
+        "divlife": 0.0,
+        "p_plant_electric_gross_mw": 1141.0006614745455
+    }
+}
