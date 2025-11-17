@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "13:50",
+        "date": "17/11/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add dimensionless current drive efficiency \\(#3985\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add method to calculate dimensionless current drive efficiency CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking :sparkle: Add dimensionless current drive efficiency variable for primary HCD system CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add dimensionless current drive efficiency variable for secondary HCD system CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add dimensionless current drive efficiency calculations for primary and secondary heating methods CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add output to plot_proc CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Refine dimensionless current drive efficiency documentation and update plot labels for clarity CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add unit test for dimensionless current drive efficiency calculation ",
+        "commit_hash": "f59059d00a0bcce7cfe901fe16b0e6b413c14999"
+    },
+    "tracking": {
+        "concost": 4132.565791953862,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "divlife": 0.0,
+        "p_fusion_total_mw": 2012.3468456341188,
+        "p_plant_electric_gross_mw": 1141.0006614745455,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323,
+        "p_plant_electric_net_mw": 999.9215852531996,
+        "cdirt": 2593.3363718366973
+    }
+}
