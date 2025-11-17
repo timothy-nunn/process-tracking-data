@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "17/11/2025 UTC",
+        "time": "16:42",
+        "title": "IFE_MFILE",
+        "commit_message": "Add option to strictly track MFiles \\(#3970\\) ",
+        "commit_hash": "cc15436d1b6542b6c8942b1e0ac828601e7c3b46"
+    },
+    "tracking": {
+        "cdirt": 2593.3363718366973,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "p_plant_electric_gross_mw": 1141.0006614745455,
+        "p_fusion_total_mw": 2012.3468456341188,
+        "p_plant_electric_net_mw": 999.9215852531996,
+        "divlife": 0.0,
+        "concost": 4132.565791953862,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323
+    }
+}
