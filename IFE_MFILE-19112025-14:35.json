@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "19/11/2025 UTC",
+        "time": "14:35",
+        "title": "IFE_MFILE",
+        "commit_message": ":bug: Fix output file reference in effective charge and impurity charge logging \\(#3989\\) ",
+        "commit_hash": "e5f34c1dce48b9a05b90971943dab2e2529f2e9e"
+    },
+    "tracking": {
+        "cdirt": 2593.3363718366973,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323,
+        "p_plant_electric_net_mw": 999.9215852531996,
+        "life_div_fpy": 0.0,
+        "p_fusion_total_mw": 2012.3468456341188,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "p_plant_electric_gross_mw": 1141.0006614745455,
+        "concost": 4132.565791953862
+    }
+}
