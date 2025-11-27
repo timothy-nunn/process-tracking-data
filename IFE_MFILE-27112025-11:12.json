@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "27/11/2025 UTC",
+        "time": "11:12",
+        "title": "IFE_MFILE",
+        "commit_message": "Replace constants PI/TWOPI with numpy \\(#3995\\) ",
+        "commit_hash": "a591a75a392af69b6efe6f47b9689285df4e82ac"
+    },
+    "tracking": {
+        "cdirt": 2593.3363718366973,
+        "p_plant_electric_net_mw": 999.9215852531996,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323,
+        "p_fusion_total_mw": 2012.3468456341188,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_gross_mw": 1141.0006614745455,
+        "concost": 4132.565791953862
+    }
+}
