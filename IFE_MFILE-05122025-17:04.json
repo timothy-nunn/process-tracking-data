@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "05/12/2025 UTC",
+        "time": "17:04",
+        "title": "IFE_MFILE",
+        "commit_message": "Add EBW/ECRH coupling efficiency graph plotting functionality \\(#3984\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add EBW/ECRH coupling efficiency graph plotting functionality CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Refactor EBW/ECRH coupling graph plotting: update B-field range and improve axis labels CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add EBW coupling efficiency to CurrentDrive output and update plot function ",
+        "commit_hash": "230767a95f08d8235cd23bdfda50f5f34443fc90"
+    },
+    "tracking": {
+        "concost": 4132.565791953862,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323,
+        "p_plant_electric_net_mw": 999.9215852531996,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "life_div_fpy": 0.0,
+        "cdirt": 2593.3363718366973,
+        "p_plant_electric_gross_mw": 1141.0006614745455,
+        "p_fusion_total_mw": 2012.3468456341188
+    }
+}
