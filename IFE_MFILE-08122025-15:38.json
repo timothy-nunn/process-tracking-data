@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "15:38",
+        "date": "08/12/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": ":art: Plot proc radiation contour plot \\(#3996\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add function to plot radiation density contours in radial profile CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Enhance plasma profile calculations in plot_radprofile function CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add checks for closed plasma boundary in radiation contour plots CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Requested changes ",
+        "commit_hash": "fa5d0c20db4f4af7234f4f560d2d4988b45f34c4"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.0006614745455,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "life_div_fpy": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323,
+        "cdirt": 2593.3363718366973,
+        "p_fusion_total_mw": 2012.3468456341188,
+        "concost": 4132.565791953862,
+        "p_plant_electric_net_mw": 999.9215852531996
+    }
+}
