@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "10:22",
+        "date": "12/12/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "fix bounds message to get upper and lower bounds where appropriate instead of just upper \\(#4007\\) ",
+        "commit_hash": "0548fedaaa3aa347f38ed3ceb891dd5dcecaf6c4"
+    },
+    "tracking": {
+        "cdirt": 2593.3363718366973,
+        "p_plant_electric_net_mw": 999.9215852531996,
+        "life_div_fpy": 0.0,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323,
+        "p_fusion_total_mw": 2012.3468456341188,
+        "concost": 4132.565791953862,
+        "p_plant_electric_gross_mw": 1141.0006614745455
+    }
+}
