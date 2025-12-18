@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "11:02",
+        "date": "18/12/2025 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": ":art: Adjust plasma information plot layout and add Ejima coefficient display \\(#4015\\) ",
+        "commit_hash": "84002e4a5127fc05a505983814b14a86b7bbebce"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 999.9215852531996,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323,
+        "p_fusion_total_mw": 2012.3468456341188,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "p_plant_electric_gross_mw": 1141.0006614745455,
+        "concost": 4132.565791953862,
+        "cdirt": 2593.3363718366973,
+        "life_div_fpy": 0.0
+    }
+}
