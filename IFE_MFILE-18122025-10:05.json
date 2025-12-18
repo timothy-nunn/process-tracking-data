@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "18/12/2025 UTC",
+        "time": "10:05",
+        "title": "IFE_MFILE",
+        "commit_message": "Create up down divertor classes \\(#3999\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add incident power calculation methods for divertor CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Remove now redundant divertor assignment in HCPB and DCLL CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Add tests for incident radiation and neutron power in Divertor class CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Requested changes ",
+        "commit_hash": "229164e3e3fae213f4d087a61f25c76d0291f1c8"
+    },
+    "tracking": {
+        "p_fusion_total_mw": 2012.3468456341188,
+        "p_plant_electric_gross_mw": 1141.0006614745455,
+        "p_plant_electric_net_mw": 999.9215852531996,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323,
+        "life_div_fpy": 0.0,
+        "concost": 4132.565791953862,
+        "cdirt": 2593.3363718366973
+    }
+}
