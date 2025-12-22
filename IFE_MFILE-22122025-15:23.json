@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "22/12/2025 UTC",
+        "time": "15:23",
+        "title": "IFE_MFILE",
+        "commit_message": "Combine csv example into main examples notebook \\(#4022\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking Combine csv example into examples.ipynb and update test accordingly CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data process.egg-info requirements_dev.txt ruff.toml scripts setup.py tests tracking fix ",
+        "commit_hash": "9ab276ef82f9c1c83e6785f4e8fbe37f7a3da4e0"
+    },
+    "tracking": {
+        "concost": 4132.565791953862,
+        "life_div_fpy": 0.0,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "p_plant_electric_net_mw": 999.9215852531996,
+        "cdirt": 2593.3363718366973,
+        "p_fusion_total_mw": 2012.3468456341188,
+        "p_plant_electric_gross_mw": 1141.0006614745455,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323
+    }
+}
