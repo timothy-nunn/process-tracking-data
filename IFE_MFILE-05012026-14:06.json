@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "14:06",
+        "date": "05/01/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Remove globals from plot proc and some cleanup \\(#4031\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking first pass CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking radial build CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking use get method in get_variables Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking scan as kwarg CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking scan actually as kwarg CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking set scan default to -1 --------- Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> ",
+        "commit_hash": "ee78ba09bff4bebf4d13252d902a74c861c1a687"
+    },
+    "tracking": {
+        "life_div_fpy": 0.0,
+        "concost": 4132.565791953862,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "cdirt": 2593.3363718366973,
+        "p_plant_electric_gross_mw": 1141.0006614745455,
+        "p_plant_electric_net_mw": 999.9215852531996,
+        "p_fusion_total_mw": 2012.3468456341188,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323
+    }
+}
