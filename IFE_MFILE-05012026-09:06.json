@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "05/01/2026 UTC",
+        "time": "09:06",
+        "title": "IFE_MFILE",
+        "commit_message": "Replace \\`setup.py\\` with \\`pyproject.toml\\` \\(#3983\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking move to modern build system CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking remove references to requirements.txt CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking forgot entry point CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking change setup.py to pyproject.toml CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Restrict dependency installation to required deps Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking missed dependency --------- Co-authored-by: Clair Mould \\<86794332+clmould@users.noreply.github.com\\> Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> ",
+        "commit_hash": "33606a9b3d2ff5ff1b0a53ff7116e47e01d34ae8"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.0006614745455,
+        "life_div_fpy": 0.0,
+        "concost": 4132.565791953862,
+        "cdirt": 2593.3363718366973,
+        "p_plant_electric_net_mw": 999.9215852531996,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "p_fusion_total_mw": 2012.3468456341188,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323
+    }
+}
