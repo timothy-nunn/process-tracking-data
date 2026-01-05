@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "05/01/2026 UTC",
+        "time": "10:48",
+        "title": "IFE_MFILE",
+        "commit_message": "Remove divide by 0 warnings when running unit tests \\(#4021\\) ",
+        "commit_hash": "3f6d862e2d6b4249806ac2ec3af8c72f733733a8"
+    },
+    "tracking": {
+        "life_div_fpy": 0.0,
+        "p_plant_electric_gross_mw": 1141.0006614745455,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "p_plant_electric_net_mw": 999.9215852531996,
+        "concost": 4132.565791953862,
+        "p_fusion_total_mw": 2012.3468456341188,
+        "cdirt": 2593.3363718366973,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323
+    }
+}
