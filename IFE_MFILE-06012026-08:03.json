@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "08:03",
+        "date": "06/01/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Linting adjustments \\(#4016\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking move to modern build system CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking pre-commit changes CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking fix pre-commit error --------- Co-authored-by: james \\<81617086+je-cook@users.noreply.github.com\\> ",
+        "commit_hash": "726df45a3913a258929aa1146fcd6aff951bc072"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 999.9215852531996,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323,
+        "cdirt": 2593.3363718366973,
+        "life_div_fpy": 0.0,
+        "concost": 4132.565791953862,
+        "p_fusion_total_mw": 2012.3468456341188,
+        "p_plant_electric_gross_mw": 1141.0006614745455
+    }
+}
