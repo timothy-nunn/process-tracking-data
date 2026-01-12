@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "12/01/2026 UTC",
+        "time": "13:51",
+        "title": "IFE_MFILE",
+        "commit_message": "Ensure i_plasma_pedestal=0 profile does not have 0 elements \\(#4038\\) ",
+        "commit_hash": "1c324336c6d10fc9b9ce5fa9acd996f8c62d364b"
+    },
+    "tracking": {
+        "concost": 4132.565791953862,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "cdirt": 2593.3363718366973,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323,
+        "p_fusion_total_mw": 2012.3468456341188,
+        "p_plant_electric_gross_mw": 1141.0006614745455,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 999.9215852531996
+    }
+}
