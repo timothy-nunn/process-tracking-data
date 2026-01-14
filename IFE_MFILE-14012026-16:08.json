@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "16:08",
+        "date": "14/01/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add volt-seconds needed for ramp and Ejima coefficient to plasma info plot \\(#4040\\) ",
+        "commit_hash": "9e5012ffd493718c77b4817728a2597e2028dbf8"
+    },
+    "tracking": {
+        "concost": 4132.565791953862,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "p_plant_electric_net_mw": 999.9215852531996,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_gross_mw": 1141.0006614745455,
+        "cdirt": 2593.3363718366973,
+        "p_fusion_total_mw": 2012.3468456341188,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323
+    }
+}
