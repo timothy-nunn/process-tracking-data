@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "15:37",
+        "date": "15/01/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Plot TF coil winding pack cooling \\(#4014\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking fix: initialize m_tf_wp_steel_conduit in tfcoil_variables and update outtf call in ResistiveTFCoil CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking \ud83d\udd04 - rename \\`tcoolin\\` to \\`temp_cp_coolant_inlet\\` for consistency across files CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking \ud83d\udd04 - rename \\`vcool\\` to \\`vel_cp_coolant_midplane\\` for clarity and consistency CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking \ud83d\udd04 - rename \\`rcool\\` to \\`radius_cp_coolant_channel\\` for clarity and consistency CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking \ud83d\udd04 - rename \\`ncool\\` to \\`n_cp_coolant_channels_total\\` for clarity and consistency CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking fix: adjust TF coil power box text position and update average coolant temperature in iteration variables CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking docs: add naming convention for temperature changes with \\`dtemp_\\` prefix CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking \ud83d\udd04 - rename \\`dtiocool\\` to \\`dtemp_cp_coolant\\` for clarity and consistency CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking :art: Show true coil colour when using copper TF coil in plot_proc CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking fix: add dr_tf_outboard parameter to tfcoil_geometry functions and plot_tf_coils CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking fix: adjust z-order for TF coil labels to ensure proper layering in plots CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking :recycle: Refactor the resistive TF info plotting into another function ",
+        "commit_hash": "00c53aca38f20cff98b715ac263307fdd5518c4f"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 999.9215852531996,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_gross_mw": 1141.0006614745455,
+        "cdirt": 2593.3363718366973,
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323,
+        "concost": 4132.565791953862,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "p_fusion_total_mw": 2012.3468456341188
+    }
+}
