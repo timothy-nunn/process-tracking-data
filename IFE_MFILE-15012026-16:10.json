@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "16:10",
+        "date": "15/01/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Unit test does not use matrix OS \\(#4045\\) ",
+        "commit_hash": "7772b797a068ba202a36e4ded273478e31690e8f"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.0233393792323,
+        "p_fusion_total_mw": 2012.3468456341188,
+        "pflux_fw_neutron_mw": 8.89939057990425,
+        "p_plant_electric_gross_mw": 1141.0006614745455,
+        "p_plant_electric_net_mw": 999.9215852531996,
+        "cdirt": 2593.3363718366973,
+        "life_div_fpy": 0.0,
+        "concost": 4132.565791953862
+    }
+}
