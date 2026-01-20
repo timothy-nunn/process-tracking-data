@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "15:05",
+        "date": "20/01/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add new div upper lower vars \\(#4019\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking \u2728 Add p_div_lower_nuclear_heat_mw variable for lower divertor neutron nuclear heat load CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking \u2728 Add p_div_upper_nuclear_heat_mw variable for upper divertor neutron nuclear heat load CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking \u2728 Add p_div_upper_rad_mw variable for upper divertor incident radiation power CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking \u2728 Add p_div_lower_rad_mw variable for lower divertor incident radiation power CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking \u2728 Implement run method for Lower and Upper Divertor classes to calculate nuclear heat and radiation power CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Move \\`n_divertors\\` to the divertor variables file ",
+        "commit_hash": "3327be962912973b1562a4e2745398f55aa0a2c6"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "life_div_fpy": 0.0,
+        "cdirt": 2593.4360655623063,
+        "concost": 4132.724657145665,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "pflux_fw_neutron_mw": 8.900321581918323
+    }
+}
