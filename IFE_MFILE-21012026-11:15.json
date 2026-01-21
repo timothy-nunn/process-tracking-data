@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "11:15",
+        "date": "21/01/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "c_tf_turn error catching \\(#4034\\) CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Add errors for if ixc 60 used with i_tf_turns = 1 and also if ixc 60 and icc 77 used simultaneously CITATION.cff CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking update error messages so they are more informative ",
+        "commit_hash": "7c487541e95e628a89e25bd29dfc109d65f6a8d1"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "concost": 4132.724657145665,
+        "cdirt": 2593.4360655623063,
+        "pflux_fw_neutron_mw": 8.900321581918323
+    }
+}
