@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "10:02",
+        "date": "28/01/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add a VaryRun example \\(#4048\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking remove unused\\&outdated parts of the config file to avoid confusion CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking remove varyrun cell from examples.ipynb CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Add varyrun example and necessary input files Move setup functions required for examples to a separate file to tidy up Add varyrun example test CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking remove print statements CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking move call to fn CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking changes based on review comments ignore the README.txt produced by varyrun in examples/data dir CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking fix test CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking change displaying of an example conf file CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Update examples/vary_run_example.ipynb Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Update tests/examples/test_examples.py Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> --------- Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> ",
+        "commit_hash": "e06c52258c058271ba68abb90043848fe957b6c2"
+    },
+    "tracking": {
+        "concost": 4132.724657145665,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "cdirt": 2593.4360655623063,
+        "life_div_fpy": 0.0,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "pflux_fw_neutron_mw": 8.900321581918323
+    }
+}
