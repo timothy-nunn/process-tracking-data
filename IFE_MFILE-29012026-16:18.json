@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "16:18",
+        "date": "29/01/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Cache reference MFiles for regression tests \\(#4069\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Cache reference mfiles for regression tests CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Add platformdirs to test requirements ",
+        "commit_hash": "07334fbf38ad4d1c866c0f946ef019ab3020a0db"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665,
+        "life_div_fpy": 0.0,
+        "cdirt": 2593.4360655623063,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "pflux_fw_neutron_mw": 8.900321581918323
+    }
+}
