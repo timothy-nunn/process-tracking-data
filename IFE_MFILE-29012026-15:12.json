@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "29/01/2026 UTC",
+        "time": "15:12",
+        "title": "IFE_MFILE",
+        "commit_message": "\ud83c\udfa8 Constraint function plots in \\`plot_proc\\` \\(#4049\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Enhance plotting functions for equality and inequality constraints\\; adjust font sizes and add new plots in main function CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Add normalized relative change plotting and enhance axis formatting CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Enhance plotting functions for iteration and constraint variables\\; add normalization and improve axis annotations CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Refactor plot_iteration_variables function: change color to blue\\, replace dashed line with arrow annotation\\, and remove relative change text display CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Fix unit type extraction in plot_equality_constraint_equations function to ensure proper string formatting CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Adjust tolerance levels and color coding in plot_iteration_variables function for improved clarity CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Enhance plot_inequality_constraint_equations function: adjust bar height\\, add z-order for layering\\, and improve text annotation with dynamic color and background CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Requested changes CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Make the bar plots originate from the right if the constraint is an upper bound CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Clarify sign flipping logic for normalized constraint residuals in Scan class ",
+        "commit_hash": "8466c1c497673b040c244a7150ebd79e20f85b1b"
+    },
+    "tracking": {
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "concost": 4132.724657145665,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364
+    }
+}
