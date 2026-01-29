@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "29/01/2026 UTC",
+        "time": "13:40",
+        "title": "IFE_MFILE",
+        "commit_message": "Add blanket coverage vars \\(#4067\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Rename \\'rsldi\\' to \\'r_shld_inboard_inner\\' across multiple files for clarity and consistency CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Rename \\'rsldo\\' to \\'r_shld_outboard_outer\\' for clarity and consistency across multiple files CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking :sparkle: Add variable for inboard blanket surface area with full coverage CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking :sparkle: Add variable for outboard blanket surface area with full coverage CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking :sparkle: Add variable for total blanket surface area with full coverage CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking :sparkle: Add variable for inboard blanket volume with full coverage CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking :sparkle: Add variable for outboard blanket volume with full coverage CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking :sparkle: Add variable for total blanket volume with full coverage ",
+        "commit_hash": "34adf44d239b144f9e5d883c49578b9390d8ae31"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "life_div_fpy": 0.0,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665
+    }
+}
