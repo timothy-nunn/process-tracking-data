@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "19:15",
+        "date": "30/01/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Remove non-obsolete variables from obsolete variables list \\(#4074\\) ",
+        "commit_hash": "40782b5c86efd377fb331cc26bb05b400fd1b2cf"
+    },
+    "tracking": {
+        "cdirt": 2593.4360655623063,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759
+    }
+}
