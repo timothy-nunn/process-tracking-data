@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "03/02/2026 UTC",
+        "time": "15:15",
+        "title": "IFE_MFILE",
+        "commit_message": "Specify dr_tf_inboard in ST eval file \\(#4081\\) ",
+        "commit_hash": "0078bb3604f2a161bd5387044fe6d7dd641a8506"
+    },
+    "tracking": {
+        "concost": 4132.724657145665,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "cdirt": 2593.4360655623063
+    }
+}
