@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "13:18",
+        "date": "12/02/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Fixed negativity in sqrt in costs.py by np.clip. \\(#4065\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Fixed negativity in sqrt in costs.py by np.clip. CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Introduced a local variable sqrt_p_plant_electric_net_mw in the scope of the method coelc to warn in case p_plant_electric_net_mw is negative. Also caught a third place where sqrt_p_plant_electric_net_mw is needed .\\(missed earlier as it was commented out\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Update $'process/costs.py\\r' $'\\r' Clarified what\\'s the purpose of the calculation inside the warning. Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Bug fixes so regression test passes - Undid the comment line change \\(previously over-corrected\\) --------- Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> ",
+        "commit_hash": "44702b1379aad2a9b30fcab7f54dc157351fbab6"
+    },
+    "tracking": {
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "life_div_fpy": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "cdirt": 2593.4360655623063,
+        "concost": 4132.724657145665
+    }
+}
