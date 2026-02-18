@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "time": "15:09",
+        "date": "18/02/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Use python files as examples \\(#4098\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Use python files as examples CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking mkdocs code highlighting CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking missing dep CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking gitignore CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking fix renamed example test CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml scripts tests tracking Update tests/examples/test_examples.py Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> --------- Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> ",
+        "commit_hash": "b33bf4bac5f42bda54cb6d11414e4cbf377c800c"
+    },
+    "tracking": {
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "life_div_fpy": 0.0,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "concost": 4132.724657145665,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_fusion_total_mw": 2012.5573655511266
+    }
+}
