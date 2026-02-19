@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "date": "19/02/2026 UTC",
+        "time": "14:07",
+        "title": "IFE_MFILE",
+        "commit_message": "Standardise constraint residual/normalised residual calculations \\(#4066\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml tests tracking Standardise constraint residual/normalised residual calculations CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml tests tracking Output constraint data from ConstraintResult ",
+        "commit_hash": "2812d00fdf9b3b857171f4d96653d063457b4ea6"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "concost": 4132.724657145665,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "cdirt": 2593.4360655623063,
+        "life_div_fpy": 0.0
+    }
+}
