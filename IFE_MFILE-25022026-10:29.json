@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "25/02/2026 UTC",
+        "time": "10:29",
+        "title": "IFE_MFILE",
+        "commit_message": "Refactor blanket poloidal height calculations \\(#4083\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml tests tracking Add method to calculate D-shaped inboard blanket segment poloidal length CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml tests tracking Add method to calculate D-shaped outboard blanket segment poloidal length CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml tests tracking Add method to calculate elliptical inboard blanket segment poloidal length CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml tests tracking Add method to calculate elliptical outboard blanket segment poloidal length CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml tests tracking Refactor blanket module poloidal height calculations to support D-shaped and elliptical configurations CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml tests tracking Add tests for D-shaped and elliptical blanket segment poloidal length calculations ",
+        "commit_hash": "019b9014e8946299fe0c805e3967e42d3e743292"
+    },
+    "tracking": {
+        "concost": 4132.724657145665,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "cdirt": 2593.4360655623063,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "process_runtime": 0.04330778121948242,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364
+    }
+}
