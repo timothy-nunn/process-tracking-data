@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "25/02/2026 UTC",
+        "time": "14:47",
+        "title": "IFE_MFILE",
+        "commit_message": "Update broken README links \\(#4107\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml tests tracking Update README image locations CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml process process-tracking-data pyproject.toml tests tracking Replace email contacts with contact form ",
+        "commit_hash": "4741c156bb2a892a64eddc9e1c68f69ac782d321"
+    },
+    "tracking": {
+        "life_div_fpy": 0.0,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "concost": 4132.724657145665,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "process_runtime": 0.044614315032958984,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_net_mw": 1000.04361704364
+    }
+}
