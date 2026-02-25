@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "25/02/2026 UTC",
+        "time": "10:39",
+        "title": "IFE_MFILE",
+        "commit_message": "Add maximum number of solver iterations \\(100\\) to all regression tests \\(#4102\\) ",
+        "commit_hash": "73e929ab087b1f837f2a3113ec01ab9ea40fef35"
+    },
+    "tracking": {
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "concost": 4132.724657145665,
+        "cdirt": 2593.4360655623063,
+        "process_runtime": 0.04378485679626465,
+        "life_div_fpy": 0.0,
+        "pflux_fw_neutron_mw": 8.900321581918323
+    }
+}
