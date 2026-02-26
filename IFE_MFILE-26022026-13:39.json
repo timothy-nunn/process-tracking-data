@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "26/02/2026 UTC",
+        "time": "13:39",
+        "title": "IFE_MFILE",
+        "commit_message": "Update code standards to switch from Sphinx to Numpy docstring \\(#4115\\) ",
+        "commit_hash": "9c8dd8e60edda614a79c68abd7836d791feb7c17"
+    },
+    "tracking": {
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "concost": 4132.724657145665,
+        "cdirt": 2593.4360655623063,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "process_runtime": 0.043660640716552734
+    }
+}
