@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "05/03/2026 UTC",
+        "time": "14:14",
+        "title": "IFE_MFILE",
+        "commit_message": "Create bootstrap current class \\(#4091\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add PlasmaBootstrapCurrent to Stellarator and update tests - Modified the Stellarator class to include plasma_bootstrap as a parameter. - Updated the physics fixture in unit tests to instantiate PlasmaBootstrapCurrent. - Refactored multiple test cases to utilize PlasmaBootstrapCurrent for bootstrap fraction calculations. - Ensured all relevant tests in test_physics.py and test_stellarator.py are updated to reflect the new structure. CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor bootstrap current calculations to use BootstrapCurrentFractionModel and improve error handling CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Create dedicated bootstrap info output CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Post rebase structure updates CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Create new bootstrap_current file CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Create a running function for bootstrap models CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor PlasmaBootstrapCurrent methods to improve parameter naming and update docstrings for clarity CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor import statements in bootstrap_current.py for consistency and clarity CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Requested reviewer changes CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Post rebase conflict fixes CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Conditionalize output of bootstrap current information based on stellarator variable ",
+        "commit_hash": "67340b1f3326feb8aa475654a6e8de5ab18afead"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665,
+        "cdirt": 2593.4360655623063,
+        "life_div_fpy": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "process_runtime": 0.046256303787231445
+    }
+}
