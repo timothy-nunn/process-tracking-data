@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "10:22",
+        "date": "05/03/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Always output equality constraints with = symbol in table \\(#4119\\) ",
+        "commit_hash": "2126af5da631dcd1ebc1d5d4d8b126480bd94e58"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "life_div_fpy": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "concost": 4132.724657145665,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "process_runtime": 0.043024301528930664,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_fusion_total_mw": 2012.5573655511266
+    }
+}
