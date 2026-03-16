@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "16/03/2026 UTC",
+        "time": "16:10",
+        "title": "IFE_MFILE",
+        "commit_message": "Add p_hcd_icrh_electric_mw to current drive data structure \\(#4125\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking remove variable reference that does not exist CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Revert \\\"remove variable reference that does not exist\\\" This reverts commit 507432b861f9101add5656d602fc93d10128caae. CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add missing variable in current_drive_variables.py ",
+        "commit_hash": "2f1855331329ef1e80ec6159ad49b5086dde60a0"
+    },
+    "tracking": {
+        "life_div_fpy": 0.0,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "concost": 4132.724657145665,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "cdirt": 2593.4360655623063,
+        "process_runtime": 0.042760610580444336,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759
+    }
+}
