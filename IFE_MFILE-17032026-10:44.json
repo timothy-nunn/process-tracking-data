@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "10:44",
+        "date": "17/03/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Standardise blanket area and volume code \\(#4075\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking \ud83d\udd04 Rename \\`component_half_height\\` method to \\`calculate_blkt_half_height\\` for clarity and update references in tests CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor \\`calculate_blkt_half_height\\` method to accept parameters directly instead of using an \\`icomponent\\` switch\\; update corresponding tests for consistency. CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add methods to calculate D-shaped blanket areas and volumes CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add methods to calculate elliptical blanket areas and volumes CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add \\`plot_blkt_structure\\` function to visualize blanket and first wall cross-section CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor blanket area and volume calculations to include full coverage variables for D-shaped and elliptical shapes CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add output function for blanket volumes and areas in blanket_library\\; integrate into DCLL and CCFE_HCPB classes CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add surface area and volume calculations for blanket with full coverage\\; update plotting functions to display these metrics CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor docstrings in BlanketLibrary for improved clarity and consistency\\; remove unused Dshaped and Elliptical component test parameters CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add full coverage parameters to ApplyCoverageFactorsParam and update tests CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add regression tests for D-shaped and elliptical blanket area and volume calculations ",
+        "commit_hash": "0b85e9ab803314e7f73cb7a67a5cd6da2bd99132"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "cdirt": 2593.4360655623063,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "process_runtime": 0.04468798637390137,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "concost": 4132.724657145665
+    }
+}
