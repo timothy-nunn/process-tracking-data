@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "14:10",
+        "date": "19/03/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Refactor L-H transition calculations and integrate into Physics model \\(#4123\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor L-H transition calculations and integrate into Physics model - Removed direct function calls for L-H transition calculations and encapsulated them within the PlasmaConfinementTransition class. - Updated the Physics class to utilize the new PlasmaConfinementTransition instance for L-H power threshold calculations. - Modified unit tests to instantiate PlasmaConfinementTransition and validate its methods. - Cleaned up unused L-H transition functions from the physics module. CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add PlasmaConfinementTransitionModel enum for transition power thresholds CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor L-H threshold power output to PlasmaConfinementTransition class CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Integrate PlasmaConfinementTransitionModel for L-H threshold display and logging CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update L-H Power Threshold Scalings documentation with PlasmaConfinementTransition references CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add L-H threshold scaling switch to large_tokamak MFILEs CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Implement run method in PlasmaConfinementTransition for L-H power threshold calculations ",
+        "commit_hash": "c9a2074db39a9829dbf0912ffdc77b7772a3c5c3"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665,
+        "life_div_fpy": 0.0,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "cdirt": 2593.4360655623063,
+        "process_runtime": 0.04377412796020508,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888
+    }
+}
