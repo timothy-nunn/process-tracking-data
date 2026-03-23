@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "18:05",
+        "date": "23/03/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Minor amendment to obs_vars handling \\(#4137\\) ",
+        "commit_hash": "704888fce50eae2ebad9f6d964ce0c5822f92326"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "life_div_fpy": 0.0,
+        "process_runtime": 0.04331088066101074,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "cdirt": 2593.4360655623063,
+        "concost": 4132.724657145665,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_fusion_total_mw": 2012.5573655511266
+    }
+}
