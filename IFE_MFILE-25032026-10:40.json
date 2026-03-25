@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "25/03/2026 UTC",
+        "time": "10:40",
+        "title": "IFE_MFILE",
+        "commit_message": "Remove references to old \\`i_blanket_type\\` types \\(#4124\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking remove non-existant i_blanket_type=3 from choices CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking remove references to i_blanket_type = 2\\,3\\,4 CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking remove references to i_blanket_type = 2\\,3\\,4 CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking remove references to i_blanket_type = 2\\,3\\,4 from comment lines CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking remove wrong references to i_blanket_type=2 in fwbs_variables CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update process/data_structure/numerics.py Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> --------- Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> ",
+        "commit_hash": "e445bc764f4173ffe6cc90f1f56b22bd904803aa"
+    },
+    "tracking": {
+        "process_runtime": 0.04312491416931152,
+        "life_div_fpy": 0.0,
+        "concost": 4132.724657145665,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "cdirt": 2593.4360655623063,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759
+    }
+}
