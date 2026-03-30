@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "30/03/2026 UTC",
+        "time": "15:13",
+        "title": "IFE_MFILE",
+        "commit_message": "Add superconductor enum \\(#4151\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add enumerations for superconductor types and models CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add enumeration for superconductor materials and update models to use new enum CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor superconductor model and material classes to include descriptive methods CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor TFCoil to use SuperconductorModel for material comments CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor SuperconductingTFCoil to utilize SuperconductorModel for material checks CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor PFCoil to utilize SuperconductorModel for strain checks and comments CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor superconductor references to utilize SuperconductorModel for improved clarity and maintainability ",
+        "commit_hash": "f2d9a54a5a98c10c6998a4598507d52a8c83846a"
+    },
+    "tracking": {
+        "concost": 4132.724657145665,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "process_runtime": 0.06058239936828613,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "cdirt": 2593.4360655623063
+    }
+}
