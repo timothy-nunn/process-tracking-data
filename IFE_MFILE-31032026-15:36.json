@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "15:36",
+        "date": "31/03/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Show seperate impurity density plot \\(#4118\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking :art: Refactor density profile plotting to use separate axes for main and impurity densities CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add impurity density plotting based on accumulation model selection CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Enhance impurity density calculations and plotting for multiple species in plasma profiles CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor impurity density plotting to streamline accumulation handling and improve readability CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Fix density profile plotting to use the correct subplot for improved visualization ",
+        "commit_hash": "6980eb95c95f8e73df94be80df2d27c73eeef3dc"
+    },
+    "tracking": {
+        "process_runtime": 0.05879402160644531,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "concost": 4132.724657145665,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759
+    }
+}
