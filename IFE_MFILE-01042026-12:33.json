@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "01/04/2026 UTC",
+        "time": "12:33",
+        "title": "IFE_MFILE",
+        "commit_message": "Hotfix power model call order \\(#4155\\) ",
+        "commit_hash": "d37a2612a482de9427439f8c858f20613a09b1c4"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "process_runtime": 0.05715751647949219,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "cdirt": 2593.4360655623063,
+        "life_div_fpy": 0.0,
+        "concost": 4132.724657145665,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759
+    }
+}
