@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "01/04/2026 UTC",
+        "time": "13:23",
+        "title": "IFE_MFILE",
+        "commit_message": "Support input\\'s being set on new data structure dataclass \\(#4154\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Support input\\'s being set on new data structure dataclass CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add Models/data structure to VaryRun CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Create data structure on run object rather than models CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Setup new data structure in unit tests CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Remove models from VaryRun CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Re-add Stellarator model init condition ",
+        "commit_hash": "893a36c675f905f89c7df26a5d7358aa0dc07299"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "concost": 4132.724657145665,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "life_div_fpy": 0.0,
+        "process_runtime": 0.05733060836791992,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "cdirt": 2593.4360655623063
+    }
+}
