@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "16:33",
+        "date": "09/04/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Convert costs 2015 to new data structure \\(#4153\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking move costs 2015 data structure to dataclass CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Ensure vname is a string in cost 2015 CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking delete unnecessary comments/docstrings --------- Co-authored-by: Timothy Nunn \\<timothy.nunn@ukaea.uk\\> ",
+        "commit_hash": "f3d58cc3deb3b9b84b81738419d06b2f11805e6b"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665,
+        "cdirt": 2593.4360655623063,
+        "life_div_fpy": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "process_runtime": 0.051499366760253906,
+        "p_plant_electric_gross_mw": 1141.1200262674888
+    }
+}
