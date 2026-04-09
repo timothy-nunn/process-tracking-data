@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "10:37",
+        "date": "09/04/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Update CI regression docs \\(#4162\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking add some comments and documentation for explanation of regression ci jobs change 0% to 0.2% for regression jobs remove outdated reference to process build and docker in ci docs page CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking small changes ",
+        "commit_hash": "12fd764c112e1e6703c841e6c8b0b39337b99067"
+    },
+    "tracking": {
+        "concost": 4132.724657145665,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "life_div_fpy": 0.0,
+        "process_runtime": 0.05109238624572754
+    }
+}
