@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "10/04/2026 UTC",
+        "time": "11:15",
+        "title": "IFE_MFILE",
+        "commit_message": "Ensure njit is used in plasma fields \\(#4172\\) ",
+        "commit_hash": "1927fd4b22c03fa827fd50a152d68af1aa28834c"
+    },
+    "tracking": {
+        "cdirt": 2593.4360655623063,
+        "process_runtime": 0.05780959129333496,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "life_div_fpy": 0.0,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "concost": 4132.724657145665
+    }
+}
