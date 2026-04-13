@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "13/04/2026 UTC",
+        "time": "16:05",
+        "title": "IFE_MFILE",
+        "commit_message": "Implement new data structure for CSFatigue \\(#4173\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking cs fatigue data class and setting up use of datastructure elsewhere to allow DataStructure use CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking f CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking fix tests CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking review comment changes CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Fix scanning of CS coil CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking add pfcoil to models CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking review comment changes --------- Co-authored-by: Timothy Nunn \\<timothy.nunn@ukaea.uk\\> ",
+        "commit_hash": "dfaa47b260809ee91a359313a41f6e0158a5e4c2"
+    },
+    "tracking": {
+        "process_runtime": 0.0583341121673584,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "cdirt": 2593.4360655623063,
+        "concost": 4132.724657145665,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_plant_electric_net_mw": 1000.04361704364
+    }
+}
