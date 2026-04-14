@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "14:32",
+        "date": "14/04/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add plasma shape enum \\(#4185\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add PlasmaShapeModelType enum for plasma shape definitions CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add PlasmaGeom class and integrate plasma geometry into physics models CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor plasma shape model output messages for consistency and clarity CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor plasma geometry output method and update references in models CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Apply suggestion from @timothy-nunn Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor plasma geometry condition for clarity and consistency CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor plasma shape handling to use PlasmaShapeModelType for improved clarity and consistency --------- Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> ",
+        "commit_hash": "12cd9730b438c356dcaa681a07a830755a1b6ca3"
+    },
+    "tracking": {
+        "cdirt": 2593.4360655623063,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "process_runtime": 0.05944418907165527,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "concost": 4132.724657145665,
+        "life_div_fpy": 0.0,
+        "p_fusion_total_mw": 2012.5573655511266
+    }
+}
