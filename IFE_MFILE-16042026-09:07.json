@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "09:07",
+        "date": "16/04/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Readding versioning into the docs \\(#4190\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Removed outdated versioning info and added v3 disclaimer CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Added versioning back into mkdocs yaml CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Tidied up tags section and v3 warning CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Moved versioning location in tree and fixed warning box ",
+        "commit_hash": "0c2c6b12704b1192e6a26637a1e1264d4fd28992"
+    },
+    "tracking": {
+        "cdirt": 2593.4360655623063,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "process_runtime": 0.041091203689575195,
+        "life_div_fpy": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "concost": 4132.724657145665,
+        "p_plant_electric_gross_mw": 1141.1200262674888
+    }
+}
