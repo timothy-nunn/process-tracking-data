@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "15:29",
+        "date": "16/04/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add TF plasma case enum \\(#4195\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add TF plasma case type enumeration and update references CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor TF case geometry checks to use TFPLasmaCaseType enumeration CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update TF plasma case type references to use TFPlasmaCaseType enumeration ",
+        "commit_hash": "d43ba2abbc34cf72d28bb129105feb31da71bf97"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "cdirt": 2593.4360655623063,
+        "life_div_fpy": 0.0,
+        "concost": 4132.724657145665,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "process_runtime": 0.04078269004821777
+    }
+}
