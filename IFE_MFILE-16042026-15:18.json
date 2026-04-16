@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "15:18",
+        "date": "16/04/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Stop modifying global input config object \\(#4197\\) ",
+        "commit_hash": "c6d774524b043cf9c556d9178887162f8b61281e"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "concost": 4132.724657145665,
+        "process_runtime": 0.0473332405090332,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364
+    }
+}
