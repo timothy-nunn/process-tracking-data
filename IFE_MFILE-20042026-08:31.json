@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "20/04/2026 UTC",
+        "time": "08:31",
+        "title": "IFE_MFILE",
+        "commit_message": "Fix nbi power: correct shine-through\\, use plasma-coupled power instead of raw power\\; corrected wall-plug power conversion \\(#4187\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Fix nbi power: correct shine-through\\, use plasma-coupled power instead of raw power\\; corrected wall-plug power conversion CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Rename cudriv to current_drive CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update test_current_drive_primary_neutral_beam test CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking updated sigbeam docstring to correct units of output ",
+        "commit_hash": "46318879aceb85df56092812be553fea9bcde77c"
+    },
+    "tracking": {
+        "cdirt": 2593.4360655623063,
+        "concost": 4132.724657145665,
+        "process_runtime": 0.04729771614074707,
+        "life_div_fpy": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888
+    }
+}
