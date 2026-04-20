@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "20/04/2026 UTC",
+        "time": "10:21",
+        "title": "IFE_MFILE",
+        "commit_message": ":bug: Add full tf midplane thickness \\(#4201\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add full and internal radial thickness variables for TF coil midplane CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add full and internal radial thickness calculations for TF coil mid-plane CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add TFGlobalGeometry dataclass for improved TF coil geometry calculations CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Enhance TFGlobalGeometry docstring and type hint in run_base_tf method CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor TFGlobalGeometry docstring for clarity and consistency CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Remove redundant return type annotation from TFCoil geometry method docstring CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor TFCoil docstring parameter descriptions for consistency and clarity ",
+        "commit_hash": "244f360943f972d0e3b0f4ced313ab6cb720e1af"
+    },
+    "tracking": {
+        "cdirt": 2593.4360655623063,
+        "concost": 4132.724657145665,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "life_div_fpy": 0.0,
+        "process_runtime": 0.040062665939331055,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "pflux_fw_neutron_mw": 8.900321581918323
+    }
+}
