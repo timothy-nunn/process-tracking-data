@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "20/04/2026 UTC",
+        "time": "10:58",
+        "title": "IFE_MFILE",
+        "commit_message": "Add supercon tf wp shape types \\(#4194\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add SuperconductingTFWPShapeType enum and update SuperconductingTFCoil for WP geometry handling CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Integrate SuperconductingTFWPShapeType into geometry handling for TF coils CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Apply suggestions from code review Co-authored-by: Copilot \\<175728472+Copilot@users.noreply.github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Apply suggestions from code review Co-authored-by: je-cook \\<81617086+je-cook@users.noreply.github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Fix SuperconductingTFWPShapeType full_name method and add error handling for invalid geometry index CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor SuperconductingTFWPShapeType enum to simplify value assignment and update geometry handling in Build class CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add DEFAULT value to SuperconductingTFWPShapeType enum for improved geometry handling CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Rename DEFAULT to UNSET in SuperconductingTFWPShapeType enum for clarity in geometry handling CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor WP geometry handling to use SuperconductingTFWPShapeType for improved clarity and consistency --------- Co-authored-by: Copilot \\<175728472+Copilot@users.noreply.github.com\\> Co-authored-by: je-cook \\<81617086+je-cook@users.noreply.github.com\\> ",
+        "commit_hash": "b9e97d79696af7ce3ffc551b3fec655c98529669"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "cdirt": 2593.4360655623063,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "concost": 4132.724657145665,
+        "process_runtime": 0.04450035095214844,
+        "life_div_fpy": 0.0
+    }
+}
