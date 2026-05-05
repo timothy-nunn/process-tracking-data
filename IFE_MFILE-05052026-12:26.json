@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "05/05/2026 UTC",
+        "time": "12:26",
+        "title": "IFE_MFILE",
+        "commit_message": "Correct docstrings still in the rst format \\(#4213\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor __init__ method docstring to use NumPy style for parameters Co-authored-by: Copilot \\<copilot@github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor __init__ method docstring to use NumPy style for parameters Co-authored-by: Copilot \\<copilot@github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor __init__ method docstring to use NumPy style for parameters Co-authored-by: Copilot \\<copilot@github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor docstrings to use NumPy style for blanket module calculations Co-authored-by: Copilot \\<copilot@github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor __init__ method of ImpurityRadiation class to use NumPy style docstring for parameters Co-authored-by: Copilot \\<copilot@github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor docstring in PlasmaCurrent class to use NumPy style for parameters and return values Co-authored-by: Copilot \\<copilot@github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor __init__ method docstring in IFE class to use NumPy style for parameters Co-authored-by: Copilot \\<copilot@github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor __init__ method docstring in Scan class to use NumPy style for parameters Co-authored-by: Copilot \\<copilot@github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor __init__ method docstring in Evaluators class to use NumPy style for parameters Co-authored-by: Copilot \\<copilot@github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add Model type hint Co-authored-by: Copilot \\<copilot@github.com\\> --------- Co-authored-by: Copilot \\<copilot@github.com\\> ",
+        "commit_hash": "a52c41e604c782e3db47eb8bb06c63907e46708d"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "life_div_fpy": 0.0,
+        "process_runtime": 0.04673194885253906,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "cdirt": 2593.4360655623063,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888
+    }
+}
