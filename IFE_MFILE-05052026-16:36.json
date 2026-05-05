@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "05/05/2026 UTC",
+        "time": "16:36",
+        "title": "IFE_MFILE",
+        "commit_message": "Add fne0 to list of obsolete f-values \\(#4221\\) ",
+        "commit_hash": "1ca9d22aab9f29d47de42baedf1478ab9e91e89a"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "concost": 4132.724657145665,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "cdirt": 2593.4360655623063,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "process_runtime": 0.04399251937866211
+    }
+}
