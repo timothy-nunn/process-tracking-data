@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "06/05/2026 UTC",
+        "time": "10:33",
+        "title": "IFE_MFILE",
+        "commit_message": "Convert costs data structure to dataclass \\(#4196\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Costs dataclass CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking f CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Custom cost model changes CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Remove unnecessary process_models arg ",
+        "commit_hash": "95d16d1287559881054087252b93adfcabbd59c9"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "life_div_fpy": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665,
+        "process_runtime": 0.03207087516784668,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888
+    }
+}
