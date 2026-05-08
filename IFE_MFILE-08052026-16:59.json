@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "08/05/2026 UTC",
+        "time": "16:59",
+        "title": "IFE_MFILE",
+        "commit_message": "Remove unused dicts \\(#4231\\) ",
+        "commit_hash": "77f7affe56762325f81583df678b94d79e4f528a"
+    },
+    "tracking": {
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "life_div_fpy": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "process_runtime": 0.04237246513366699,
+        "concost": 4132.724657145665
+    }
+}
