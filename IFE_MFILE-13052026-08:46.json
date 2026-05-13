@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "13/05/2026 UTC",
+        "time": "08:46",
+        "title": "IFE_MFILE",
+        "commit_message": "Convert CCFEHCPB data structure to dataclass \\(#4243\\) ",
+        "commit_hash": "6f02353fa5073821094700d41e6b2ffc7c509b57"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "process_runtime": 0.041849374771118164,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "life_div_fpy": 0.0,
+        "concost": 4132.724657145665,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "cdirt": 2593.4360655623063
+    }
+}
