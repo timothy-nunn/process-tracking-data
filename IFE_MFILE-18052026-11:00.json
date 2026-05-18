@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "11:00",
+        "date": "18/05/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "convert PF coil data structure to dataclass \\(#4256\\) ",
+        "commit_hash": "1dc7a1247cd455cf8566abfe0e660a641df62d7f"
+    },
+    "tracking": {
+        "p_fusion_total_mw": 2012.5573655511266,
+        "process_runtime": 0.0462954044342041,
+        "cdirt": 2593.4360655623063,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665
+    }
+}
