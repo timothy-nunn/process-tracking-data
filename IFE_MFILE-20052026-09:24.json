@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "09:24",
+        "date": "20/05/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "convert PF power data structure to dataclass \\(#4260\\) ",
+        "commit_hash": "adf43c5d1a85cd21429103c6489ca8b6bba69e73"
+    },
+    "tracking": {
+        "concost": 4132.724657145665,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "process_runtime": 0.04816389083862305,
+        "life_div_fpy": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_net_mw": 1000.04361704364
+    }
+}
