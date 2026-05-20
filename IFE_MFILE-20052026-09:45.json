@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "20/05/2026 UTC",
+        "time": "09:45",
+        "title": "IFE_MFILE",
+        "commit_message": "Convert neoclassics data structure to dataclass \\(#4263\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking convert neoclassics vars to dataclass CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking fix failing regression test CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking fix mistake ",
+        "commit_hash": "11881e895f60aaaf52a6f564c221e68b6530f066"
+    },
+    "tracking": {
+        "cdirt": 2593.4360655623063,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "life_div_fpy": 0.0,
+        "concost": 4132.724657145665,
+        "process_runtime": 0.04284954071044922,
+        "p_fusion_total_mw": 2012.5573655511266
+    }
+}
