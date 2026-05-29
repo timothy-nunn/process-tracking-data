@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "29/05/2026 UTC",
+        "time": "09:18",
+        "title": "IFE_MFILE",
+        "commit_message": "Add blanket type enum \\(#4212\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add BlktModelTypes enum for blanket model types Co-authored-by: Copilot \\<copilot@github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor blanket type checks to use BlktModelTypes enum for improved readability and maintainability Co-authored-by: Copilot \\<copilot@github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor blanket type checks to use BlktModelTypes enum for consistency in power calculations Co-authored-by: Copilot \\<copilot@github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor imports to use BlktModelTypes from blanket_variables for consistency CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Post rebase fixes --------- Co-authored-by: Copilot \\<copilot@github.com\\> ",
+        "commit_hash": "33bd03109ed1359e2102c5b84219eae663aa8c86"
+    },
+    "tracking": {
+        "life_div_fpy": 0.0,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "process_runtime": 0.05232048034667969,
+        "cdirt": 2593.4360655623063,
+        "concost": 4132.724657145665,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_gross_mw": 1141.1200262674888
+    }
+}
