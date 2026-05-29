@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "10:00",
+        "date": "29/05/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add figure of merit enum \\(#4272\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add FiguresOfMerit enum and update documentation for figure of merit usage CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor objective names to use FiguresOfMerit enum and update descriptions for clarity CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update descriptions in FiguresOfMerit enum for clarity and consistency CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update objective metric calculation for figure of merit 5 to use big_q_plasma CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor objective function to use FiguresOfMerit enum for improved clarity and maintainability CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Enhance error handling for FiguresOfMerit initialization and update description usage in plot functions CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Potential fix for pull request finding Co-authored-by: Copilot Autofix powered by AI \\<175728472+Copilot@users.noreply.github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Potential fix for pull request finding Co-authored-by: Copilot Autofix powered by AI \\<175728472+Copilot@users.noreply.github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update documentation for adding figures of merit to include usage of FiguresOfMerit enum CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Post rebase changes CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Post rebase fixes --------- Co-authored-by: Copilot Autofix powered by AI \\<175728472+Copilot@users.noreply.github.com\\> ",
+        "commit_hash": "7951a8c4972f6a9e3031187fd02b64b8482d0f52"
+    },
+    "tracking": {
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "life_div_fpy": 0.0,
+        "concost": 4132.724657145665,
+        "process_runtime": 0.05196332931518555,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "pflux_fw_neutron_mw": 8.900321581918323
+    }
+}
