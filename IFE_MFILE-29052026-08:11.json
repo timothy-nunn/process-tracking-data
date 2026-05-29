@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "29/05/2026 UTC",
+        "time": "08:11",
+        "title": "IFE_MFILE",
+        "commit_message": "Add ioptimz enum \\(#4273\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add enumeration for PROCESS run modes to improve code clarity CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor ioptimz checks to use PROCESSRunMode enumeration for improved clarity CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add PROCESSRunMode descriptions to plot and scan outputs for improved clarity CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Fix ioptimz switch handling to ensure integer conversion for improved stability CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Requested changes CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update process/data_structure/numerics.py Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Enhance EVALUATION mode documentation in PROCESSRunMode enumeration for clarity on functionality and internal workings --------- Co-authored-by: Timothy \\<75321887+timothy-nunn@users.noreply.github.com\\> ",
+        "commit_hash": "7c4fdf67202f9721b03a05707d88a391888388ad"
+    },
+    "tracking": {
+        "process_runtime": 0.046399831771850586,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "concost": 4132.724657145665,
+        "life_div_fpy": 0.0,
+        "cdirt": 2593.4360655623063,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_plant_electric_gross_mw": 1141.1200262674888
+    }
+}
