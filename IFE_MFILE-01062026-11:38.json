@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "11:38",
+        "date": "01/06/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Convert Rebco data structure to dataclass \\(#4276\\) ",
+        "commit_hash": "b97ed80d574211ed1f5d4dfd04c532b08c32ce2c"
+    },
+    "tracking": {
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "process_runtime": 0.0528559684753418,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "cdirt": 2593.4360655623063,
+        "concost": 4132.724657145665,
+        "pflux_fw_neutron_mw": 8.900321581918323
+    }
+}
