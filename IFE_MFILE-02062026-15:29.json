@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "02/06/2026 UTC",
+        "time": "15:29",
+        "title": "IFE_MFILE",
+        "commit_message": "Convert superconducting TF data structure to dataclass \\(#4281\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking convert superconducting tf coil to dataclass CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking remove duplicate models ",
+        "commit_hash": "906cf7d984c5843c6430aebc315a9a0ceee06e33"
+    },
+    "tracking": {
+        "life_div_fpy": 0.0,
+        "process_runtime": 0.046195030212402344,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "concost": 4132.724657145665,
+        "p_fusion_total_mw": 2012.5573655511266
+    }
+}
