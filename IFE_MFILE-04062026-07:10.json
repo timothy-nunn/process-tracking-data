@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "07:10",
+        "date": "04/06/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Correct output_prefix when bare IN.DAT used \\(#4286\\) ",
+        "commit_hash": "58287984494c3671606996eff8b21ad05f71801c"
+    },
+    "tracking": {
+        "process_runtime": 0.04483842849731445,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "cdirt": 2593.4360655623063,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "life_div_fpy": 0.0
+    }
+}
