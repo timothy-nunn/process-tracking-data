@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "04/06/2026 UTC",
+        "time": "15:34",
+        "title": "IFE_MFILE",
+        "commit_message": "Add SuperconductorShape enum \\(#4284\\) ",
+        "commit_hash": "7f5ed2763ddf14b6ad5fb713252aeaeac7bf66e5"
+    },
+    "tracking": {
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "cdirt": 2593.4360655623063,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "process_runtime": 0.04105234146118164,
+        "concost": 4132.724657145665
+    }
+}
