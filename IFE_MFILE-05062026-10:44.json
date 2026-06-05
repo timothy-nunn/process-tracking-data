@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "05/06/2026 UTC",
+        "time": "10:44",
+        "title": "IFE_MFILE",
+        "commit_message": "Perform power_at_ignition_point on a proxy stellarator data structure \\(#4291\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Perform power_at_ignition_point on a proxy stellarator data structure CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Remove check for icc 91 to run power_at_ignition_point ",
+        "commit_hash": "5e85c124ef39bce67d646ddc3a53c23d7267edad"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "cdirt": 2593.4360655623063,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "process_runtime": 0.043703317642211914,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "concost": 4132.724657145665,
+        "p_fusion_total_mw": 2012.5573655511266
+    }
+}
