@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "10:36",
+        "date": "05/06/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Check validity of i_density_limit through enum \\(#4294\\) ",
+        "commit_hash": "be3ee5f889332ba35927d983e3b00122980019f0"
+    },
+    "tracking": {
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "process_runtime": 0.046038150787353516,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "life_div_fpy": 0.0,
+        "concost": 4132.724657145665,
+        "pflux_fw_neutron_mw": 8.900321581918323
+    }
+}
