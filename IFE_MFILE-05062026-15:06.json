@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "15:06",
+        "date": "05/06/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Correct file_prefix of IN.DAT not in cwd \\(#4295\\) ",
+        "commit_hash": "04a8363725f26b59dda0f5aa1520e67aa7014fde"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665,
+        "process_runtime": 0.05041861534118652
+    }
+}
