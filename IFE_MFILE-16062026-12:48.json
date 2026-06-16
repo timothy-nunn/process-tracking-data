@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "16/06/2026 UTC",
+        "time": "12:48",
+        "title": "IFE_MFILE",
+        "commit_message": "Convert scan data structure to dataclass \\(#4305\\) ",
+        "commit_hash": "ab98459079a39893e942bd232afea39d6b666abf"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "process_runtime": 0.04860496520996094,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "cdirt": 2593.4360655623063,
+        "life_div_fpy": 0.0,
+        "concost": 4132.724657145665
+    }
+}
