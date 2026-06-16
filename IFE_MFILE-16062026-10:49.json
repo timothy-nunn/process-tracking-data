@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "10:49",
+        "date": "16/06/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Bump actions/deploy-pages from 4.0.5 to 5.0.0 \\(#4315\\) Bumps \\[actions/deploy-pages\\]\\(https://github.com/actions/deploy-pages\\) from 4.0.5 to 5.0.0. - \\[Release notes\\]\\(https://github.com/actions/deploy-pages/releases\\) - \\[Commits\\]\\(https://github.com/actions/deploy-pages/compare/d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e...cd2ce8fcbc39b97be8ca5fce6e763baed58fa128\\) --- updated-dependencies: - dependency-name: actions/deploy-pages dependency-version: 5.0.0 dependency-type: direct:production update-type: version-update:semver-major ... Signed-off-by: dependabot\\[bot\\] \\<support@github.com\\> Co-authored-by: dependabot\\[bot\\] \\<49699333+dependabot\\[bot\\]@users.noreply.github.com\\> ",
+        "commit_hash": "5581e847606ec65d037b497b876682c1e446cb68"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "life_div_fpy": 0.0,
+        "process_runtime": 0.04698991775512695,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "cdirt": 2593.4360655623063,
+        "concost": 4132.724657145665,
+        "p_plant_electric_net_mw": 1000.04361704364
+    }
+}
