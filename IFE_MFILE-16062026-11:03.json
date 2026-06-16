@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "11:03",
+        "date": "16/06/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Bump actions/upload-pages-artifact from 4.0.0 to 5.0.0 \\(#4318\\) Bumps \\[actions/upload-pages-artifact\\]\\(https://github.com/actions/upload-pages-artifact\\) from 4.0.0 to 5.0.0. - \\[Release notes\\]\\(https://github.com/actions/upload-pages-artifact/releases\\) - \\[Commits\\]\\(https://github.com/actions/upload-pages-artifact/compare/7b1f4a764d45c48632c6b24a0339c27f5614fb0b...fc324d3547104276b827a68afc52ff2a11cc49c9\\) --- updated-dependencies: - dependency-name: actions/upload-pages-artifact dependency-version: 5.0.0 dependency-type: direct:production update-type: version-update:semver-major ... Signed-off-by: dependabot\\[bot\\] \\<support@github.com\\> Co-authored-by: dependabot\\[bot\\] \\<49699333+dependabot\\[bot\\]@users.noreply.github.com\\> ",
+        "commit_hash": "76bc86c43e32bfd62c7786e870854aa0b3432abb"
+    },
+    "tracking": {
+        "p_fusion_total_mw": 2012.5573655511266,
+        "cdirt": 2593.4360655623063,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "concost": 4132.724657145665,
+        "process_runtime": 0.04389643669128418,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "pflux_fw_neutron_mw": 8.900321581918323
+    }
+}
