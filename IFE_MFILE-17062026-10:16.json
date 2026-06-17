@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "10:16",
+        "date": "17/06/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add new logging level in regression tests to output regression test table \\(#4326\\) ",
+        "commit_hash": "d84e9ddf85dcf9015b5eacbe8aaf930b29bfcaf9"
+    },
+    "tracking": {
+        "concost": 4132.724657145665,
+        "life_div_fpy": 0.0,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "process_runtime": 0.04718637466430664,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759
+    }
+}
