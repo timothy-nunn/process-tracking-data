@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "09:32",
+        "date": "22/06/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Bump jupyter from 1.0.0 to 1.1.1 \\(#4344\\) Bumps \\[jupyter\\]\\(https://jupyter.org\\) from 1.0.0 to 1.1.1. --- updated-dependencies: - dependency-name: jupyter dependency-version: 1.1.1 dependency-type: direct:development update-type: version-update:semver-minor ... Signed-off-by: dependabot\\[bot\\] \\<support@github.com\\> Co-authored-by: dependabot\\[bot\\] \\<49699333+dependabot\\[bot\\]@users.noreply.github.com\\> ",
+        "commit_hash": "6525786704bfc941c228a00530e83e588abd3f35"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "process_runtime": 0.05133247375488281,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "concost": 4132.724657145665,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "life_div_fpy": 0.0,
+        "cdirt": 2593.4360655623063
+    }
+}
