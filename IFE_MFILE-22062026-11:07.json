@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "11:07",
+        "date": "22/06/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Update plotly requirement from \\<6\\,\\>=5.15.0 to \\>=5.15.0\\,\\<7 \\(#4347\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update plotly requirement from \\<6\\,\\>=5.15.0 to \\>=6.8.0\\,\\<7 Updates the requirements on \\[plotly\\]\\(https://github.com/plotly/plotly.py\\) to permit the latest version. - \\[Release notes\\]\\(https://github.com/plotly/plotly.py/releases\\) - \\[Changelog\\]\\(https://github.com/plotly/plotly.py/blob/main/CHANGELOG.md\\) - \\[Commits\\]\\(https://github.com/plotly/plotly.py/compare/v5.15.0...v6.8.0\\) --- updated-dependencies: - dependency-name: plotly dependency-version: 6.8.0 dependency-type: direct:development ... Signed-off-by: dependabot\\[bot\\] \\<support@github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Apply suggestion from @je-cook --------- Signed-off-by: dependabot\\[bot\\] \\<support@github.com\\> Co-authored-by: dependabot\\[bot\\] \\<49699333+dependabot\\[bot\\]@users.noreply.github.com\\> Co-authored-by: je-cook \\<81617086+je-cook@users.noreply.github.com\\> ",
+        "commit_hash": "7cb5f61a5e5267d6af33e3be73f3e3bc7eb52bae"
+    },
+    "tracking": {
+        "cdirt": 2593.4360655623063,
+        "concost": 4132.724657145665,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "process_runtime": 0.04656624794006348,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "life_div_fpy": 0.0,
+        "p_fusion_total_mw": 2012.5573655511266
+    }
+}
