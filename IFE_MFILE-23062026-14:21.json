@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "23/06/2026 UTC",
+        "time": "14:21",
+        "title": "IFE_MFILE",
+        "commit_message": "Add tf inside cs \\`enum\\` \\(#4362\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add TFCSRadialConfiguration enum for TF coil placement control CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor TF coil inside CS checks to use TFCSRadialConfiguration enum CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor TFCSRadialConfiguration enum to include descriptions and update imports CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update process/models/tfcoil/base.py Co-authored-by: clmould \\<86794332+clmould@users.noreply.github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update test_tfcoil.py to use TFCSRadialConfiguration for i_tf_inside_cs CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update description method in TFCSRadialConfiguration for clarity --------- Co-authored-by: clmould \\<86794332+clmould@users.noreply.github.com\\> ",
+        "commit_hash": "a285d2bcc0b7fed38cf22e3387a5bda4edc48867"
+    },
+    "tracking": {
+        "process_runtime": 0.047614097595214844,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "concost": 4132.724657145665,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "life_div_fpy": 0.0,
+        "cdirt": 2593.4360655623063
+    }
+}
