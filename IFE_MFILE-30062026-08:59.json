@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "30/06/2026 UTC",
+        "time": "08:59",
+        "title": "IFE_MFILE",
+        "commit_message": "Move confinement time enums to data structure \\(#4397\\) ",
+        "commit_hash": "18e42840ee32196fb9c2597e6ffdab0405747069"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "process_runtime": 0.0468292236328125,
+        "cdirt": 2593.4360655623063,
+        "life_div_fpy": 0.0,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "concost": 4132.724657145665,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759
+    }
+}
