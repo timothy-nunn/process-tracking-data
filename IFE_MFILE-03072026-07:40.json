@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "07:40",
+        "date": "03/07/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Remove use of \\`warnings.warn\\` \\(#4407\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking warn to logger warning CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking linter fixes CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Apply suggestions from code review Co-authored-by: je-cook \\<81617086+je-cook@users.noreply.github.com\\> ",
+        "commit_hash": "699eb8688a9d440a35d2f1d49c60837f9fbc1615"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "concost": 4132.724657145665,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "process_runtime": 0.04826998710632324,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "life_div_fpy": 0.0,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759
+    }
+}
