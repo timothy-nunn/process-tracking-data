@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "14:46",
+        "date": "06/07/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Fix PLR0911 ruff errors \\(#4415\\) ",
+        "commit_hash": "a3db8649da59d8b27c5ca72dd46be83b574e117e"
+    },
+    "tracking": {
+        "p_fusion_total_mw": 2012.5573655511266,
+        "cdirt": 2593.4360655623063,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "concost": 4132.724657145665,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "process_runtime": 0.05318880081176758,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759
+    }
+}
