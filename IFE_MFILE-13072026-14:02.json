@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "13/07/2026 UTC",
+        "time": "14:02",
+        "title": "IFE_MFILE",
+        "commit_message": "Remove unnecessary copy statements in superconducting.py \\(#4435\\) ",
+        "commit_hash": "e65d29a9a51ab4c00cdeaf8d454b1b3135ed613e"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "cdirt": 2593.4360655623063,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "process_runtime": 0.050066232681274414,
+        "concost": 4132.724657145665,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "life_div_fpy": 0.0
+    }
+}

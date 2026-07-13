@@ -4,7 +4,7 @@
 # Power Reactor Optimisation Code #
 PROCESS_version__________________________________________________________ (procver)______________________ "0.0.1.dev1+ge65d29a9a" 
 Date_of_run______________________________________________________________ (date)_________________________ "13/07/2026 UTC" 
-Time_of_run______________________________________________________________ (time)_________________________      "13:21" 
+Time_of_run______________________________________________________________ (time)_________________________      "14:02" 
 User_____________________________________________________________________ (username)_____________________     "runner" 
 PROCESS_run_title________________________________________________________ (runtitle)_____________________      "SQuID" 
 PROCESS_git_tag__________________________________________________________ (tagno)________________________           "" 
@@ -132,7 +132,7 @@ VV_stress_during_TF_quench_upper_limit______physical_value_______________ (ineq_
 VV_stress_during_TF_quench_upper_limit______symbol_______________________ (ineq_symbol_con065)___________         '<=' 
 VV_stress_during_TF_quench_upper_limit______units________________________ (ineq_units_con065)____________         'Pa' 
 VV_stress_during_TF_quench_upper_limit______physical_bound_______________ (ineq_bound_con065)____________ 9.30000000000000000e+07 
-Runtime_of_PROCESS_in_seconds____________________________________________ (process_runtime)______________ 3.65624747514724731e+02 
+Runtime_of_PROCESS_in_seconds____________________________________________ (process_runtime)______________ 3.67187297105789185e+02 
 # Final Feasible Point #
 # Power Reactor Costs (1990 US$) #
 First_wall_/_blanket_life_(years)________________________________________ (life_blkt)____________________ 1.94857843499817633e+01 
