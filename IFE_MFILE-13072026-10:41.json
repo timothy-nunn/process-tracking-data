@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "10:41",
+        "date": "13/07/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Bump ruff from 0.15.20 to 0.15.21 \\(#4431\\) Bumps \\[ruff\\]\\(https://github.com/astral-sh/ruff\\) from 0.15.20 to 0.15.21. - \\[Release notes\\]\\(https://github.com/astral-sh/ruff/releases\\) - \\[Changelog\\]\\(https://github.com/astral-sh/ruff/blob/main/CHANGELOG.md\\) - \\[Commits\\]\\(https://github.com/astral-sh/ruff/compare/0.15.20...0.15.21\\) --- updated-dependencies: - dependency-name: ruff dependency-version: 0.15.21 dependency-type: direct:development update-type: version-update:semver-patch ... Signed-off-by: dependabot\\[bot\\] \\<support@github.com\\> Co-authored-by: dependabot\\[bot\\] \\<49699333+dependabot\\[bot\\]@users.noreply.github.com\\> ",
+        "commit_hash": "3e8c76edd0878be16f2204deed59deb4b2e68a2d"
+    },
+    "tracking": {
+        "p_fusion_total_mw": 2012.5573655511266,
+        "concost": 4132.724657145665,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "life_div_fpy": 0.0,
+        "process_runtime": 0.04715251922607422,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_gross_mw": 1141.1200262674888
+    }
+}
