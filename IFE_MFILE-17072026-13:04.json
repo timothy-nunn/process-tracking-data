@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "17/07/2026 UTC",
+        "time": "13:04",
+        "title": "IFE_MFILE",
+        "commit_message": "Ensure i_fw_coolant_type is output as a string \\(#4441\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Ensure i_fw_coolant_type is output as a string CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Remove quotes from helium in plot summary CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Remove unnecessary strip CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Capitalise helium CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Capitlaise ",
+        "commit_hash": "c8e44ca8af1d66b6e145e551b7872c5bfd8cce3f"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "cdirt": 2593.4360655623063,
+        "process_runtime": 0.044463157653808594,
+        "pflux_fw_neutron_mw": 8.900321581918323
+    }
+}
