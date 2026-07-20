@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "20/07/2026 UTC",
+        "time": "10:10",
+        "title": "IFE_MFILE",
+        "commit_message": "Refactor TF coil models to remove internal cross-section parameters a\u2026 \\(#4371\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor TF coil models to remove internal cross-section parameters and replace with area of CS poloidal cross-section CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Post rebase fixes CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add keyword arguements to calls of stresscl ",
+        "commit_hash": "6a094a90ddbcfd154a4889c48ffc3b5652139bd2"
+    },
+    "tracking": {
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "process_runtime": 0.05167126655578613,
+        "concost": 4132.724657145665,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "cdirt": 2593.4360655623063,
+        "pflux_fw_neutron_mw": 8.900321581918323
+    }
+}
