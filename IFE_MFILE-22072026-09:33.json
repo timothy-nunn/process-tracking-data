@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "09:33",
+        "date": "22/07/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add specific \\`dr_cs_bore\\` variable \\(#4437\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add dr_cs_bore as a variable CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor bore variable references to use dr_cs_bore for consistency in calculations CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Remove now redudant calculation of cs precompression strucutre thickness and use dr_cs_bore instead CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update references from dr_bore to dr_cs_bore for consistency in geometry calculations CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Adjust text positioning and formatting for secondary current display in plot CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update cylinder radius references in docs CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Move the CS compression calc to be after the assignment of dr_cs_bore CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Stop r_tf_inboard_in using out-of-date dr_cs_precomp --------- Co-authored-by: Timothy Nunn \\<timothy.nunn@ukaea.uk\\> ",
+        "commit_hash": "b0b7d56046631d9a81871ec16a08866d0afef42a"
+    },
+    "tracking": {
+        "cdirt": 2593.4360655623063,
+        "concost": 4132.724657145665,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "process_runtime": 0.051311492919921875,
+        "life_div_fpy": 0.0
+    }
+}
