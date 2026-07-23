@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "12:50",
+        "date": "23/07/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Update f_c_plasma_bootstrap_max range to allow positive values only \\(#4459\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update f_c_plasma_bootstrap_max range to allow positive values only CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refine docstring for f_c_plasma_bootstrap_max to clarify its purpose ",
+        "commit_hash": "5859894ee96002c75a9029c23f26cfd80a4d6be3"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "process_runtime": 0.03472542762756348,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "concost": 4132.724657145665,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "life_div_fpy": 0.0,
+        "cdirt": 2593.4360655623063
+    }
+}
