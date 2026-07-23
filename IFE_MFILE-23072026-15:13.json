@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "23/07/2026 UTC",
+        "time": "15:13",
+        "title": "IFE_MFILE",
+        "commit_message": "\\`t_pulse_repitition\\` -\\> \\`t_plant_pulse_plasma_present\\` \\(#4458\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking t_pulse_repitition -\\> t_plant_pulse_plasma_present CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Apply suggestion from @clmould ",
+        "commit_hash": "c31e1cda39b1dd7829119272b7f86906c2d235dc"
+    },
+    "tracking": {
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "process_runtime": 0.04684162139892578,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "life_div_fpy": 0.0
+    }
+}
