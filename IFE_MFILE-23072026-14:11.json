@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "14:11",
+        "date": "23/07/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Correct dx_tf_hts_tape_rebco additional actions \\(#4453\\) ",
+        "commit_hash": "3aa83d1e74a2681e5a3429ec3aecdb486461c932"
+    },
+    "tracking": {
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "process_runtime": 0.03620171546936035,
+        "life_div_fpy": 0.0,
+        "concost": 4132.724657145665
+    }
+}
