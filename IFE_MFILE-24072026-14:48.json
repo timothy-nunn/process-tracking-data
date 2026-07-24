@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "14:48",
+        "date": "24/07/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Make bzero error message clearer \\(#4465\\) ",
+        "commit_hash": "808481ec7eef61d590462791d4d1317407daa9df"
+    },
+    "tracking": {
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "process_runtime": 0.049021005630493164,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "life_div_fpy": 0.0,
+        "concost": 4132.724657145665,
+        "pflux_fw_neutron_mw": 8.900321581918323
+    }
+}
