@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "14:38",
+        "date": "24/07/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Reduce number of plasma profile elements from 501 to 101 \\(#4416\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Reduce number of plasma profile elements from 501 to 101 CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Change n_plasma_profile_elements to 201 CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Fix Sauter plot CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Fix unit tests CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update default profile size from 501 to 101 points in plasma profiles documentation and implementation CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Docs 101 to 201 --------- Co-authored-by: mn3981 \\<christopher.ashe@ukaea.uk\\> ",
+        "commit_hash": "f4541d832b8ed303cff949b764cc71bc5bdcbf46"
+    },
+    "tracking": {
+        "p_fusion_total_mw": 2012.5573655511266,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "cdirt": 2593.4360655623063,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "process_runtime": 0.034619808197021484,
+        "p_plant_electric_gross_mw": 1141.1200262674888
+    }
+}
