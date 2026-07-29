@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "12:54",
+        "date": "29/07/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add AvailabilityModel enum \\(#4468\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add AvailabilityModel enum for plant availability models CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor plant availability checks to use AvailabilityModel enum CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update AvailabilityModel enum to replace INPUT with USER_INPUT and adjust related checks CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Clarify error message for f_t_plant_available scanning condition in Scan class ",
+        "commit_hash": "fcbd42bfb2e17f9bfe003e3d9b590077566443bf"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "concost": 4132.724657145665,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "process_runtime": 0.036649465560913086,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "life_div_fpy": 0.0,
+        "cdirt": 2593.4360655623063
+    }
+}
