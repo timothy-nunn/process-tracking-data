@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "14:30",
+        "date": "30/07/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Output global power imbalance in OUT.DAT \\(#4417\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Power balances coded CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking New variables created for the imbalances CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Cahnges as requested by Tim. New variables created to fill in the blanks. Some duplicate outputs removed from power.py and hcpb.py CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Partly Implemented some formatting suggestions. Replaced rad terms by p_plasma_out. CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Corrected IN/OUT confusion in plasma power balance --------- Co-authored-by: Michael Kovari \\<michael.kovari@ukaea.uk\\> ",
+        "commit_hash": "bd4752b9ea46cbf464cda136333fc01d2ccf8259"
+    },
+    "tracking": {
+        "p_fusion_total_mw": 2012.5573655511266,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "process_runtime": 0.050006866455078125,
+        "concost": 4132.724657145665,
+        "cdirt": 2593.4360655623063,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_plant_electric_gross_mw": 1141.1200262674888
+    }
+}
