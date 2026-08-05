@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "05/08/2026 UTC",
+        "time": "08:31",
+        "title": "IFE_MFILE",
+        "commit_message": "Add Paz-Soldan negative triangularity confinement time scaling \\(#4386\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml step-cost-model-3 tests tracking \u2728 at Paz-Soldan NT confinement time scaling CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml step-cost-model-3 tests tracking \ud83c\udfa8 update following comments CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml step-cost-model-3 tests tracking \ud83c\udfa8 update syummary variable names CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml step-cost-model-3 tests tracking \ud83c\udfa8 unify plasma current variable name CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml step-cost-model-3 tests tracking \ud83c\udfa8 update variables after rebase CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml step-cost-model-3 tests tracking \ud83d\udea8 fix ruff checks CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml step-cost-model-3 tests tracking \u267b\ufe0f update variable name CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml step-cost-model-3 tests tracking \u267b\ufe0f update missed variables names CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml step-cost-model-3 tests tracking \ud83d\udcdd fix references --------- Co-authored-by: apearce \\<alexaner.pearce@ukaea.uk\\> ",
+        "commit_hash": "d6ce17aa0fb00a4da4a7255721211ffc583f49b8"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "concost": 4132.724657145665,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "cdirt": 2593.4360655623063,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "process_runtime": 0.049161434173583984,
+        "p_fusion_total_mw": 2012.5573655511266
+    }
+}
