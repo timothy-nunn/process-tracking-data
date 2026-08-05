@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "09:47",
+        "date": "05/08/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Remove pointer to git submodule \\(#4500\\) ",
+        "commit_hash": "e79e3225437892f9088916c1e0cab4f92c6f0e1e"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "process_runtime": 0.04639887809753418,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "life_div_fpy": 0.0,
+        "concost": 4132.724657145665,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759
+    }
+}
