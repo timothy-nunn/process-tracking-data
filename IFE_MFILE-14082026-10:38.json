@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "10:38",
+        "date": "14/08/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add outboard SOL model enum \\(#4514\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add OutbordSOLPowerDecayLengthModel enum for power decay length models CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add switch for SOL outboard power decay length scaling in PhysicsData class CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add len_sol_outboard_power_decay to PhysicsData for SOL power decay length CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Enhance OutbordSOLPowerDecayLengthModel with detailed docstring and integrate power decay length logic in ScrapeOffLayer model CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add SOL outboard parallel area and power flux attributes to PhysicsData CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add calculations for outboard SOL parallel area and power flux in ScrapeOffLayer CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Remove hardcoded SOL outboard power decay length from Physics class CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add i_len_sol_outboard_power_decay input variable and update related models CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add len_sol_outboard_power_decay input variable and update ScrapeOffLayer logic for user input handling CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor user input handling for OutbordSOLPowerDecayLengthModel in ScrapeOffLayer ",
+        "commit_hash": "feb7ef36e5e1ade1358fba1368289dfcdc528c95"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "process_runtime": 0.03792405128479004,
+        "cdirt": 2593.4360655623063,
+        "life_div_fpy": 0.0,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "concost": 4132.724657145665,
+        "p_plant_electric_net_mw": 1000.04361704364
+    }
+}
