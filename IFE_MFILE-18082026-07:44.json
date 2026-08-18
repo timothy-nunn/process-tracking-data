@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "07:44",
+        "date": "18/08/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Fix duplicate switch value making Paz-Soldan scaling unselectable \\(#4529\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Fix duplicate switch value making Paz-Soldan scaling unselectable ConfinementTimeModel.PAZ_SOLDAN_NT was assigned 51\\, the same value as NCST\\, making it a silent alias: i_confinement_time=51 dispatched to the NCST scaling and the Paz-Soldan branch in PlasmaConfinementTime.calculate_confinement_time was unreachable. Assign 52\\, matching the documented switch value in documentation/source/physics-models/plasma_confinement.md\\, and add enum.unique so a duplicate value can never silently alias again. Co-Authored-By: Claude Fable 5 \\<noreply@anthropic.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Remove enum tests per review\\; enum.unique alone guards duplicates Co-Authored-By: Claude Fable 5 \\<noreply@anthropic.com\\> --------- Co-authored-by: Claude Fable 5 \\<noreply@anthropic.com\\> ",
+        "commit_hash": "c4ceacb10b76b7f61b07a4213e4f5b6784e1089c"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "life_div_fpy": 0.0,
+        "concost": 4132.724657145665,
+        "cdirt": 2593.4360655623063,
+        "process_runtime": 0.04995369911193848
+    }
+}
