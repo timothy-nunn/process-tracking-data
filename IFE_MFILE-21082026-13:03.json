@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "21/08/2026 UTC",
+        "time": "13:03",
+        "title": "IFE_MFILE",
+        "commit_message": "Expand fitted temperature range of impurities \\(#4521\\) \\(#4547\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Increase array dimensions for impurity radiation data structures from 200 to 600 to accommodate larger datasets. Updated relevant initialisation parameters in \\`impurity_radiation_variables.py\\` and \\`impurity_radiation.py\\`. CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add plotting script for total impurity radiation loss function and update documentation - Introduced \\`impurity_loss_functions.py\\` to plot Line and Bremsstrahlung loss function profiles. - Updated the electron density in plasma radiation documentation from 10\\^19 10\\^20. - Increased the source data points from 200 to 600 and adjusted the fitted temperature range. CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update expected values in unit tests for impurity radiation calculations CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Enhance impurity loss function plotting with varied line styles for better visualization CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor impurity radiation data structures to use a constant for loss function points and update related calculations CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update documentation/source/physics-models/plasma_radiation.md CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Fix impurity path error catching CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking use N_IMPURITIY_LOSS_FUNCTION_POINTS directly instead of \\`table_length\\` alias CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Remove redundant assignment to impurity path --------- Co-authored-by: Christopher Ashe \\<91618944+chris-ashe@users.noreply.github.com\\> ",
+        "commit_hash": "a7c610e4814f69ef1b1521d47be1ed13569caa6d"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "concost": 4132.724657145665,
+        "process_runtime": 0.04608154296875,
+        "life_div_fpy": 0.0,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "cdirt": 2593.4360655623063,
+        "p_fusion_total_mw": 2012.5573655511266
+    }
+}
