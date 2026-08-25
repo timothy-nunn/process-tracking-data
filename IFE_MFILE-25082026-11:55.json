@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "25/08/2026 UTC",
+        "time": "11:55",
+        "title": "IFE_MFILE",
+        "commit_message": "Remove reference to obsolete device.dat \\(#4551\\) ",
+        "commit_hash": "286bf85d393fbd40869c2f8a05233c981b54a10b"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "concost": 4132.724657145665,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "process_runtime": 0.050911903381347656,
+        "life_div_fpy": 0.0,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888
+    }
+}
