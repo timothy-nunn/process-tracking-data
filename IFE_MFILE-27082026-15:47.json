@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "15:47",
+        "date": "27/08/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Move st_init into set_device_type \\(#4564\\) ",
+        "commit_hash": "25079c0185c2fdd48c436552f6d044e0b4f31fa8"
+    },
+    "tracking": {
+        "process_runtime": 0.045238494873046875,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "life_div_fpy": 0.0,
+        "cdirt": 2593.4360655623063,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "concost": 4132.724657145665,
+        "p_plant_electric_gross_mw": 1141.1200262674888
+    }
+}
