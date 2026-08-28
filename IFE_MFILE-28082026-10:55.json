@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "10:55",
+        "date": "28/08/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Remove ref_IN.DAT and use large tokamak in integration tests \\(#4561\\) ",
+        "commit_hash": "11fa9ba8a08feec419ce3e9fa2ef98538d5704a0"
+    },
+    "tracking": {
+        "concost": 4132.724657145665,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "life_div_fpy": 0.0,
+        "process_runtime": 0.04546308517456055,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "cdirt": 2593.4360655623063
+    }
+}
