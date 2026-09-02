@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "11:02",
+        "date": "02/09/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Support a local repository of regression test assets \\(#4560\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Support a local repository of regression test assets CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Improve docs and fix spelling ",
+        "commit_hash": "9f7960cc2d99479003f01dabd389006566a0bdd9"
+    },
+    "tracking": {
+        "cdirt": 2593.4360655623063,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "process_runtime": 0.046243906021118164,
+        "life_div_fpy": 0.0,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "concost": 4132.724657145665,
+        "p_plant_electric_net_mw": 1000.04361704364
+    }
+}
