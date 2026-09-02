@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "10:10",
+        "date": "02/09/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Move data structure-relevant files into appropriate subdirectory \\(#4562\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking move data_structure_dicts\\, obsolete_variables and variable_metadata to process/core/data_structure CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking rename data_structure_dicts.py to dicts.py ",
+        "commit_hash": "e798a184536cb88614c33a9f7975b035ed9b3ea6"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "concost": 4132.724657145665,
+        "life_div_fpy": 0.0,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "process_runtime": 0.04825282096862793,
+        "cdirt": 2593.4360655623063,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_net_mw": 1000.04361704364
+    }
+}
