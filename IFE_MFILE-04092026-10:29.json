@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "10:29",
+        "date": "04/09/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Clarify peak b field error message \\(#4580\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Clarify peak b field error message CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update process/models/pfcoil.py Co-authored-by: clmould \\<86794332+clmould@users.noreply.github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update process/models/pfcoil.py Co-authored-by: clmould \\<86794332+clmould@users.noreply.github.com\\> --------- Co-authored-by: clmould \\<86794332+clmould@users.noreply.github.com\\> ",
+        "commit_hash": "8a6f0af654685195162c593a6a50a721014b40dc"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "process_runtime": 0.030733585357666016,
+        "life_div_fpy": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "concost": 4132.724657145665,
+        "cdirt": 2593.4360655623063
+    }
+}
