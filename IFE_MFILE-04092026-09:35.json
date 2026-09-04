@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "04/09/2026 UTC",
+        "time": "09:35",
+        "title": "IFE_MFILE",
+        "commit_message": "Fix Newman-Raju G22 term in surface crack SIF for a \\> c \\(#4531\\) The a \\> c branch of surface_stress_intensity_factor computed the G22 coefficient as 0.14\\*\\(c/a\\)\\*1.5 where the published Newman-Raju equation \\(and the sibling a \\<= c branch\\) uses 0.14\\*\\(c/a\\)\\*\\*1.5 \u2014 multiplication in place of exponentiation. Currently benign in outputs because bending_stress is hardcoded to zero so H2 never enters the stress intensity factor\\, but wrong the moment bending is enabled. Also adds the previously-missing test coverage of the a \\> c branch\\, with expected K values computed independently from the Newman-Raju equations \\(the existing tests only exercised a \\< c at phi = pi/2\\). Co-authored-by: Claude Fable 5 \\<noreply@anthropic.com\\> ",
+        "commit_hash": "c263b1d2878ca748a5b6d9e05315f35861447d1a"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "cdirt": 2593.4360655623063,
+        "life_div_fpy": 0.0,
+        "concost": 4132.724657145665,
+        "process_runtime": 0.037253379821777344,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_fusion_total_mw": 2012.5573655511266
+    }
+}
