@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "07/09/2026 UTC",
+        "time": "09:46",
+        "title": "IFE_MFILE",
+        "commit_message": "Update platformdirs requirement from \\~=4.10.0 to \\~=4.11.7 \\(#4585\\) Updates the requirements on \\[platformdirs\\]\\(https://github.com/tox-dev/platformdirs\\) to permit the latest version. - \\[Release notes\\]\\(https://github.com/tox-dev/platformdirs/releases\\) - \\[Changelog\\]\\(https://github.com/tox-dev/platformdirs/blob/main/docs/changelog.rst\\) - \\[Commits\\]\\(https://github.com/tox-dev/platformdirs/compare/4.10.0...4.11.7\\) --- updated-dependencies: - dependency-name: platformdirs dependency-version: 4.11.7 dependency-type: direct:development ... Signed-off-by: dependabot\\[bot\\] \\<support@github.com\\> Co-authored-by: dependabot\\[bot\\] \\<49699333+dependabot\\[bot\\]@users.noreply.github.com\\> ",
+        "commit_hash": "1c2af4224016d2544fa69e63117479e991551b47"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "cdirt": 2593.4360655623063,
+        "process_runtime": 0.03233480453491211,
+        "concost": 4132.724657145665,
+        "life_div_fpy": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_fusion_total_mw": 2012.5573655511266
+    }
+}
