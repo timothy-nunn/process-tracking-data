@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "13:35",
+        "date": "07/09/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Update plotly requirement from \\<7\\,\\>=5.15 to \\>=7.0.0\\,\\<8 \\(#4583\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update plotly requirement from \\<7\\,\\>=5.15 to \\>=7.0.0\\,\\<8 Updates the requirements on \\[plotly\\]\\(https://github.com/plotly/plotly.py\\) to permit the latest version. - \\[Release notes\\]\\(https://github.com/plotly/plotly.py/releases\\) - \\[Changelog\\]\\(https://github.com/plotly/plotly.py/blob/main/CHANGELOG.md\\) - \\[Commits\\]\\(https://github.com/plotly/plotly.py/compare/v5.15.0...v7.0.0\\) --- updated-dependencies: - dependency-name: plotly dependency-version: 7.0.0 dependency-type: direct:development ... Signed-off-by: dependabot\\[bot\\] \\<support@github.com\\> CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update pyproject.toml --------- Signed-off-by: dependabot\\[bot\\] \\<support@github.com\\> Co-authored-by: dependabot\\[bot\\] \\<49699333+dependabot\\[bot\\]@users.noreply.github.com\\> Co-authored-by: clmould \\<86794332+clmould@users.noreply.github.com\\> ",
+        "commit_hash": "620d1e9a38f1b3c6d2597956c8556e9ab6c17037"
+    },
+    "tracking": {
+        "process_runtime": 0.04648447036743164,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "life_div_fpy": 0.0,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "cdirt": 2593.4360655623063
+    }
+}
