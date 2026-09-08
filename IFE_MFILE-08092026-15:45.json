@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "15:45",
+        "date": "08/09/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Raise error for invalid number of divertors \\(#4587\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Validate the divertor count before the build calculations execute CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update processvalueerror expression CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking added test to check n_divertors validation is working ",
+        "commit_hash": "25dea1bed5bc8ed63d6a8bd615f91672edc7bd55"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "process_runtime": 0.04415559768676758,
+        "life_div_fpy": 0.0,
+        "cdirt": 2593.4360655623063,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665
+    }
+}
