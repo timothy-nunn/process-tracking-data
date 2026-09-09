@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "09/09/2026 UTC",
+        "time": "08:48",
+        "title": "IFE_MFILE",
+        "commit_message": "Simplify \\`process indat\\` to require explicit indexing of scan points \\(#4552\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Updated feasible_point to search over scan points CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Updated feasible_point to work for scan points other that 1 ",
+        "commit_hash": "add60ca060e8cb5060c9227f183ed79bdcc3d5eb"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "concost": 4132.724657145665,
+        "cdirt": 2593.4360655623063,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "process_runtime": 0.045452117919921875,
+        "life_div_fpy": 0.0
+    }
+}
