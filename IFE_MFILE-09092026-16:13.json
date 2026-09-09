@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "16:13",
+        "date": "09/09/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add generic volume average profile function \\(#4568\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add function to calculate volume average of a radially normalized profile CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add documentation for volume average calculation and update variable name for clarity CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Enhance documentation for calculate_vol_avg_of_profile function\\, adding parameter descriptions and raising conditions CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add profile_dx parameter to calculate_vol_avg_of_profile for customizable spacing CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor FusionReactionRate class to utilize calculate_vol_avg_reactivity function for D-T and D-3He fusion calculations\\, enhancing clarity and maintainability of the code. CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor FusionReactionRate class to streamline reaction rate calculations and utilize calculate_vol_avg_of_profile for improved clarity and maintainability CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking :fire: Remove unused calculate_vol_avg_reactivity function and clean up imports in FusionReactionRate class CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor FusionReactionRate class to improve clarity and maintainability by enhancing variable naming and adding detailed comments for fusion reaction calculations ",
+        "commit_hash": "4618fd4e1f697fae903a175cb048f3beee9d5561"
+    },
+    "tracking": {
+        "life_div_fpy": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "cdirt": 2593.4360655623063,
+        "process_runtime": 0.030520915985107422,
+        "concost": 4132.724657145665,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_plant_electric_gross_mw": 1141.1200262674888
+    }
+}
