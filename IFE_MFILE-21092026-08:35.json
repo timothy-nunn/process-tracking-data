@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "08:35",
+        "date": "21/09/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Bump codecov/codecov-action from 7.0.0 to 7.1.1 \\(#4607\\) Bumps \\[codecov/codecov-action\\]\\(https://github.com/codecov/codecov-action\\) from 7.0.0 to 7.1.1. - \\[Release notes\\]\\(https://github.com/codecov/codecov-action/releases\\) - \\[Changelog\\]\\(https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md\\) - \\[Commits\\]\\(https://github.com/codecov/codecov-action/compare/fb8b3582c8e4def4969c97caa2f19720cb33a72f...303a32d7a59b442fa8d48b6a1cc6825c09c847a5\\) --- updated-dependencies: - dependency-name: codecov/codecov-action dependency-version: 7.1.1 dependency-type: direct:production update-type: version-update:semver-minor ... Signed-off-by: dependabot\\[bot\\] \\<support@github.com\\> Co-authored-by: dependabot\\[bot\\] \\<49699333+dependabot\\[bot\\]@users.noreply.github.com\\> ",
+        "commit_hash": "dbb42d459978ad86e1317e89a700a5dc82f98922"
+    },
+    "tracking": {
+        "p_fusion_total_mw": 2012.5573655511266,
+        "process_runtime": 0.05050492286682129,
+        "cdirt": 2593.4360655623063,
+        "life_div_fpy": 0.0,
+        "concost": 4132.724657145665,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759
+    }
+}
