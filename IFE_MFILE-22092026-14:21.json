@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "22/09/2026 UTC",
+        "time": "14:21",
+        "title": "IFE_MFILE",
+        "commit_message": "Correct daily water-use units in documentation \\(#4601\\) Document evapvol\\, waterusetower\\, wateruserecirc and wateruseonethru in m3/day\\, and the two wastetherm parameters in MJ/day. These units follow from converting rejected heat from MW to MJ/day using SECDAY before multiplying by the evaporated volume per unit energy. Calculations\\, output labels and regression baselines are unchanged. Closes ukaea/PROCESS#4489 ",
+        "commit_hash": "79c2cb61e56e6e962a4b5b26bf5a6dd9f3d84017"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "process_runtime": 0.05191349983215332,
+        "cdirt": 2593.4360655623063,
+        "concost": 4132.724657145665,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "life_div_fpy": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759
+    }
+}
