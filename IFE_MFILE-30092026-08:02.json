@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "08:02",
+        "date": "30/09/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "p_plasma_ohmic_mw used in current_drive before it is calculated \\(#4624\\) ",
+        "commit_hash": "372e02b96eea8bd7ad2e56c85d8113ae5f4a6eaa"
+    },
+    "tracking": {
+        "concost": 4132.724657145665,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "life_div_fpy": 0.0,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "process_runtime": 0.05088973045349121,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "cdirt": 2593.4360655623063
+    }
+}
