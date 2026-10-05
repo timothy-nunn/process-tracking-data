@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "07:44",
+        "date": "05/10/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Bump Fusion-Power-Plant-Framework/fppf-actions/get-workflow-origin \\(#4649\\) Bumps \\[Fusion-Power-Plant-Framework/fppf-actions/get-workflow-origin\\]\\(https://github.com/fusion-power-plant-framework/fppf-actions\\) from f94a8de5f658cf65c79e1f143a7a31fb94a05793 to a6dd369021515269789428796f491a0fa67ea6f5. - \\[Release notes\\]\\(https://github.com/fusion-power-plant-framework/fppf-actions/releases\\) - \\[Commits\\]\\(https://github.com/fusion-power-plant-framework/fppf-actions/compare/f94a8de5f658cf65c79e1f143a7a31fb94a05793...a6dd369021515269789428796f491a0fa67ea6f5\\) --- updated-dependencies: - dependency-name: Fusion-Power-Plant-Framework/fppf-actions/get-workflow-origin dependency-version: a6dd369021515269789428796f491a0fa67ea6f5 dependency-type: direct:production ... Signed-off-by: dependabot\\[bot\\] \\<support@github.com\\> Co-authored-by: dependabot\\[bot\\] \\<49699333+dependabot\\[bot\\]@users.noreply.github.com\\> ",
+        "commit_hash": "3b4b3fc8dab5ed54d2aff2929cc57d520e0c1157"
+    },
+    "tracking": {
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "cdirt": 2593.4360655623063,
+        "concost": 4132.724657145665,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "process_runtime": 0.04690074920654297
+    }
+}
