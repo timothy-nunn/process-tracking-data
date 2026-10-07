@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "07/10/2026 UTC",
+        "time": "09:24",
+        "title": "IFE_MFILE",
+        "commit_message": "Add missing delimiter to the summary PDF filename \\(#4627\\) Co-authored-by: Alexis \\<292251307+bernalalexis-try@users.noreply.github.com\\> ",
+        "commit_hash": "873bdeb7dc4963b1c0870a56b4d49c2b27849fe9"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "process_runtime": 0.03184986114501953,
+        "cdirt": 2593.4360655623063,
+        "concost": 4132.724657145665,
+        "life_div_fpy": 0.0,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "pflux_fw_neutron_mw": 8.900321581918323
+    }
+}
