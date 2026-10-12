@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "12/10/2026 UTC",
+        "time": "15:36",
+        "title": "IFE_MFILE",
+        "commit_message": "Add pure fusion rate profiles \\(#4654\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add fusion rate density profile plotting functionality CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor fusion rate profile plotting to use density profiles and improve integration calculations CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Enhance fusion rate profile plotting with zoom functionality and improved labeling CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update fusion rate density profile labels and axis limits for improved clarity CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update legend position in fusion rate profile plot for better visibility CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking fix fusrat function CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Conditionalize EBW ECRH coupling graph plotting based on current drive model CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add filled contour plot for plasma poloidal pressure in summary plot --------- Co-authored-by: james \\<81617086+je-cook@users.noreply.github.com\\> ",
+        "commit_hash": "31329130c1a4ecb344d1c665a821d93e3abd6b3e"
+    },
+    "tracking": {
+        "cdirt": 2593.4360655623063,
+        "life_div_fpy": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "process_runtime": 0.0427858829498291,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "concost": 4132.724657145665,
+        "pflux_fw_neutron_mw": 8.900321581918323
+    }
+}
