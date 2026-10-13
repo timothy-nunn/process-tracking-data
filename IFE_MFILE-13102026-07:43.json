@@ -1,20 +1,20 @@
 {
     "meta": {
-        "date": "13/10/2026 UTC",
         "time": "07:43",
+        "date": "13/10/2026 UTC",
         "title": "IFE_MFILE",
-        "commit_message": "Reduce duplication in CICC turn geometry dataclasses \\(#4612\\) Make CICCIntegerTurnGeometry inherit its shared fields from CICCAveragedTurnGeometry. Retain the four integer-specific dimensions and slots=True. Extend the integer-geometry tests to check effective cable-space area and cooling fraction with and without cooling space. Positional constructor argument order changes\\; repository callers use keyword arguments. Calculations are unchanged. Closes ukaea/PROCESS#4600 ",
-        "commit_hash": "e0a78f7180d94b2ba26d349417f706ec8c7942d6"
+        "commit_message": "Bump actions/download-artifact from 8.0.1 to 8.0.2 \\(#4677\\) Bumps \\[actions/download-artifact\\]\\(https://github.com/actions/download-artifact\\) from 8.0.1 to 8.0.2. - \\[Release notes\\]\\(https://github.com/actions/download-artifact/releases\\) - \\[Commits\\]\\(https://github.com/actions/download-artifact/compare/3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c...9000827ccba6bdab643e8b6fd33ac0654aef8333\\) --- updated-dependencies: - dependency-name: actions/download-artifact dependency-version: 8.0.2 dependency-type: direct:production update-type: version-update:semver-patch ... Signed-off-by: dependabot\\[bot\\] \\<support@github.com\\> Co-authored-by: dependabot\\[bot\\] \\<49699333+dependabot\\[bot\\]@users.noreply.github.com\\> ",
+        "commit_hash": "81a7ffdc0c2abcfc3acc1048cce31433d6fb4ad2"
     },
     "tracking": {
-        "concost": 4132.724657145665,
         "pflux_fw_neutron_mw": 8.900321581918323,
-        "cdirt": 2593.4360655623063,
-        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_fusion_total_mw": 2012.5573655511266,
         "life_div_fpy": 0.0,
         "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
-        "process_runtime": 0.028815746307373047,
-        "p_fusion_total_mw": 2012.5573655511266,
-        "p_plant_electric_net_mw": 1000.04361704364
+        "concost": 4132.724657145665,
+        "cdirt": 2593.4360655623063,
+        "process_runtime": 0.03988218307495117,
+        "p_plant_electric_gross_mw": 1141.1200262674888
     }
 }
