@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "14/10/2026 UTC",
+        "time": "14:42",
+        "title": "IFE_MFILE",
+        "commit_message": "Update matplotlib version to new requirement \\(#4681\\) ",
+        "commit_hash": "d7d181e7bec5a92103a2315efe47301aea8406ec"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "concost": 4132.724657145665,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "process_runtime": 0.04324841499328613,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "cdirt": 2593.4360655623063
+    }
+}
