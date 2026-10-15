@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "15/10/2026 UTC",
+        "time": "12:34",
+        "title": "IFE_MFILE",
+        "commit_message": "Griffe getting confused by tuple\\[np.ndarray\\, ...\\] \\(#4682\\) ",
+        "commit_hash": "effd7f17b7bdcbbfd0e684b1e8d302bfde838843"
+    },
+    "tracking": {
+        "life_div_fpy": 0.0,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "concost": 4132.724657145665,
+        "process_runtime": 0.041028738021850586,
+        "cdirt": 2593.4360655623063,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_net_mw": 1000.04361704364
+    }
+}
