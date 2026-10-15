@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "12:16",
+        "date": "15/10/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Add CS alpha and beta \\(#4670\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add new parameters for central solenoid radius ratios in PFCoilData CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add outer-to-inner radius and height-to-inner radius ratios to CS coil model CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Add ratios of outer to inner radius and solenoid height to inner radius in CS coil model CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Refactor CS coil height calculations for clarity and consistency CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Post rebase fixes CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update test_brookscoil to include additional parameters and remove zero thickness case ",
+        "commit_hash": "d1f651a98c1027f05dcf9f9ec88697e3b02ae18c"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "cdirt": 2593.4360655623063,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "process_runtime": 0.022266149520874023,
+        "life_div_fpy": 0.0
+    }
+}
