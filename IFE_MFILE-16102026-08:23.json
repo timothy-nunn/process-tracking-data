@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "16/10/2026 UTC",
+        "time": "08:23",
+        "title": "IFE_MFILE",
+        "commit_message": "Update large tokamak regression tests to ensure beam fraction of CD is not 0 \\(#4691\\) ",
+        "commit_hash": "db9f377c1ff7e4f96a68da4f1074ca1874550c84"
+    },
+    "tracking": {
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "concost": 4132.724657145665,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "life_div_fpy": 0.0,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "process_runtime": 0.043724775314331055,
+        "cdirt": 2593.4360655623063
+    }
+}
