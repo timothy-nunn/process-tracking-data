@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "12:13",
+        "date": "16/10/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Avoid eta cd dimensionless hcd primary nan when p hcd primary injected mw 0 \\(#4694\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking calculate dimensionless current drive efficiency directly from absolute efficiency CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Update unit test for dimensionless current drive efficiency ",
+        "commit_hash": "493ed99c124e9d40d435dc365336e982601836b4"
+    },
+    "tracking": {
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "cdirt": 2593.4360655623063,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "life_div_fpy": 0.0,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "process_runtime": 0.0445096492767334
+    }
+}
