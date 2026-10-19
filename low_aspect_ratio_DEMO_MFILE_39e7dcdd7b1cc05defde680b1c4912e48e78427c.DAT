@@ -3,8 +3,8 @@
 # PROCESS #
 # Power Reactor Optimisation Code #
 PROCESS_version__________________________________________________________ (procver)______________________ "0.0.1.dev1+g39e7dcdd7" 
-Date_of_run______________________________________________________________ (date)_________________________ "16/10/2026 UTC" 
-Time_of_run______________________________________________________________ (time)_________________________      "13:50" 
+Date_of_run______________________________________________________________ (date)_________________________ "19/10/2026 UTC" 
+Time_of_run______________________________________________________________ (time)_________________________      "07:15" 
 User_____________________________________________________________________ (username)_____________________     "runner" 
 PROCESS_run_title________________________________________________________ (runtitle)_____________________ "EU-DEMO LAR 2023 baseline" 
 PROCESS_git_tag__________________________________________________________ (tagno)________________________           "" 
@@ -241,7 +241,7 @@ CS_achievable_stress_load_cycles_lower_limit____________physical_value___ (ineq_
 CS_achievable_stress_load_cycles_lower_limit____________symbol___________ (ineq_symbol_con090)___________         '>=' 
 CS_achievable_stress_load_cycles_lower_limit____________units____________ (ineq_units_con090)____________           '' 
 CS_achievable_stress_load_cycles_lower_limit____________physical_bound___ (ineq_bound_con090)____________ 3.53460891087668642e+04 
-Runtime_of_PROCESS_in_seconds____________________________________________ (process_runtime)______________ 1.83806563138961792e+02 
+Runtime_of_PROCESS_in_seconds____________________________________________ (process_runtime)______________ 1.87107097387313843e+02 
 # Final Feasible Point #
 # Plant Availability #
 Allowable_blanket_neutron_fluence_(MW-yr/m2)_____________________________ (abktflnc)_____________________ 1.50000000000000000e+01 
