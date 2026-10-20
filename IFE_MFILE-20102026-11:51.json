@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "11:51",
+        "date": "20/10/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Scale constraint 93 to have residual in Z.particles/s \\(#4702\\) ",
+        "commit_hash": "bb87b1095ca9cce586c8f276f36c32a56292f5af"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "life_div_fpy": 0.0,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "process_runtime": 0.041052818298339844,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "concost": 4132.724657145665,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_gross_mw": 1141.1200262674888
+    }
+}
