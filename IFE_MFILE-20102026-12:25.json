@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "20/10/2026 UTC",
+        "time": "12:25",
+        "title": "IFE_MFILE",
+        "commit_message": "Add removed beta variables to obsolete variables \\(#4701\\) ",
+        "commit_hash": "0b69cfc8e086b65d607b6439c3ac7141d9abb836"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "cdirt": 2593.4360655623063,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "process_runtime": 0.039882659912109375,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "life_div_fpy": 0.0,
+        "concost": 4132.724657145665
+    }
+}
