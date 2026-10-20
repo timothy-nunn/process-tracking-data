@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "10:56",
+        "date": "20/10/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Fall back to 1mm outboard SOL power decay in plotting \\(#4621\\) ",
+        "commit_hash": "9d9833019b4f5d19bbbc5cd6ef3f7fecfa8b6baa"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "cdirt": 2593.4360655623063,
+        "process_runtime": 0.03256964683532715,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "concost": 4132.724657145665,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "life_div_fpy": 0.0
+    }
+}
