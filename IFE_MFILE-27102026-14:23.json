@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "27/10/2026 UTC",
+        "time": "14:23",
+        "title": "IFE_MFILE",
+        "commit_message": "Use biome for yaml formatting \\(#4714\\) ",
+        "commit_hash": "1fcc5ab57830982c322401828f4ffc2d805940cb"
+    },
+    "tracking": {
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "life_div_fpy": 0.0,
+        "cdirt": 2593.4360655623063,
+        "concost": 4132.724657145665,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "process_runtime": 0.02902078628540039,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_fusion_total_mw": 2012.5573655511266
+    }
+}
