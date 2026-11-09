@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "09/11/2026 UTC",
+        "time": "11:16",
+        "title": "IFE_MFILE",
+        "commit_message": "Fix spacing and layout adjustments in summary plots \\(#4739\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Fix spacing and layout adjustments in summary plots CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking Fix spacing adjustments in plasma summary plots ",
+        "commit_hash": "289a2661407cc25d39cdce57057d50e87ca601fc"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_gross_mw": 1141.1200262674888,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "concost": 4132.724657145665,
+        "cdirt": 2593.4360655623063,
+        "process_runtime": 0.04072284698486328,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "life_div_fpy": 0.0,
+        "pflux_fw_neutron_mw": 8.900321581918323
+    }
+}
