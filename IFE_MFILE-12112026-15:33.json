@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "date": "12/11/2026 UTC",
+        "time": "15:33",
+        "title": "IFE_MFILE",
+        "commit_message": "Test directly for PDF existence in test_plot_summary \\(#4747\\) ",
+        "commit_hash": "45fccb50a01fab3945a5dfb61592ba67880e2ce3"
+    },
+    "tracking": {
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "process_runtime": 0.02263331413269043,
+        "cdirt": 2593.4360655623063,
+        "life_div_fpy": 0.0,
+        "concost": 4132.724657145665,
+        "p_plant_electric_gross_mw": 1141.1200262674888
+    }
+}
