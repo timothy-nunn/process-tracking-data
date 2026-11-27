@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "time": "13:13",
+        "date": "27/11/2026 UTC",
+        "title": "IFE_MFILE",
+        "commit_message": "Input init restructure \\(#4763\\) CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking rename run_summary to write_outfile_header CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking rename init.py to check_input.py CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking move check_input.py to core/data_structure/ CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking restructure init.py and input.py into core/data_structure/ CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking fix pre-commit error CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking remove unused type import CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking review comment changes CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking fix unit test failures due to turn_off_check_process CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking fix test_data_structure test failure CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking set update_obsolete to False in init_process calls in test_input CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking correct reference to check_process\\, and rename test file CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking move type hints to fn signature and remove unnecessary Raises CITATION.cff CODEOWNERS CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE.txt README.md documentation examples mkdocs.yml postBuild process process-tracking-data pyproject.toml tests tracking block disable TC001 ",
+        "commit_hash": "981bd31cc49783742897d1fd804aa15e2fa84b74"
+    },
+    "tracking": {
+        "process_runtime": 0.025358915328979492,
+        "cdirt": 2593.4360655623063,
+        "p_blkt_nuclear_heat_total_mw": 1927.224933251759,
+        "pflux_fw_neutron_mw": 8.900321581918323,
+        "life_div_fpy": 0.0,
+        "concost": 4132.724657145665,
+        "p_fusion_total_mw": 2012.5573655511266,
+        "p_plant_electric_net_mw": 1000.04361704364,
+        "p_plant_electric_gross_mw": 1141.1200262674888
+    }
+}
